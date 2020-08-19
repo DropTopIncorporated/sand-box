@@ -20,4 +20,7 @@ describe('sand-box routes', () => {
     await mongoose.connection.close();
     return mongod.stop();
   });
+  it('will pass the test', () => {
+    
+  })
 });

@@ -2,6 +2,8 @@ const puppeteer = require('puppeteer');
 const request = require('superagent');
 const fs = require('fs');
 const fetch = require('node-fetch');
+const newData = require('./gumtree.json');
+const nodemon = require('nodemon');
 
 const CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
 
@@ -25,6 +27,18 @@ const drops = () => {
     });
 };
 
+const filterArray = array => {
+  return array.map(item =>{
+    return console.log(item.data.directoriesWithTags['edges'].filter(item => item.node.activeDropCampaigns.length > 0));
+    // return item.data.directoriesWithTags['edges'].node.displayName
+    // if(item === array.displayName) return item
+    // if(item === data.edges['node'].avatarURL) return item
+    // if(item === data.edges['node'].displayName) return item
+  // })
+  }
+  );
+};
+
 // const drops = async() => {
 //   const browser = await puppeteer.launch({ headless: false });
 //   const page = await browser.newPage();
@@ -46,4 +60,8 @@ const drops = () => {
 //     });
 // };
 
-drops();
+// drops();
+
+
+const newArray = newData;
+filterArray(newData);

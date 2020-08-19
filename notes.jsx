@@ -9,3 +9,6 @@
 [{"operationName":"BrowsePage_AllDirectories","variables":{"limit":250,"options":{"recommendationsContext":{"platform":"web"},"requestID":"JIRA-VXP-2397","sort":"VIEWER_COUNT","tags":[]},"cursor":"eyJvZmYiOjIwOCwiYmxrIjowLCJzdWIiOnsiMSI6eyJvZmYiOjEwMCwidG90IjoxMDB9LCIyIjp7Im9mZiI6MTgyLCJ0b3QiOjMyOSwiY3VyIjoiZXlKeklqb3hPRElzSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCIzIjp7Im9mZiI6MCwidG90IjowfX19"},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"78957de9388098820e222c88ec14e85aaf6cf844adf44c8319c545c75fd63203"}}}]
 
 ^^ this gets us the games that have viewers/streams for that game live 
+
+
+

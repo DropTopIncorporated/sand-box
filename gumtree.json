@@ -11,7 +11,7 @@
               "displayName": "Just Chatting",
               "name": "Just Chatting",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Chatting-285x380.jpg",
-              "viewersCount": 286174,
+              "viewersCount": 299776,
               "tags": [
                 {
                   "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
@@ -34,7 +34,7 @@
               "displayName": "Fall Guys",
               "name": "Fall Guys",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fall%20Guys-285x380.jpg",
-              "viewersCount": 242091,
+              "viewersCount": 233195,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
@@ -71,7 +71,7 @@
               "displayName": "Call of Duty: Modern Warfare",
               "name": "Call of Duty: Modern Warfare",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-285x380.jpg",
-              "viewersCount": 184940,
+              "viewersCount": 217933,
               "tags": [
                 {
                   "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
@@ -103,64 +103,11 @@
             "cursor": "eyJzIjo0LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
             "trackingID": null,
             "node": {
-              "id": "32399",
-              "displayName": "Counter-Strike: Global Offensive",
-              "name": "Counter-Strike: Global Offensive",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Counter-Strike:%20Global%20Offensive-285x380.jpg",
-              "viewersCount": 175517,
-              "tags": [
-                {
-                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
-                  "isLanguageTag": false,
-                  "localizedName": "FPS",
-                  "tagName": "FPS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
-            "trackingID": null,
-            "node": {
-              "id": "21779",
-              "displayName": "League of Legends",
-              "name": "League of Legends",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-285x380.jpg",
-              "viewersCount": 171842,
-              "tags": [
-                {
-                  "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
-                  "isLanguageTag": false,
-                  "localizedName": "MOBA",
-                  "tagName": "MOBA",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
-            "trackingID": null,
-            "node": {
               "id": "32982",
               "displayName": "Grand Theft Auto V",
               "name": "Grand Theft Auto V",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-285x380.jpg",
-              "viewersCount": 156513,
+              "viewersCount": 202933,
               "tags": [
                 {
                   "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
@@ -204,15 +151,75 @@
             "__typename": "GameEdge"
           },
           {
+            "cursor": "eyJzIjo1LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+            "trackingID": null,
+            "node": {
+              "id": "21779",
+              "displayName": "League of Legends",
+              "name": "League of Legends",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-285x380.jpg",
+              "viewersCount": 178035,
+              "tags": [
+                {
+                  "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
+                  "isLanguageTag": false,
+                  "localizedName": "MOBA",
+                  "tagName": "MOBA",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+            "trackingID": null,
+            "node": {
+              "id": "7193",
+              "displayName": "Microsoft Flight Simulator",
+              "name": "Microsoft Flight Simulator",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Microsoft%20Flight%20Simulator-285x380.jpg",
+              "viewersCount": 169405,
+              "tags": [
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "10d820bb-a0a9-40df-b0d3-fe32b45419ee",
+                  "isLanguageTag": false,
+                  "localizedName": "Flight Simulator",
+                  "tagName": "Flight Simulator",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
             "cursor": "eyJzIjo3LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
             "trackingID": null,
             "node": {
-              "id": "33214",
-              "displayName": "Fortnite",
-              "name": "Fortnite",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-285x380.jpg",
-              "viewersCount": 147584,
+              "id": "32399",
+              "displayName": "Counter-Strike: Global Offensive",
+              "name": "Counter-Strike: Global Offensive",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Counter-Strike:%20Global%20Offensive-285x380.jpg",
+              "viewersCount": 147747,
               "tags": [
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                },
                 {
                   "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
                   "isLanguageTag": false,
@@ -234,7 +241,7 @@
               "displayName": "Apex Legends",
               "name": "Apex Legends",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Apex%20Legends-285x380.jpg",
-              "viewersCount": 142455,
+              "viewersCount": 116455,
               "tags": [
                 {
                   "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
@@ -260,11 +267,34 @@
             "cursor": "eyJzIjo5LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
             "trackingID": null,
             "node": {
+              "id": "33214",
+              "displayName": "Fortnite",
+              "name": "Fortnite",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-285x380.jpg",
+              "viewersCount": 113687,
+              "tags": [
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoxMCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
               "id": "516915",
               "displayName": "Mortal Shell",
               "name": "Mortal Shell",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Mortal%20Shell-285x380.jpg",
-              "viewersCount": 112920,
+              "viewersCount": 107569,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
@@ -287,64 +317,27 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoxMCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "7193",
-              "displayName": "Microsoft Flight Simulator",
-              "name": "Microsoft Flight Simulator",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Microsoft%20Flight%20Simulator-285x380.jpg",
-              "viewersCount": 93033,
-              "tags": [
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "10d820bb-a0a9-40df-b0d3-fe32b45419ee",
-                  "isLanguageTag": false,
-                  "localizedName": "Flight Simulator",
-                  "tagName": "Flight Simulator",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
             "cursor": "eyJzIjoxMSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "505991",
-              "displayName": "Bloodstained: Curse of the Moon",
-              "name": "Bloodstained: Curse of the Moon",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Bloodstained:%20Curse%20of%20the%20Moon-285x380.jpg",
-              "viewersCount": 80734,
+              "id": "18122",
+              "displayName": "World of Warcraft",
+              "name": "World of Warcraft",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-285x380.jpg",
+              "viewersCount": 95167,
               "tags": [
                 {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
                   "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
                   "__typename": "Tag"
                 },
                 {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
                   "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
-                  "isLanguageTag": false,
-                  "localizedName": "Platformer",
-                  "tagName": "Platformer",
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
                   "__typename": "Tag"
                 }
               ],
@@ -357,34 +350,11 @@
             "cursor": "eyJzIjoxMiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "29595",
-              "displayName": "Dota 2",
-              "name": "Dota 2",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-285x380.jpg",
-              "viewersCount": 72768,
-              "tags": [
-                {
-                  "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
-                  "isLanguageTag": false,
-                  "localizedName": "MOBA",
-                  "tagName": "MOBA",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoxMywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
               "id": "27471",
               "displayName": "Minecraft",
               "name": "Minecraft",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-285x380.jpg",
-              "viewersCount": 71819,
+              "viewersCount": 85880,
               "tags": [
                 {
                   "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
@@ -414,6 +384,29 @@
             "__typename": "GameEdge"
           },
           {
+            "cursor": "eyJzIjoxMywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "6186",
+              "displayName": "Disney's Extreme Skate Adventure",
+              "name": "Disney's Extreme Skate Adventure",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Disney%27s%20Extreme%20Skate%20Adventure-285x380.jpg",
+              "viewersCount": 78067,
+              "tags": [
+                {
+                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
+                  "isLanguageTag": false,
+                  "localizedName": "Sports Game",
+                  "tagName": "Sports Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
             "cursor": "eyJzIjoxNCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
@@ -421,7 +414,7 @@
               "displayName": "VALORANT",
               "name": "VALORANT",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-285x380.jpg",
-              "viewersCount": 65332,
+              "viewersCount": 55300,
               "tags": [
                 {
                   "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
@@ -447,11 +440,161 @@
             "cursor": "eyJzIjoxNSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
+              "id": "29595",
+              "displayName": "Dota 2",
+              "name": "Dota 2",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dota%202-285x380.jpg",
+              "viewersCount": 49342,
+              "tags": [
+                {
+                  "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
+                  "isLanguageTag": false,
+                  "localizedName": "MOBA",
+                  "tagName": "MOBA",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoxNiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "5492",
+              "displayName": "Diablo",
+              "name": "Diablo",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Diablo-285x380.jpg",
+              "viewersCount": 45385,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cad488fb-c95c-4be1-b197-5b851d3a12fa",
+                  "isLanguageTag": false,
+                  "localizedName": "Roguelike",
+                  "tagName": "Roguelike",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "isLanguageTag": false,
+                  "localizedName": "Horror",
+                  "tagName": "Horror",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoxNywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "510218",
+              "displayName": "Among Us",
+              "name": "Among Us",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Among%20Us-285x380.jpg",
+              "viewersCount": 40667,
+              "tags": [
+                {
+                  "id": "7616f6ea-7e3d-4501-a87c-c160d2bc1849",
+                  "isLanguageTag": false,
+                  "localizedName": "Puzzle",
+                  "tagName": "Puzzle",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoxOCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "491487",
+              "displayName": "Dead by Daylight",
+              "name": "Dead by Daylight",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20by%20Daylight-285x380.jpg",
+              "viewersCount": 36125,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "isLanguageTag": false,
+                  "localizedName": "Horror",
+                  "tagName": "Horror",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoxOSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "498566",
+              "displayName": "Slots",
+              "name": "Slots",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Slots-285x380.jpg",
+              "viewersCount": 35839,
+              "tags": [
+                {
+                  "id": "71265475-e0b0-411e-a0cf-b93c33848b2b",
+                  "isLanguageTag": false,
+                  "localizedName": "Gambling Game",
+                  "tagName": "Gambling Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoyMCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
               "id": "514194",
               "displayName": "Rogue Company",
               "name": "Rogue Company",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Company-285x380.jpg",
-              "viewersCount": 57795,
+              "viewersCount": 35455,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
@@ -1942,156 +2085,20 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoxNiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjoyMSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "18122",
-              "displayName": "World of Warcraft",
-              "name": "World of Warcraft",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warcraft-285x380.jpg",
-              "viewersCount": 53795,
-              "tags": [
-                {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
-                  "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoxNywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "743",
-              "displayName": "Chess",
-              "name": "Chess",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Chess-285x380.jpg",
-              "viewersCount": 48185,
+              "id": "138585",
+              "displayName": "Hearthstone",
+              "name": "Hearthstone",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-285x380.jpg",
+              "viewersCount": 33413,
               "tags": [
                 {
                   "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
                   "isLanguageTag": false,
                   "localizedName": "Card & Board Game",
                   "tagName": "Card & Board Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoxOCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "491487",
-              "displayName": "Dead by Daylight",
-              "name": "Dead by Daylight",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20by%20Daylight-285x380.jpg",
-              "viewersCount": 45284,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
-                  "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoyMCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "510218",
-              "displayName": "Among Us",
-              "name": "Among Us",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Among%20Us-285x380.jpg",
-              "viewersCount": 33697,
-              "tags": [
-                {
-                  "id": "7616f6ea-7e3d-4501-a87c-c160d2bc1849",
-                  "isLanguageTag": false,
-                  "localizedName": "Puzzle",
-                  "tagName": "Puzzle",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoyMSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "498566",
-              "displayName": "Slots",
-              "name": "Slots",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Slots-285x380.jpg",
-              "viewersCount": 28526,
-              "tags": [
-                {
-                  "id": "71265475-e0b0-411e-a0cf-b93c33848b2b",
-                  "isLanguageTag": false,
-                  "localizedName": "Gambling Game",
-                  "tagName": "Gambling Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoyMiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "512923",
-              "displayName": "Baldur's Gate 3",
-              "name": "Baldur's Gate 3",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Baldur%27s%20Gate%203-285x380.jpg",
-              "viewersCount": 28135,
-              "tags": [
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
                   "__typename": "Tag"
                 }
               ],
@@ -2104,34 +2111,11 @@
             "cursor": "eyJzIjoyMywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "138585",
-              "displayName": "Hearthstone",
-              "name": "Hearthstone",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hearthstone-285x380.jpg",
-              "viewersCount": 27619,
-              "tags": [
-                {
-                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
-                  "isLanguageTag": false,
-                  "localizedName": "Card & Board Game",
-                  "tagName": "Card & Board Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoyNCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
               "id": "491931",
               "displayName": "Escape From Tarkov",
               "name": "Escape From Tarkov",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Escape%20From%20Tarkov-285x380.jpg",
-              "viewersCount": 26189,
+              "viewersCount": 22669,
               "tags": [
                 {
                   "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
@@ -2161,14 +2145,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoyNSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjoyNCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "493057",
-              "displayName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
-              "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/PLAYERUNKNOWN%27S%20BATTLEGROUNDS-285x380.jpg",
-              "viewersCount": 22823,
+              "id": "66170",
+              "displayName": "Warframe",
+              "name": "Warframe",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Warframe-285x380.jpg",
+              "viewersCount": 21596,
               "tags": [
                 {
                   "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
@@ -2178,10 +2162,17 @@
                   "__typename": "Tag"
                 },
                 {
-                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
                   "isLanguageTag": false,
-                  "localizedName": "FPS",
-                  "tagName": "FPS",
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
                   "__typename": "Tag"
                 }
               ],
@@ -2191,14 +2182,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoyNiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjoyNSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "26936",
               "displayName": "Music",
               "name": "Music",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Music-285x380.jpg",
-              "viewersCount": 20555,
+              "viewersCount": 21433,
               "tags": [
                 {
                   "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
@@ -2228,37 +2219,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoyNywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "417752",
-              "displayName": "Talk Shows & Podcasts",
-              "name": "Talk Shows & Podcasts",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Talk%20Shows%20&%20Podcasts-285x380.jpg",
-              "viewersCount": 19555,
-              "tags": [
-                {
-                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
-                  "isLanguageTag": false,
-                  "localizedName": "IRL",
-                  "tagName": "IRL",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjoyOCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjoyNiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "488552",
               "displayName": "Overwatch",
               "name": "Overwatch",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-285x380.jpg",
-              "viewersCount": 19154,
+              "viewersCount": 17896,
               "tags": [
                 {
                   "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
@@ -2288,37 +2256,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoyOSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjoyNywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "512804",
-              "displayName": "FIFA 20",
-              "name": "FIFA 20",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-285x380.jpg",
-              "viewersCount": 17139,
-              "tags": [
-                {
-                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
-                  "isLanguageTag": false,
-                  "localizedName": "Sports Game",
-                  "tagName": "Sports Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjozMCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "497057",
-              "displayName": "Destiny 2",
-              "name": "Destiny 2",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202-285x380.jpg",
-              "viewersCount": 16136,
+              "id": "518306",
+              "displayName": "Hyper Scape",
+              "name": "Hyper Scape",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hyper%20Scape-285x380.jpg",
+              "viewersCount": 16981,
               "tags": [
                 {
                   "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
@@ -2333,13 +2278,6 @@
                   "localizedName": "Shooter",
                   "tagName": "Shooter",
                   "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
                 }
               ],
               "activeDropCampaigns": [],
@@ -2348,14 +2286,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjozMSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjoyOCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "460630",
               "displayName": "Tom Clancy's Rainbow Six: Siege",
               "name": "Tom Clancy's Rainbow Six: Siege",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Tom%20Clancy%27s%20Rainbow%20Six:%20Siege-285x380.jpg",
-              "viewersCount": 14008,
+              "viewersCount": 16222,
               "tags": [
                 {
                   "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
@@ -2891,14 +2829,231 @@
             "__typename": "GameEdge"
           },
           {
+            "cursor": "eyJzIjoyOSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "488190",
+              "displayName": "Poker",
+              "name": "Poker",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-285x380.jpg",
+              "viewersCount": 14838,
+              "tags": [
+                {
+                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
+                  "isLanguageTag": false,
+                  "localizedName": "Card & Board Game",
+                  "tagName": "Card & Board Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjozMCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "743",
+              "displayName": "Chess",
+              "name": "Chess",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Chess-285x380.jpg",
+              "viewersCount": 12813,
+              "tags": [
+                {
+                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
+                  "isLanguageTag": false,
+                  "localizedName": "Card & Board Game",
+                  "tagName": "Card & Board Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjozMSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "509660",
+              "displayName": "Art",
+              "name": "Art",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Art-285x380.jpg",
+              "viewersCount": 11631,
+              "tags": [
+                {
+                  "id": "e36d0169-268a-4c62-a4f4-ddf61a0b3ae4",
+                  "isLanguageTag": false,
+                  "localizedName": "Creative",
+                  "tagName": "Creative",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
             "cursor": "eyJzIjozMiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "65654",
+              "displayName": "The Elder Scrolls Online",
+              "name": "The Elder Scrolls Online",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Elder%20Scrolls%20Online-285x380.jpg",
+              "viewersCount": 10625,
+              "tags": [
+                {
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "isLanguageTag": false,
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "0472bab0-e068-49b3-9bb8-789fdfe3c66a",
+                  "isLanguageTag": false,
+                  "localizedName": "Stealth",
+                  "tagName": "Stealth",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                  "isLanguageTag": false,
+                  "localizedName": "Open World",
+                  "tagName": "Open World",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjozMywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "493057",
+              "displayName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+              "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/PLAYERUNKNOWN%27S%20BATTLEGROUNDS-285x380.jpg",
+              "viewersCount": 10289,
+              "tags": [
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjozNCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "518711",
+              "displayName": "EA Sports UFC 4",
+              "name": "EA Sports UFC 4",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/EA%20Sports%20UFC%204-285x380.jpg",
+              "viewersCount": 10274,
+              "tags": [
+                {
+                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
+                  "isLanguageTag": false,
+                  "localizedName": "Sports Game",
+                  "tagName": "Sports Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9751ee1d-0e5a-4fd3-8e9f-bc3c5d3230f0",
+                  "isLanguageTag": false,
+                  "localizedName": "Fighting",
+                  "tagName": "Fighting",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjozNSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "497057",
+              "displayName": "Destiny 2",
+              "name": "Destiny 2",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202-285x380.jpg",
+              "viewersCount": 9586,
+              "tags": [
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjozNiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "513143",
               "displayName": "Teamfight Tactics",
               "name": "Teamfight Tactics",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Teamfight%20Tactics-285x380.jpg",
-              "viewersCount": 13175,
+              "viewersCount": 9486,
               "tags": [
                 {
                   "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
@@ -2935,20 +3090,20 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjozMywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjozNywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "509660",
-              "displayName": "Art",
-              "name": "Art",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Art-285x380.jpg",
-              "viewersCount": 11048,
+              "id": "509659",
+              "displayName": "ASMR",
+              "name": "ASMR",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/ASMR-285x380.jpg",
+              "viewersCount": 9286,
               "tags": [
                 {
-                  "id": "e36d0169-268a-4c62-a4f4-ddf61a0b3ae4",
+                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
                   "isLanguageTag": false,
-                  "localizedName": "Creative",
-                  "tagName": "Creative",
+                  "localizedName": "IRL",
+                  "tagName": "IRL",
                   "__typename": "Tag"
                 }
               ],
@@ -2958,88 +3113,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjozNCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "31908",
-              "displayName": "LEGO City Undercover",
-              "name": "LEGO City Undercover",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20City%20Undercover-285x380.jpg",
-              "viewersCount": 10100,
-              "tags": [
-                {
-                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
-                  "isLanguageTag": false,
-                  "localizedName": "Driving/Racing Game",
-                  "tagName": "Driving/Racing Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
-                  "isLanguageTag": false,
-                  "localizedName": "Platformer",
-                  "tagName": "Platformer",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjozNSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "2748",
-              "displayName": "Magic: The Gathering",
-              "name": "Magic: The Gathering",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Magic:%20The%20Gathering-285x380.jpg",
-              "viewersCount": 9582,
-              "tags": [
-                {
-                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
-                  "isLanguageTag": false,
-                  "localizedName": "Card & Board Game",
-                  "tagName": "Card & Board Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjozNiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjozOCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "30921",
               "displayName": "Rocket League",
               "name": "Rocket League",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Rocket%20League-285x380.jpg",
-              "viewersCount": 9579,
+              "viewersCount": 8629,
               "tags": [
                 {
                   "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
@@ -3069,34 +3150,20 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjozNywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjozOSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "27546",
-              "displayName": "World of Tanks",
-              "name": "World of Tanks",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Tanks-285x380.jpg",
-              "viewersCount": 9119,
+              "id": "512988",
+              "displayName": "Age of Empires II: Definitive Edition",
+              "name": "Age of Empires II: Definitive Edition",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Age%20of%20Empires%20II:%20Definitive%20Edition-285x380.jpg",
+              "viewersCount": 8492,
               "tags": [
                 {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
                   "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
-                  "isLanguageTag": false,
-                  "localizedName": "Driving/Racing Game",
-                  "tagName": "Driving/Racing Game",
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
                   "__typename": "Tag"
                 }
               ],
@@ -3106,14 +3173,37 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjozOCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo0MCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "488190",
-              "displayName": "Poker",
-              "name": "Poker",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Poker-285x380.jpg",
-              "viewersCount": 9062,
+              "id": "459931",
+              "displayName": "Old School RuneScape",
+              "name": "Old School RuneScape",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Old%20School%20RuneScape-285x380.jpg",
+              "viewersCount": 8181,
+              "tags": [
+                {
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "isLanguageTag": false,
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo0MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "2748",
+              "displayName": "Magic: The Gathering",
+              "name": "Magic: The Gathering",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Magic:%20The%20Gathering-285x380.jpg",
+              "viewersCount": 8015,
               "tags": [
                 {
                   "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
@@ -3129,41 +3219,20 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjozOSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo0MiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "65654",
-              "displayName": "The Elder Scrolls Online",
-              "name": "The Elder Scrolls Online",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Elder%20Scrolls%20Online-285x380.jpg",
-              "viewersCount": 8132,
+              "id": "417752",
+              "displayName": "Talk Shows & Podcasts",
+              "name": "Talk Shows & Podcasts",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Talk%20Shows%20&%20Podcasts-285x380.jpg",
+              "viewersCount": 7523,
               "tags": [
                 {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
                   "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "0472bab0-e068-49b3-9bb8-789fdfe3c66a",
-                  "isLanguageTag": false,
-                  "localizedName": "Stealth",
-                  "tagName": "Stealth",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
+                  "localizedName": "IRL",
+                  "tagName": "IRL",
                   "__typename": "Tag"
                 }
               ],
@@ -3173,44 +3242,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo0MCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "518306",
-              "displayName": "Hyper Scape",
-              "name": "Hyper Scape",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Hyper%20Scape-285x380.jpg",
-              "viewersCount": 8044,
-              "tags": [
-                {
-                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
-                  "isLanguageTag": false,
-                  "localizedName": "FPS",
-                  "tagName": "FPS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo0MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo0MywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "32507",
               "displayName": "Smite",
               "name": "Smite",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Smite-285x380.jpg",
-              "viewersCount": 7349,
+              "viewersCount": 7412,
               "tags": [
                 {
                   "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
@@ -3226,81 +3265,29 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo0MiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "32502",
-              "displayName": "World of Warships",
-              "name": "World of Warships",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warships-285x380.jpg",
-              "viewersCount": 7316,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
-                  "isLanguageTag": false,
-                  "localizedName": "Driving/Racing Game",
-                  "tagName": "Driving/Racing Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [
-                {
-                  "id": "a296293c-fa3a-4c5f-8078-6bbe425bae02",
-                  "applicableChannels": [],
-                  "__typename": "DropCampaign"
-                }
-              ],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo0MywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "490100",
-              "displayName": "Lost Ark Online",
-              "name": "Lost Ark Online",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Lost%20Ark%20Online-285x380.jpg",
-              "viewersCount": 7083,
-              "tags": [
-                {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
-                  "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
             "cursor": "eyJzIjo0NCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "459931",
-              "displayName": "Old School RuneScape",
-              "name": "Old School RuneScape",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Old%20School%20RuneScape-285x380.jpg",
-              "viewersCount": 7077,
+              "id": "19619",
+              "displayName": "Tibia",
+              "name": "Tibia",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Tibia-285x380.jpg",
+              "viewersCount": 7222,
               "tags": [
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
                 {
                   "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
                   "isLanguageTag": false,
@@ -3318,31 +3305,17 @@
             "cursor": "eyJzIjo0NSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "19619",
-              "displayName": "Tibia",
-              "name": "Tibia",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Tibia-285x380.jpg",
-              "viewersCount": 6793,
+              "id": "512804",
+              "displayName": "FIFA 20",
+              "name": "FIFA 20",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-285x380.jpg",
+              "viewersCount": 7119,
               "tags": [
                 {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
                   "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
-                  "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
+                  "localizedName": "Sports Game",
+                  "tagName": "Sports Game",
                   "__typename": "Tag"
                 }
               ],
@@ -3355,17 +3328,45 @@
             "cursor": "eyJzIjo0NiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "24241",
-              "displayName": "FINAL FANTASY XIV Online",
-              "name": "FINAL FANTASY XIV Online",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/FINAL%20FANTASY%20XIV%20Online-285x380.jpg",
-              "viewersCount": 6653,
+              "id": "502732",
+              "displayName": "Garena Free Fire",
+              "name": "Garena Free Fire",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Garena%20Free%20Fire-285x380.jpg",
+              "viewersCount": 7053,
               "tags": [
                 {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
                   "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "3e30c47a-26c0-4dd3-9c3a-9cd6ad35589c",
+                  "isLanguageTag": false,
+                  "localizedName": "RTS",
+                  "tagName": "RTS",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "84719fd0-8b81-4c0f-900d-f78860b1194e",
+                  "isLanguageTag": false,
+                  "localizedName": "Mobile Game",
+                  "tagName": "Mobile Game",
                   "__typename": "Tag"
                 }
               ],
@@ -3378,1207 +3379,11 @@
             "cursor": "eyJzIjo0NywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "508391",
-              "displayName": "Krunker",
-              "name": "Krunker",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Krunker-285x380.jpg",
-              "viewersCount": 6226,
-              "tags": [
-                {
-                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
-                  "isLanguageTag": false,
-                  "localizedName": "FPS",
-                  "tagName": "FPS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [
-                {
-                  "id": "3b4f79b0-dab8-479d-9b83-32ed30367633",
-                  "applicableChannels": [],
-                  "__typename": "DropCampaign"
-                }
-              ],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo0OCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "518618",
-              "displayName": "Scrutinized",
-              "name": "Scrutinized",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Scrutinized-285x380.jpg",
-              "viewersCount": 6218,
-              "tags": [],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo0OSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "490377",
-              "displayName": "Sea of Thieves",
-              "name": "Sea of Thieves",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Sea%20of%20Thieves-285x380.jpg",
-              "viewersCount": 5951,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1MCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "460090",
-              "displayName": "Subnautica",
-              "name": "Subnautica",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Subnautica-285x380.jpg",
-              "viewersCount": 5785,
-              "tags": [
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
-                  "isLanguageTag": false,
-                  "localizedName": "Survival",
-                  "tagName": "Survival",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "d72d9de6-1df8-4c4e-b6a2-74e6f4c80557",
-                  "isLanguageTag": false,
-                  "localizedName": "Indie Game",
-                  "tagName": "Indie Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1MSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "509659",
-              "displayName": "ASMR",
-              "name": "ASMR",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/ASMR-285x380.jpg",
-              "viewersCount": 5680,
-              "tags": [
-                {
-                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
-                  "isLanguageTag": false,
-                  "localizedName": "IRL",
-                  "tagName": "IRL",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1MiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "513319",
-              "displayName": "NBA 2K20",
-              "name": "NBA 2K20",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K20-285x380.jpg",
-              "viewersCount": 5628,
-              "tags": [
-                {
-                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
-                  "isLanguageTag": false,
-                  "localizedName": "Sports Game",
-                  "tagName": "Sports Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1MywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "31376",
-              "displayName": "Terraria",
-              "name": "Terraria",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Terraria-285x380.jpg",
-              "viewersCount": 5446,
-              "tags": [
-                {
-                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
-                  "isLanguageTag": false,
-                  "localizedName": "Platformer",
-                  "tagName": "Platformer",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "d72d9de6-1df8-4c4e-b6a2-74e6f4c80557",
-                  "isLanguageTag": false,
-                  "localizedName": "Indie Game",
-                  "tagName": "Indie Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
-                  "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1NCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "518076",
-              "displayName": "A Total War Saga: Troy",
-              "name": "A Total War Saga: Troy",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./A%20Total%20War%20Saga:%20Troy-285x380.jpg",
-              "viewersCount": 5361,
-              "tags": [
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1NSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "490422",
-              "displayName": "StarCraft II",
-              "name": "StarCraft II",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft%20II-285x380.jpg",
-              "viewersCount": 5315,
-              "tags": [
-                {
-                  "id": "3e30c47a-26c0-4dd3-9c3a-9cd6ad35589c",
-                  "isLanguageTag": false,
-                  "localizedName": "RTS",
-                  "tagName": "RTS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1NiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "512988",
-              "displayName": "Age of Empires II: Definitive Edition",
-              "name": "Age of Empires II: Definitive Edition",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Age%20of%20Empires%20II:%20Definitive%20Edition-285x380.jpg",
-              "viewersCount": 5247,
-              "tags": [
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1NywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "516680",
-              "displayName": "Dead Matter",
-              "name": "Dead Matter",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20Matter-285x380.jpg",
-              "viewersCount": 4955,
-              "tags": [
-                {
-                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
-                  "isLanguageTag": false,
-                  "localizedName": "Survival",
-                  "tagName": "Survival",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1OCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "29307",
-              "displayName": "Path of Exile",
-              "name": "Path of Exile",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Path%20of%20Exile-285x380.jpg",
-              "viewersCount": 4898,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
-                  "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
-                  "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo1OSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "2798",
-              "displayName": "Heroes of Might and Magic III: The Shadow of Death",
-              "name": "Heroes of Might and Magic III: The Shadow of Death",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Heroes%20of%20Might%20and%20Magic%20III:%20The%20Shadow%20of%20Death-285x380.jpg",
-              "viewersCount": 4716,
-              "tags": [
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2MCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "490374",
-              "displayName": "Horizon Zero Dawn",
-              "name": "Horizon Zero Dawn",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Horizon%20Zero%20Dawn-285x380.jpg",
-              "viewersCount": 4710,
-              "tags": [
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "0472bab0-e068-49b3-9bb8-789fdfe3c66a",
-                  "isLanguageTag": false,
-                  "localizedName": "Stealth",
-                  "tagName": "Stealth",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2MSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "511627",
-              "displayName": "I hate this game",
-              "name": "I hate this game",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/I%20hate%20this%20game-285x380.jpg",
-              "viewersCount": 4676,
-              "tags": [],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2MiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "491168",
-              "displayName": "Clash Royale",
-              "name": "Clash Royale",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Clash%20Royale-285x380.jpg",
-              "viewersCount": 4522,
-              "tags": [
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "3e30c47a-26c0-4dd3-9c3a-9cd6ad35589c",
-                  "isLanguageTag": false,
-                  "localizedName": "RTS",
-                  "tagName": "RTS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
-                  "isLanguageTag": false,
-                  "localizedName": "Card & Board Game",
-                  "tagName": "Card & Board Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "84719fd0-8b81-4c0f-900d-f78860b1194e",
-                  "isLanguageTag": false,
-                  "localizedName": "Mobile Game",
-                  "tagName": "Mobile Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2MywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "386821",
-              "displayName": "Black Desert Online",
-              "name": "Black Desert Online",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Black%20Desert%20Online-285x380.jpg",
-              "viewersCount": 4453,
-              "tags": [
-                {
-                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
-                  "isLanguageTag": false,
-                  "localizedName": "MMORPG",
-                  "tagName": "MMORPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2NCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "502732",
-              "displayName": "Garena Free Fire",
-              "name": "Garena Free Fire",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Garena%20Free%20Fire-285x380.jpg",
-              "viewersCount": 4372,
-              "tags": [
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "3e30c47a-26c0-4dd3-9c3a-9cd6ad35589c",
-                  "isLanguageTag": false,
-                  "localizedName": "RTS",
-                  "tagName": "RTS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "84719fd0-8b81-4c0f-900d-f78860b1194e",
-                  "isLanguageTag": false,
-                  "localizedName": "Mobile Game",
-                  "tagName": "Mobile Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2NSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "509670",
-              "displayName": "Science & Technology",
-              "name": "Science & Technology",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Science%20&%20Technology-285x380.jpg",
-              "viewersCount": 4211,
-              "tags": [
-                {
-                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
-                  "isLanguageTag": false,
-                  "localizedName": "IRL",
-                  "tagName": "IRL",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "e36d0169-268a-4c62-a4f4-ddf61a0b3ae4",
-                  "isLanguageTag": false,
-                  "localizedName": "Creative",
-                  "tagName": "Creative",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2NiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "493959",
-              "displayName": "Red Dead Redemption 2",
-              "name": "Red Dead Redemption 2",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Red%20Dead%20Redemption%202-285x380.jpg",
-              "viewersCount": 4140,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2NywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "514790",
-              "displayName": "Legends of Runeterra",
-              "name": "Legends of Runeterra",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Legends%20of%20Runeterra-285x380.jpg",
-              "viewersCount": 4032,
-              "tags": [
-                {
-                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
-                  "isLanguageTag": false,
-                  "localizedName": "Card & Board Game",
-                  "tagName": "Card & Board Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2OCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "263490",
-              "displayName": "Rust",
-              "name": "Rust",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Rust-285x380.jpg",
-              "viewersCount": 3953,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
-                  "isLanguageTag": false,
-                  "localizedName": "Survival",
-                  "tagName": "Survival",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo2OSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "32959",
-              "displayName": "Heroes of the Storm",
-              "name": "Heroes of the Storm",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Heroes%20of%20the%20Storm-285x380.jpg",
-              "viewersCount": 3779,
-              "tags": [
-                {
-                  "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
-                  "isLanguageTag": false,
-                  "localizedName": "MOBA",
-                  "tagName": "MOBA",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3MCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "516914",
-              "displayName": "Rogue Legacy 2",
-              "name": "Rogue Legacy 2",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Legacy%202-285x380.jpg",
-              "viewersCount": 3745,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3MSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "497451",
-              "displayName": "Pokémon Sword/Shield",
-              "name": "Pokémon Sword/Shield",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Pok%C3%A9mon%20Sword/Shield-285x380.jpg",
-              "viewersCount": 3716,
-              "tags": [
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3MiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "29452",
-              "displayName": "Virtual Casino",
-              "name": "Virtual Casino",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Virtual%20Casino-285x380.jpg",
-              "viewersCount": 3654,
-              "tags": [
-                {
-                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
-                  "isLanguageTag": false,
-                  "localizedName": "Card & Board Game",
-                  "tagName": "Card & Board Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3MywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "489635",
-              "displayName": "ARK",
-              "name": "ARK",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/ARK-285x380.jpg",
-              "viewersCount": 3638,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3NCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "509538",
-              "displayName": "Animal Crossing: New Horizons",
-              "name": "Animal Crossing: New Horizons",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Animal%20Crossing:%20New%20Horizons-285x380.jpg",
-              "viewersCount": 3636,
-              "tags": [
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3NSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "65632",
-              "displayName": "DayZ",
-              "name": "DayZ",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/DayZ-285x380.jpg",
-              "viewersCount": 3571,
-              "tags": [
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
-                  "isLanguageTag": false,
-                  "localizedName": "FPS",
-                  "tagName": "FPS",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
-                  "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
-                  "isLanguageTag": false,
-                  "localizedName": "Survival",
-                  "tagName": "Survival",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3NiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "15507",
-              "displayName": "Castlevania II: Belmont's Revenge",
-              "name": "Castlevania II: Belmont's Revenge",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Castlevania%20II:%20Belmont%27s%20Revenge-285x380.jpg",
-              "viewersCount": 3492,
-              "tags": [
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
-                  "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
-                  "isLanguageTag": false,
-                  "localizedName": "Platformer",
-                  "tagName": "Platformer",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3NywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "512989",
-              "displayName": "Spiritfarer",
-              "name": "Spiritfarer",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Spiritfarer-285x380.jpg",
-              "viewersCount": 3374,
-              "tags": [
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3OCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "461492",
-              "displayName": "Keep Talking and Nobody Explodes",
-              "name": "Keep Talking and Nobody Explodes",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Keep%20Talking%20and%20Nobody%20Explodes-285x380.jpg",
-              "viewersCount": 3225,
-              "tags": [
-                {
-                  "id": "7616f6ea-7e3d-4501-a87c-c160d2bc1849",
-                  "isLanguageTag": false,
-                  "localizedName": "Puzzle",
-                  "tagName": "Puzzle",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "d72d9de6-1df8-4c4e-b6a2-74e6f4c80557",
-                  "isLanguageTag": false,
-                  "localizedName": "Indie Game",
-                  "tagName": "Indie Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo3OSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "8224",
-              "displayName": "Trackmania",
-              "name": "Trackmania",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Trackmania-285x380.jpg",
-              "viewersCount": 3073,
-              "tags": [
-                {
-                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
-                  "isLanguageTag": false,
-                  "localizedName": "Driving/Racing Game",
-                  "tagName": "Driving/Racing Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo4MCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "509511",
-              "displayName": "Marbles On Stream",
-              "name": "Marbles On Stream",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Marbles%20On%20Stream-285x380.jpg",
-              "viewersCount": 3055,
-              "tags": [
-                {
-                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
-                  "isLanguageTag": false,
-                  "localizedName": "Driving/Racing Game",
-                  "tagName": "Driving/Racing Game",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo4MSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "510578",
-              "displayName": "Mortal Kombat 11",
-              "name": "Mortal Kombat 11",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Mortal%20Kombat%2011-285x380.jpg",
-              "viewersCount": 3039,
-              "tags": [
-                {
-                  "id": "9751ee1d-0e5a-4fd3-8e9f-bc3c5d3230f0",
-                  "isLanguageTag": false,
-                  "localizedName": "Fighting",
-                  "tagName": "Fighting",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo4MiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "369252",
-              "displayName": "The Sims 4",
-              "name": "The Sims 4",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Sims%204-285x380.jpg",
-              "viewersCount": 3035,
-              "tags": [
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo4MywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
               "id": "66082",
               "displayName": "Games + Demos",
               "name": "Games + Demos",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Games%20+%20Demos-285x380.jpg",
-              "viewersCount": 2960,
+              "viewersCount": 6995,
               "tags": [
                 {
                   "id": "e5a06389-ec8c-451d-a134-60ce3c4a4b8d",
@@ -4622,14 +3427,742 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo4NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo0OCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "27546",
+              "displayName": "World of Tanks",
+              "name": "World of Tanks",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Tanks-285x380.jpg",
+              "viewersCount": 6816,
+              "tags": [
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
+                  "isLanguageTag": false,
+                  "localizedName": "Driving/Racing Game",
+                  "tagName": "Driving/Racing Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo0OSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "24241",
+              "displayName": "FINAL FANTASY XIV Online",
+              "name": "FINAL FANTASY XIV Online",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/FINAL%20FANTASY%20XIV%20Online-285x380.jpg",
+              "viewersCount": 6779,
+              "tags": [
+                {
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "isLanguageTag": false,
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1MCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "518618",
+              "displayName": "Scrutinized",
+              "name": "Scrutinized",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Scrutinized-285x380.jpg",
+              "viewersCount": 6146,
+              "tags": [],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "513319",
+              "displayName": "NBA 2K20",
+              "name": "NBA 2K20",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K20-285x380.jpg",
+              "viewersCount": 6131,
+              "tags": [
+                {
+                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
+                  "isLanguageTag": false,
+                  "localizedName": "Sports Game",
+                  "tagName": "Sports Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1MiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "460090",
+              "displayName": "Subnautica",
+              "name": "Subnautica",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Subnautica-285x380.jpg",
+              "viewersCount": 6097,
+              "tags": [
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                  "isLanguageTag": false,
+                  "localizedName": "Open World",
+                  "tagName": "Open World",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
+                  "isLanguageTag": false,
+                  "localizedName": "Survival",
+                  "tagName": "Survival",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "d72d9de6-1df8-4c4e-b6a2-74e6f4c80557",
+                  "isLanguageTag": false,
+                  "localizedName": "Indie Game",
+                  "tagName": "Indie Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1MywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "516914",
+              "displayName": "Rogue Legacy 2",
+              "name": "Rogue Legacy 2",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Legacy%202-285x380.jpg",
+              "viewersCount": 5841,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "508391",
+              "displayName": "Krunker",
+              "name": "Krunker",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Krunker-285x380.jpg",
+              "viewersCount": 5697,
+              "tags": [
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [
+                {
+                  "id": "3b4f79b0-dab8-479d-9b83-32ed30367633",
+                  "applicableChannels": [],
+                  "__typename": "DropCampaign"
+                }
+              ],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1NSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "511627",
+              "displayName": "I hate this game",
+              "name": "I hate this game",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/I%20hate%20this%20game-285x380.jpg",
+              "viewersCount": 5216,
+              "tags": [],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1NiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "29307",
+              "displayName": "Path of Exile",
+              "name": "Path of Exile",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Path%20of%20Exile-285x380.jpg",
+              "viewersCount": 5200,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "isLanguageTag": false,
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "isLanguageTag": false,
+                  "localizedName": "Horror",
+                  "tagName": "Horror",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1NywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "391475",
+              "displayName": "Space Engineers",
+              "name": "Space Engineers",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Space%20Engineers-285x380.jpg",
+              "viewersCount": 5086,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1OCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "504461",
+              "displayName": "Super Smash Bros. Ultimate",
+              "name": "Super Smash Bros. Ultimate",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Smash%20Bros.%20Ultimate-285x380.jpg",
+              "viewersCount": 4887,
+              "tags": [
+                {
+                  "id": "9751ee1d-0e5a-4fd3-8e9f-bc3c5d3230f0",
+                  "isLanguageTag": false,
+                  "localizedName": "Fighting",
+                  "tagName": "Fighting",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
+                  "isLanguageTag": false,
+                  "localizedName": "Platformer",
+                  "tagName": "Platformer",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo1OSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "263490",
+              "displayName": "Rust",
+              "name": "Rust",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Rust-285x380.jpg",
+              "viewersCount": 4854,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
+                  "isLanguageTag": false,
+                  "localizedName": "Survival",
+                  "tagName": "Survival",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2MCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "369252",
+              "displayName": "The Sims 4",
+              "name": "The Sims 4",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Sims%204-285x380.jpg",
+              "viewersCount": 4847,
+              "tags": [
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "32959",
+              "displayName": "Heroes of the Storm",
+              "name": "Heroes of the Storm",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Heroes%20of%20the%20Storm-285x380.jpg",
+              "viewersCount": 4719,
+              "tags": [
+                {
+                  "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
+                  "isLanguageTag": false,
+                  "localizedName": "MOBA",
+                  "tagName": "MOBA",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2MiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "2798",
+              "displayName": "Heroes of Might and Magic III: The Shadow of Death",
+              "name": "Heroes of Might and Magic III: The Shadow of Death",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Heroes%20of%20Might%20and%20Magic%20III:%20The%20Shadow%20of%20Death-285x380.jpg",
+              "viewersCount": 4544,
+              "tags": [
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2MywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "518076",
+              "displayName": "A Total War Saga: Troy",
+              "name": "A Total War Saga: Troy",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./A%20Total%20War%20Saga:%20Troy-285x380.jpg",
+              "viewersCount": 4515,
+              "tags": [
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "490422",
+              "displayName": "StarCraft II",
+              "name": "StarCraft II",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/StarCraft%20II-285x380.jpg",
+              "viewersCount": 4492,
+              "tags": [
+                {
+                  "id": "3e30c47a-26c0-4dd3-9c3a-9cd6ad35589c",
+                  "isLanguageTag": false,
+                  "localizedName": "RTS",
+                  "tagName": "RTS",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2NSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "490377",
+              "displayName": "Sea of Thieves",
+              "name": "Sea of Thieves",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Sea%20of%20Thieves-285x380.jpg",
+              "viewersCount": 4191,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2NiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "29452",
+              "displayName": "Virtual Casino",
+              "name": "Virtual Casino",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Virtual%20Casino-285x380.jpg",
+              "viewersCount": 4156,
+              "tags": [
+                {
+                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
+                  "isLanguageTag": false,
+                  "localizedName": "Card & Board Game",
+                  "tagName": "Card & Board Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2NywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "493959",
+              "displayName": "Red Dead Redemption 2",
+              "name": "Red Dead Redemption 2",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Red%20Dead%20Redemption%202-285x380.jpg",
+              "viewersCount": 4077,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                  "isLanguageTag": false,
+                  "localizedName": "Open World",
+                  "tagName": "Open World",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2OCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "32502",
+              "displayName": "World of Warships",
+              "name": "World of Warships",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warships-285x380.jpg",
+              "viewersCount": 3775,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
+                  "isLanguageTag": false,
+                  "localizedName": "Driving/Racing Game",
+                  "tagName": "Driving/Racing Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [
+                {
+                  "id": "a296293c-fa3a-4c5f-8078-6bbe425bae02",
+                  "applicableChannels": [],
+                  "__typename": "DropCampaign"
+                }
+              ],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo2OSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "493997",
+              "displayName": "Super Mario Odyssey",
+              "name": "Super Mario Odyssey",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Mario%20Odyssey-285x380.jpg",
+              "viewersCount": 3705,
+              "tags": [
+                {
+                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
+                  "isLanguageTag": false,
+                  "localizedName": "Platformer",
+                  "tagName": "Platformer",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3MCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "27284",
+              "displayName": "Retro",
+              "name": "Retro",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Retro-285x380.jpg",
+              "viewersCount": 3520,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3MSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "499003",
               "displayName": "VRChat",
               "name": "VRChat",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/VRChat-285x380.jpg",
-              "viewersCount": 2939,
+              "viewersCount": 3463,
               "tags": [
                 {
                   "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
@@ -4666,14 +4199,282 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo4NSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo3MiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "110758",
-              "displayName": "The Legend of Zelda: Breath of the Wild",
-              "name": "The Legend of Zelda: Breath of the Wild",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Legend%20of%20Zelda:%20Breath%20of%20the%20Wild-285x380.jpg",
-              "viewersCount": 2932,
+              "id": "280721",
+              "displayName": "Destiny",
+              "name": "Destiny",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny-285x380.jpg",
+              "viewersCount": 3396,
+              "tags": [
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "0472bab0-e068-49b3-9bb8-789fdfe3c66a",
+                  "isLanguageTag": false,
+                  "localizedName": "Stealth",
+                  "tagName": "Stealth",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3MywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "489635",
+              "displayName": "ARK",
+              "name": "ARK",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/ARK-285x380.jpg",
+              "viewersCount": 3252,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "28605",
+              "displayName": "ShootMania Storm",
+              "name": "ShootMania Storm",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/ShootMania%20Storm-285x380.jpg",
+              "viewersCount": 3251,
+              "tags": [
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3NSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "509670",
+              "displayName": "Science & Technology",
+              "name": "Science & Technology",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Science%20&%20Technology-285x380.jpg",
+              "viewersCount": 3241,
+              "tags": [
+                {
+                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
+                  "isLanguageTag": false,
+                  "localizedName": "IRL",
+                  "tagName": "IRL",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "e36d0169-268a-4c62-a4f4-ddf61a0b3ae4",
+                  "isLanguageTag": false,
+                  "localizedName": "Creative",
+                  "tagName": "Creative",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3NiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "11557",
+              "displayName": "The Legend of Zelda: Ocarina of Time",
+              "name": "The Legend of Zelda: Ocarina of Time",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Legend%20of%20Zelda:%20Ocarina%20of%20Time-285x380.jpg",
+              "viewersCount": 3155,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3NywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "512989",
+              "displayName": "Spiritfarer",
+              "name": "Spiritfarer",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Spiritfarer-285x380.jpg",
+              "viewersCount": 3146,
+              "tags": [
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3OCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "509511",
+              "displayName": "Marbles On Stream",
+              "name": "Marbles On Stream",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Marbles%20On%20Stream-285x380.jpg",
+              "viewersCount": 3078,
+              "tags": [
+                {
+                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
+                  "isLanguageTag": false,
+                  "localizedName": "Driving/Racing Game",
+                  "tagName": "Driving/Racing Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo3OSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "490374",
+              "displayName": "Horizon Zero Dawn",
+              "name": "Horizon Zero Dawn",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Horizon%20Zero%20Dawn-285x380.jpg",
+              "viewersCount": 3030,
+              "tags": [
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "0472bab0-e068-49b3-9bb8-789fdfe3c66a",
+                  "isLanguageTag": false,
+                  "localizedName": "Stealth",
+                  "tagName": "Stealth",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                  "isLanguageTag": false,
+                  "localizedName": "Open World",
+                  "tagName": "Open World",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo4MCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "506415",
+              "displayName": "Sekiro: Shadows Die Twice",
+              "name": "Sekiro: Shadows Die Twice",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Sekiro:%20Shadows%20Die%20Twice-285x380.jpg",
+              "viewersCount": 3003,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
@@ -4695,13 +4496,6 @@
                   "localizedName": "Stealth",
                   "tagName": "Stealth",
                   "__typename": "Tag"
-                },
-                {
-                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
-                  "isLanguageTag": false,
-                  "localizedName": "Open World",
-                  "tagName": "Open World",
-                  "__typename": "Tag"
                 }
               ],
               "activeDropCampaigns": [],
@@ -4710,27 +4504,20 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo4NiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo4MSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "27284",
-              "displayName": "Retro",
-              "name": "Retro",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Retro-285x380.jpg",
-              "viewersCount": 2895,
+              "id": "21465",
+              "displayName": "osu!",
+              "name": "osu!",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/osu%21-285x380.jpg",
+              "viewersCount": 2963,
               "tags": [
                 {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "id": "c8bb9d08-8202-42f8-b028-c59ac1aafe76",
                   "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
+                  "localizedName": "Rhythm & Music Game",
+                  "tagName": "Rhythm & Music Game",
                   "__typename": "Tag"
                 }
               ],
@@ -4740,14 +4527,171 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo4NywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo4MiwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "514956",
+              "displayName": "MLB The Show 20",
+              "name": "MLB The Show 20",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/MLB%20The%20Show%2020-285x380.jpg",
+              "viewersCount": 2886,
+              "tags": [
+                {
+                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
+                  "isLanguageTag": false,
+                  "localizedName": "Sports Game",
+                  "tagName": "Sports Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [
+                {
+                  "id": "26b0cb69-4834-455b-91d8-5d230997f4a2",
+                  "applicableChannels": [
+                    {
+                      "id": "41655017",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "246577079",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "195421679",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "41413504",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "72498207",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "39546824",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "35076943",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "120552920",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "146730858",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "111180721",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "114173644",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "15850551",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "82684069",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "172319331",
+                      "__typename": "User"
+                    },
+                    {
+                      "id": "427317525",
+                      "__typename": "User"
+                    }
+                  ],
+                  "__typename": "DropCampaign"
+                }
+              ],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo4MywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "2692",
+              "displayName": "Super Mario 64",
+              "name": "Super Mario 64",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Mario%2064-285x380.jpg",
+              "viewersCount": 2855,
+              "tags": [
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
+                  "isLanguageTag": false,
+                  "localizedName": "Platformer",
+                  "tagName": "Platformer",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo4NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "490655",
+              "displayName": "Pokémon Go",
+              "name": "Pokémon Go",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Pok%C3%A9mon%20Go-285x380.jpg",
+              "viewersCount": 2816,
+              "tags": [
+                {
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+                  "isLanguageTag": false,
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "84719fd0-8b81-4c0f-900d-f78860b1194e",
+                  "isLanguageTag": false,
+                  "localizedName": "Mobile Game",
+                  "tagName": "Mobile Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo4NSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
               "id": "130942",
               "displayName": "Factorio",
               "name": "Factorio",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Factorio-285x380.jpg",
-              "viewersCount": 2668,
+              "viewersCount": 2815,
               "tags": [
                 {
                   "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
@@ -4770,34 +4714,20 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo4OCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo4NiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "509066",
-              "displayName": "Remnant: From the Ashes",
-              "name": "Remnant: From the Ashes",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Remnant:%20From%20the%20Ashes-285x380.jpg",
-              "viewersCount": 2617,
+              "id": "386821",
+              "displayName": "Black Desert Online",
+              "name": "Black Desert Online",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Black%20Desert%20Online-285x380.jpg",
+              "viewersCount": 2809,
               "tags": [
                 {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
                   "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
-                  "isLanguageTag": false,
-                  "localizedName": "Shooter",
-                  "tagName": "Shooter",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
-                  "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
                   "__typename": "Tag"
                 },
                 {
@@ -4805,6 +4735,13 @@
                   "isLanguageTag": false,
                   "localizedName": "RPG",
                   "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                  "isLanguageTag": false,
+                  "localizedName": "Open World",
+                  "tagName": "Open World",
                   "__typename": "Tag"
                 }
               ],
@@ -4814,29 +4751,38 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo4OSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo4NywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "490292",
-              "displayName": "Dark Souls III",
-              "name": "Dark Souls III",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dark%20Souls%20III-285x380.jpg",
-              "viewersCount": 2576,
+              "id": "509538",
+              "displayName": "Animal Crossing: New Horizons",
+              "name": "Animal Crossing: New Horizons",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Animal%20Crossing:%20New%20Horizons-285x380.jpg",
+              "viewersCount": 2809,
               "tags": [
                 {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
                   "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
                   "__typename": "Tag"
-                },
-                {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
-                  "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
-                  "__typename": "Tag"
-                },
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo4OCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "497480",
+              "displayName": "Detroit: Become Human",
+              "name": "Detroit: Become Human",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Detroit:%20Become%20Human-285x380.jpg",
+              "viewersCount": 2799,
+              "tags": [
                 {
                   "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
                   "isLanguageTag": false,
@@ -4851,27 +4797,50 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo5MCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo4OSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "500188",
-              "displayName": "Hunt: Showdown",
-              "name": "Hunt: Showdown",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Hunt:%20Showdown-285x380.jpg",
-              "viewersCount": 2565,
+              "id": "509667",
+              "displayName": "Food & Drink",
+              "name": "Food & Drink",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Food%20&%20Drink-285x380.jpg",
+              "viewersCount": 2796,
               "tags": [
                 {
-                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "id": "e36d0169-268a-4c62-a4f4-ddf61a0b3ae4",
                   "isLanguageTag": false,
-                  "localizedName": "Action",
-                  "tagName": "Action",
+                  "localizedName": "Creative",
+                  "tagName": "Creative",
                   "__typename": "Tag"
                 },
                 {
-                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
                   "isLanguageTag": false,
-                  "localizedName": "Horror",
-                  "tagName": "Horror",
+                  "localizedName": "IRL",
+                  "tagName": "IRL",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo5MCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "490100",
+              "displayName": "Lost Ark Online",
+              "name": "Lost Ark Online",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Lost%20Ark%20Online-285x380.jpg",
+              "viewersCount": 2761,
+              "tags": [
+                {
+                  "id": "5495bcba-0977-4ba5-aa39-8928fd4cab8f",
+                  "isLanguageTag": false,
+                  "localizedName": "MMORPG",
+                  "tagName": "MMORPG",
                   "__typename": "Tag"
                 }
               ],
@@ -4884,71 +4853,11 @@
             "cursor": "eyJzIjo5MSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "490771",
-              "displayName": "Battle Brothers",
-              "name": "Battle Brothers",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Battle%20Brothers-285x380.jpg",
-              "viewersCount": 2546,
-              "tags": [
-                {
-                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
-                  "isLanguageTag": false,
-                  "localizedName": "Strategy",
-                  "tagName": "Strategy",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
-                  "isLanguageTag": false,
-                  "localizedName": "RPG",
-                  "tagName": "RPG",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo5MiwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "518711",
-              "displayName": "EA Sports UFC 4",
-              "name": "EA Sports UFC 4",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/EA%20Sports%20UFC%204-285x380.jpg",
-              "viewersCount": 2535,
-              "tags": [
-                {
-                  "id": "0d4233af-7ac6-49da-937d-e0f42b7db187",
-                  "isLanguageTag": false,
-                  "localizedName": "Sports Game",
-                  "tagName": "Sports Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "9751ee1d-0e5a-4fd3-8e9f-bc3c5d3230f0",
-                  "isLanguageTag": false,
-                  "localizedName": "Fighting",
-                  "tagName": "Fighting",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo5MywiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
               "id": "512887",
               "displayName": "The Seven Deadly Sins: Hikari to Yami no Grand Cross",
               "name": "The Seven Deadly Sins: Hikari to Yami no Grand Cross",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Seven%20Deadly%20Sins:%20Hikari%20to%20Yami%20no%20Grand%20Cross-285x380.jpg",
-              "viewersCount": 2435,
+              "viewersCount": 2717,
               "tags": [
                 {
                   "id": "9d38085e-ee62-4203-877b-81797052a18b",
@@ -4971,20 +4880,87 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjo5NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "cursor": "eyJzIjo5MiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "497467",
-              "displayName": "Monster Hunter World",
-              "name": "Monster Hunter World",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Monster%20Hunter%20World-285x380.jpg",
-              "viewersCount": 2373,
+              "id": "497451",
+              "displayName": "Pokémon Sword/Shield",
+              "name": "Pokémon Sword/Shield",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Pok%C3%A9mon%20Sword/Shield-285x380.jpg",
+              "viewersCount": 2706,
+              "tags": [
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo5MywiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "512973",
+              "displayName": "Carrion",
+              "name": "Carrion",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Carrion-285x380.jpg",
+              "viewersCount": 2658,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
                   "isLanguageTag": false,
                   "localizedName": "Action",
                   "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "isLanguageTag": false,
+                  "localizedName": "Horror",
+                  "tagName": "Horror",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo5NCwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "509066",
+              "displayName": "Remnant: From the Ashes",
+              "name": "Remnant: From the Ashes",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Remnant:%20From%20the%20Ashes-285x380.jpg",
+              "viewersCount": 2618,
+              "tags": [
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "isLanguageTag": false,
+                  "localizedName": "Horror",
+                  "tagName": "Horror",
                   "__typename": "Tag"
                 },
                 {
@@ -5004,11 +4980,11 @@
             "cursor": "eyJzIjo5NSwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "512973",
-              "displayName": "Carrion",
-              "name": "Carrion",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Carrion-285x380.jpg",
-              "viewersCount": 2372,
+              "id": "500188",
+              "displayName": "Hunt: Showdown",
+              "name": "Hunt: Showdown",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Hunt:%20Showdown-285x380.jpg",
+              "viewersCount": 2550,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
@@ -5034,24 +5010,17 @@
             "cursor": "eyJzIjo5NiwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "504461",
-              "displayName": "Super Smash Bros. Ultimate",
-              "name": "Super Smash Bros. Ultimate",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Smash%20Bros.%20Ultimate-285x380.jpg",
-              "viewersCount": 2362,
+              "id": "514790",
+              "displayName": "Legends of Runeterra",
+              "name": "Legends of Runeterra",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Legends%20of%20Runeterra-285x380.jpg",
+              "viewersCount": 2488,
               "tags": [
                 {
-                  "id": "9751ee1d-0e5a-4fd3-8e9f-bc3c5d3230f0",
+                  "id": "8d39b307-d3ad-4f4a-98a4-d1951f55ceb7",
                   "isLanguageTag": false,
-                  "localizedName": "Fighting",
-                  "tagName": "Fighting",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "5d289cf9-d75a-42b5-a635-0d117609e6a6",
-                  "isLanguageTag": false,
-                  "localizedName": "Platformer",
-                  "tagName": "Platformer",
+                  "localizedName": "Card & Board Game",
+                  "tagName": "Card & Board Game",
                   "__typename": "Tag"
                 }
               ],
@@ -5064,71 +5033,11 @@
             "cursor": "eyJzIjo5NywiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "19554",
-              "displayName": "iRacing.com",
-              "name": "iRacing.com",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/iRacing.com-285x380.jpg",
-              "viewersCount": 2357,
-              "tags": [
-                {
-                  "id": "f5ed5bd0-78cb-4467-8e13-9172a210b64d",
-                  "isLanguageTag": false,
-                  "localizedName": "Driving/Racing Game",
-                  "tagName": "Driving/Racing Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo5OCwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
-              "id": "510204",
-              "displayName": "Thief Simulator",
-              "name": "Thief Simulator",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Thief%20Simulator-285x380.jpg",
-              "viewersCount": 2337,
-              "tags": [
-                {
-                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
-                  "isLanguageTag": false,
-                  "localizedName": "Adventure Game",
-                  "tagName": "Adventure Game",
-                  "__typename": "Tag"
-                },
-                {
-                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
-                  "isLanguageTag": false,
-                  "localizedName": "Simulation",
-                  "tagName": "Simulation",
-                  "__typename": "Tag"
-                }
-              ],
-              "activeDropCampaigns": [],
-              "__typename": "Game"
-            },
-            "__typename": "GameEdge"
-          },
-          {
-            "cursor": "eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9",
-            "trackingID": null,
-            "node": {
               "id": "506456",
               "displayName": "Satisfactory",
               "name": "Satisfactory",
               "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Satisfactory-285x380.jpg",
-              "viewersCount": 2308,
+              "viewersCount": 2417,
               "tags": [
                 {
                   "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
@@ -5186,14 +5095,14 @@
             "__typename": "GameEdge"
           },
           {
-            "cursor": "eyJzIjoxMDAsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+            "cursor": "eyJzIjo5OCwiZCI6ZmFsc2UsInQiOnRydWV9",
             "trackingID": null,
             "node": {
-              "id": "489111",
-              "displayName": "Summoners War: Sky Arena",
-              "name": "Summoners War: Sky Arena",
-              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Summoners%20War:%20Sky%20Arena-285x380.jpg",
-              "viewersCount": 2303,
+              "id": "65632",
+              "displayName": "DayZ",
+              "name": "DayZ",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/DayZ-285x380.jpg",
+              "viewersCount": 2408,
               "tags": [
                 {
                   "id": "9d38085e-ee62-4203-877b-81797052a18b",
@@ -5203,10 +5112,112 @@
                   "__typename": "Tag"
                 },
                 {
-                  "id": "84719fd0-8b81-4c0f-900d-f78860b1194e",
+                  "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
                   "isLanguageTag": false,
-                  "localizedName": "Mobile Game",
-                  "tagName": "Mobile Game",
+                  "localizedName": "Simulation",
+                  "tagName": "Simulation",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+                  "isLanguageTag": false,
+                  "localizedName": "FPS",
+                  "tagName": "FPS",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+                  "isLanguageTag": false,
+                  "localizedName": "Shooter",
+                  "tagName": "Shooter",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "cf0f97ad-efb8-4494-83ec-6a11ca30261b",
+                  "isLanguageTag": false,
+                  "localizedName": "Horror",
+                  "tagName": "Horror",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+                  "isLanguageTag": false,
+                  "localizedName": "Open World",
+                  "tagName": "Open World",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
+                  "isLanguageTag": false,
+                  "localizedName": "Survival",
+                  "tagName": "Survival",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9",
+            "trackingID": null,
+            "node": {
+              "id": "490292",
+              "displayName": "Dark Souls III",
+              "name": "Dark Souls III",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Dark%20Souls%20III-285x380.jpg",
+              "viewersCount": 2374,
+              "tags": [
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+                  "isLanguageTag": false,
+                  "localizedName": "Action",
+                  "tagName": "Action",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+                  "isLanguageTag": false,
+                  "localizedName": "Adventure Game",
+                  "tagName": "Adventure Game",
+                  "__typename": "Tag"
+                }
+              ],
+              "activeDropCampaigns": [],
+              "__typename": "Game"
+            },
+            "__typename": "GameEdge"
+          },
+          {
+            "cursor": "eyJzIjoxMDAsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+            "trackingID": null,
+            "node": {
+              "id": "490771",
+              "displayName": "Battle Brothers",
+              "name": "Battle Brothers",
+              "avatarURL": "https://static-cdn.jtvnw.net/ttv-boxart/Battle%20Brothers-285x380.jpg",
+              "viewersCount": 2359,
+              "tags": [
+                {
+                  "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+                  "isLanguageTag": false,
+                  "localizedName": "Strategy",
+                  "tagName": "Strategy",
+                  "__typename": "Tag"
+                },
+                {
+                  "id": "9d38085e-ee62-4203-877b-81797052a18b",
+                  "isLanguageTag": false,
+                  "localizedName": "RPG",
+                  "tagName": "RPG",
                   "__typename": "Tag"
                 }
               ],
@@ -5224,9 +5235,9 @@
       }
     },
     "extensions": {
-      "durationMilliseconds": 155,
+      "durationMilliseconds": 93,
       "operationName": "BrowsePage_AllDirectories",
-      "requestID": "01EG1DVXG89M1ZJSKT3HFHTAH7"
+      "requestID": "01EG1PB6XFVCSRZJG7FTZ5PWHB"
     }
   }
 ]
