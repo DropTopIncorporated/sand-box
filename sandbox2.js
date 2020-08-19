@@ -6,6 +6,7 @@ const CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
 
 const cursor1 = 'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=';
 const cursor2 = 'eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9';
+const cursor3 = 'eyJzIjoxOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==';
 
 const body = [{ 'operationName':'BrowsePage_AllDirectories', 'variables':{ 'limit':100, 'options':{ 'recommendationsContext':{ 'platform':'web' }, 'requestID':'JIRA-VXP-2397', 'sort':'VIEWER_COUNT', 'tags':[] }, 'cursor':'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=' }, 'extensions':{ 'persistedQuery':{ 'version':1, 'sha256Hash':'78957de9388098820e222c88ec14e85aaf6cf844adf44c8319c545c75fd63203' } } }]
 ;
