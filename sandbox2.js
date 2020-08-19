@@ -4,17 +4,19 @@ const fetch = require('node-fetch');
 
 const CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
                 
-const cursor1 = 'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=';
-const cursor2 = 'eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9';
-const cursor3 = 'eyJzIjoxOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==';
-const cursor4 = 'eyJzIjoyOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==';
+const cursors = [
+  'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=',
+  'eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9',
+  'eyJzIjoxOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==',
+  'eyJzIjoyOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ=='
+];
 
-const drops = (cursor1, cursor2, cursor3, cursor4) => {
+const drops = (cursors) => {
   return Promise.all([
-    dataFetch(cursor1),
-    dataFetch(cursor2),
-    dataFetch(cursor3),
-    dataFetch(cursor4)
+    dataFetch(cursors[0]),
+    dataFetch(cursors[1]),
+    dataFetch(cursors[2]),
+    dataFetch(cursors[3])
   ])
     .then(array => fs.writeFileSync('gumtree4.json', JSON.stringify(array.flat(), null, 2)));
 };
@@ -48,7 +50,7 @@ function body(cursor) {
   return [{ 'operationName':'BrowsePage_AllDirectories', 'variables':{ 'limit':100, 'options':{ 'recommendationsContext':{ 'platform':'web' }, 'requestID':'JIRA-VXP-2397', 'sort':'VIEWER_COUNT', 'tags':[] }, 'cursor':`${cursor}` }, 'extensions':{ 'persistedQuery':{ 'version':1, 'sha256Hash':'78957de9388098820e222c88ec14e85aaf6cf844adf44c8319c545c75fd63203' } } }];
 }
 
-drops(cursor1, cursor2, cursor3, cursor4);
+drops(cursors);
 
 // return `[{ 'operationName':'BrowsePage_AllDirectories', 'variables':{ 'limit':100, 'options':{ 'recommendationsContext':{ 'platform':'web' }, 'requestID':'JIRA-VXP-2397', 'sort':'VIEWER_COUNT', 'tags':[] }, 'cursor':'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=' }, 'extensions':{ 'persistedQuery':{ 'version':1, 'sha256Hash':'78957de9388098820e222c88ec14e85aaf6cf844adf44c8319c545c75fd63203' } } }]`;
 
