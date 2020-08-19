@@ -24,14 +24,16 @@ const drops = () => {
   })
     .then(res => res.json())
     .then(data => {
-      const newData = data[0].data.directoriesWithTags['edges'].filter(item => item.node.activeDropCampaigns.length > 0).map(({ node: { id, displayName, name, avatarURL } }) => {
-        return {
-          id,
-          displayName,
-          name,
-          imageUrl: avatarURL
-        };
-      });
+      const newData = data[0].data.directoriesWithTags['edges']
+        .filter(item => item.node.activeDropCampaigns.length > 0)
+        .map(({ node: { id, displayName, name, avatarURL } }) => {
+          return {
+            id,
+            displayName,
+            name,
+            imageUrl: avatarURL
+          };
+        });
       
       const stringData = JSON.stringify(newData, null, 2);
       fs.writeFileSync('gumtree.json', stringData);
