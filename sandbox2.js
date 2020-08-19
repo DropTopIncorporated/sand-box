@@ -6,25 +6,17 @@ const CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
                 
 const cursor1 = 'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=';
 const cursor2 = 'eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9';
-//  eyJzIjo5OSwiZCI6ZmFsc2UsInQiOnRydWV9
 const cursor3 = 'eyJzIjoxOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==';
-//  eyJzIjoxOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==
 const cursor4 = 'eyJzIjoyOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==';
-//  eyJzIjoyOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ==
 
 const drops = (cursor1, cursor2, cursor3, cursor4) => {
- 
   return Promise.all([
     dataFetch(cursor1),
     dataFetch(cursor2),
     dataFetch(cursor3),
     dataFetch(cursor4)
   ])
-    .then(array => array.flat())
-    .then(data => {
-      const stringData = JSON.stringify(data, null, 2);
-      fs.writeFileSync('gumtree3.json', stringData);
-    });
+    .then(array => fs.writeFileSync('gumtree4.json', JSON.stringify(array.flat(), null, 2)));
 };
 
 function dataFetch(cursor) {
