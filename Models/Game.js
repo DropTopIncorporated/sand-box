@@ -13,7 +13,7 @@ const schema = new mongoose.Schema({
     type: Number,
     isRequired: true
   }
-})
+});
 
 //virtual to stream? user? 
 

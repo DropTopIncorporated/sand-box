@@ -1,0 +1,1324 @@
+[
+  {
+    "id": "512710",
+    "name": "Call of Duty: Modern Warfare",
+    "displayName": "Call of Duty: Modern Warfare",
+    "streams": {
+      "edges": [
+        {
+          "cursor": "eyJvZmYiOjEsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6MSwidG90IjoxNzksImN1ciI6ImV5SnpJam94TWpnME9TNDBNRGt3TkRZMk9UQTFOQ3dpWkNJNlptRnNjMlVzSW5RaU9uUnlkV1Y5In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "39353893902",
+            "title": "🛑DROPS ON!🛑[955+ Wins] High Kill Warzone Wins | !vid !record !loadout",
+            "viewersCount": 13209,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_symfuhny-440x248.jpg",
+            "broadcaster": {
+              "id": "31688366",
+              "login": "symfuhny",
+              "displayName": "Symfuhny",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d41de3c-731d-41ae-b0e7-615ad74db8f3-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "61e1cf25-703f-4897-a07e-f0362dd273d4",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjIsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6MiwidG90IjoxNzksImN1ciI6ImV5SnpJam96TnpBM0xqSTJPREU1TkRFMU5qSTVOVFVzSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCIzIjp7Im9mZiI6MCwidG90IjowfX19",
+          "node": {
+            "id": "39346754766",
+            "title": "#1 Wins Warzone Battle Royale All Platforms || New Youtube Vid || !trolls !positive",
+            "viewersCount": 3707,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_its_iron-440x248.jpg",
+            "broadcaster": {
+              "id": "411746363",
+              "login": "its_iron",
+              "displayName": "its_iron",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/08582f49-c03f-462d-b7d7-5aca0f2dc09e-profile_image-50x50.png",
+              "primaryColorHex": "11C8FF",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "c7748472-5739-4506-a92a-c70cd46c9af2",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjMsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6MywidG90IjoxNzksImN1ciI6ImV5SnpJam96TWpBM0xqQTFNekUwT1RVd01ERTNOVFlzSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCIzIjp7Im9mZiI6MCwidG90IjowfX19",
+          "node": {
+            "id": "380831810",
+            "title": "[DROPS✔️] По}I{илой снайпер",
+            "viewersCount": 3342,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_recrent-440x248.jpg",
+            "broadcaster": {
+              "id": "39154778",
+              "login": "recrent",
+              "displayName": "Recrent",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/22fc463e-09b2-44cb-a503-bbcff6db06eb-profile_image-50x50.jpeg",
+              "primaryColorHex": "0E0E0F",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "0569b171-2a2b-476e-a596-5bdfb45a1327",
+                "isLanguageTag": true,
+                "localizedName": "Russian",
+                "tagName": "auto___lang_ru",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "d951de87-d283-4685-9e0c-b90eb402bb49",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjQsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6NCwidG90IjoxNzksImN1ciI6ImV5SnpJam96TVRRM0xqVXhPVFV6TWprMk16azROek1zSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCIzIjp7Im9mZiI6MCwidG90IjowfX19",
+          "node": {
+            "id": "380633154",
+            "title": "Er war stets bemüht",
+            "viewersCount": 3147,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mckytv-440x248.jpg",
+            "broadcaster": {
+              "id": "101572475",
+              "login": "mckytv",
+              "displayName": "MckyTV",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a8b188b-e3bf-4413-b47e-0b021b3526ab-profile_image-50x50.png",
+              "primaryColorHex": "FF7047",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "2a14b52e-d459-4c92-be11-5d86b898f6b6",
+                "isLanguageTag": false,
+                "localizedName": "Squad Stream",
+                "tagName": "auto___squad_squad",
+                "__typename": "Tag"
+              },
+              {
+                "id": "9166ad14-41f1-4b04-a3b8-c8eb838c6be6",
+                "isLanguageTag": true,
+                "localizedName": "German",
+                "tagName": "auto___lang_de",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "20621149-b600-4709-980b-d1793abfb94a",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjUsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6NSwidG90IjoxNzksImN1ciI6ImV5SnpJam96TURRNExqQXdNakF3TWpjM01qUXhMQ0prSWpwbVlXeHpaU3dpZENJNmRISjFaWDA9In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "39353371310",
+            "title": "Code \"Crowder\" on DrinkCTRL.com [600+ Wins] | !YouTube",
+            "viewersCount": 2959,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crowder-440x248.jpg",
+            "broadcaster": {
+              "id": "46666957",
+              "login": "crowder",
+              "displayName": "Crowder",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d8a01d4-323c-42b7-95fe-8df59cd94c0c-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              },
+              {
+                "id": "2a14b52e-d459-4c92-be11-5d86b898f6b6",
+                "isLanguageTag": false,
+                "localizedName": "Squad Stream",
+                "tagName": "auto___squad_squad",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "6d559892-fa71-4c4b-8d9d-f6e4958ad861",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjYsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6NiwidG90IjoxNzksImN1ciI6ImV5SnpJam95TlRjMExqQTVORGcxTVRRd09URXdOelFzSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCIzIjp7Im9mZiI6MCwidG90IjowfX19",
+          "node": {
+            "id": "39354268894",
+            "title": "TTT!! | !jbl | !headset | !merch | 975+ Wins, 5.43 KD | !yt | TylerTeeP on socials",
+            "viewersCount": 2574,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teepee-440x248.jpg",
+            "broadcaster": {
+              "id": "23844396",
+              "login": "teepee",
+              "displayName": "TeePee",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/baa7d2f5-3639-4296-ae30-f872c7e75d5b-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "5dcba4c8-a57e-4c8d-b696-643787c1cc88",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjcsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6NywidG90IjoxNzksImN1ciI6ImV5SnpJam95TXpJNUxqSXpOamt5T0RJNU9EUXlOaXdpWkNJNlptRnNjMlVzSW5RaU9uUnlkV1Y5In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "382678290",
+            "title": "NUEVO OPERADOR VELIKAN !drops activados / !COMANDOS / +668 wins / +31,068 kills  ",
+            "viewersCount": 2449,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_flexz-440x248.jpg",
+            "broadcaster": {
+              "id": "39850052",
+              "login": "flexz",
+              "displayName": "FlexZ",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/7d16fb4ce0ded445-profile_image-50x50.jpeg",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "d4bb9c58-2141-4881-bcdc-3fe0505457d1",
+                "isLanguageTag": true,
+                "localizedName": "Spanish",
+                "tagName": "auto___lang_es",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "739d94cb-79ab-48fb-9e84-10514a61e841",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjgsImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6OCwidG90IjoxNzksImN1ciI6ImV5SnpJam94TmpNMUxqRXpNekU0TnprM01qSTNNeXdpWkNJNlptRnNjMlVzSW5RaU9uUnlkV1Y5In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "382542162",
+            "title": "Einstein Style Warzone Lobbies rasieren #UnfairAdvantage !streak | !emporgy | !instant !displate #werbung ",
+            "viewersCount": 1635,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xthesolutiontv-440x248.jpg",
+            "broadcaster": {
+              "id": "56040562",
+              "login": "xthesolutiontv",
+              "displayName": "xTheSolutionTV",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xthesolutiontv-profile_image-60407df7245fee58-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "2a14b52e-d459-4c92-be11-5d86b898f6b6",
+                "isLanguageTag": false,
+                "localizedName": "Squad Stream",
+                "tagName": "auto___squad_squad",
+                "__typename": "Tag"
+              },
+              {
+                "id": "9166ad14-41f1-4b04-a3b8-c8eb838c6be6",
+                "isLanguageTag": true,
+                "localizedName": "German",
+                "tagName": "auto___lang_de",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "9d2c8b3f-7079-40d2-a53b-17b9f9d59cc3",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjksImJsayI6MCwic3ViIjp7IjEiOnsib2ZmIjowLCJ0b3QiOjB9LCIyIjp7Im9mZiI6OSwidG90IjoxNzksImN1ciI6ImV5SnpJam94TWpRd0xqZzVNelk1TVRjNU5Ea3lNaXdpWkNJNlptRnNjMlVzSW5RaU9uUnlkV1Y5In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "39353585102",
+            "title": "Verdansk and CDL Playoffs ALL WEEK! !yt ",
+            "viewersCount": 1240,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_merk-440x248.jpg",
+            "broadcaster": {
+              "id": "41652",
+              "login": "merk",
+              "displayName": "Merk",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a20ce6cb-c765-4346-9fc8-c25e2b3844b4-profile_image-50x50.jpg",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "24c23762-d8e4-4729-a24c-a87e00b2650d",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjEwLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjEwLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqb3hNRGcxTGpFM09UTTJOemcyTURVNE9ESXNJbVFpT21aaGJITmxMQ0owSWpwMGNuVmxmUT09In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "382585362",
+            "title": "JE CHASSE LES CAMPEURS PRO SUR WARZONE - FNATIC PHYZIK",
+            "viewersCount": 1085,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_phyzikk-440x248.jpg",
+            "broadcaster": {
+              "id": "73522739",
+              "login": "phyzikk",
+              "displayName": "Phyzikk",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ded12211-00f6-4ed6-92e9-1f3b5556d6dd-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6f655045-9989-4ef7-8f85-1edcec42d648",
+                "isLanguageTag": true,
+                "localizedName": "French",
+                "tagName": "auto___lang_fr",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "e8047025-91ef-4072-b244-4cebd32539e9",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjExLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjExLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzVNRGt1TnpBMU5Ua3lNREF5T0Rnek9Td2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "2483476481",
+            "title": "CODZADA!! | CONFIRA OS PRODUTOS INSANOS NO !loja | !sapocoins !regulamento",
+            "viewersCount": 909,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skipnholive-440x248.jpg",
+            "broadcaster": {
+              "id": "57938681",
+              "login": "skipnholive",
+              "displayName": "SkipNhOLIVE",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ad5b515-0c2e-4e47-880f-fdb6c560edc2-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "39ee8140-901a-4762-bfca-8260dea1310f",
+                "isLanguageTag": true,
+                "localizedName": "Portuguese",
+                "tagName": "auto___lang_pt",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "a7ff3123-36ea-470e-8ed3-005407eb53ca",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjEyLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjEyLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzROREV1T1RRd016azNNalF6TWpNME5Dd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "382225154",
+            "title": " gettin'busy 22,000+ kills (350+ wins) I !twitter !discord !instagram",
+            "viewersCount": 841,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yktdeleo-440x248.jpg",
+            "broadcaster": {
+              "id": "124899497",
+              "login": "yktdeleo",
+              "displayName": "YKTDeleo",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cc8b9d59-a47e-4c70-b2e2-64705de92e3d-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              },
+              {
+                "id": "fd8f5e68-42d3-4544-a273-5fc92dabc568",
+                "isLanguageTag": false,
+                "localizedName": "Mode: Battle Royale",
+                "tagName": "Mode: Battle Royale",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "39d650b7-1a46-4c4c-b7c4-3a2e9579cbf4",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjEzLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjEzLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzRNamt1TURFME1qSTVNamN4TlRZME1pd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "381471218",
+            "title": "FAMAS ist so GOTTLOS & !Angebot | 55 Euro Rabatt auf Controller bei !aim #werbung | Daily Streams ab 14 Uhr ",
+            "viewersCount": 829,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_falaxii-440x248.jpg",
+            "broadcaster": {
+              "id": "82032862",
+              "login": "falaxii",
+              "displayName": "FalaXii",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c4bc6dda-c1b3-4f4f-84a7-19536bcd59d4-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "9166ad14-41f1-4b04-a3b8-c8eb838c6be6",
+                "isLanguageTag": true,
+                "localizedName": "German",
+                "tagName": "auto___lang_de",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "650bd898-29d2-4f42-b897-284514bcc972",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjE0LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjE0LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzRNVFl1TVRjNE9ETXpNemN5TWpNME1Td2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "381510802",
+            "title": "[SUB DAY] [drop on] PARTIAMO CON FALL GUYS NEXTG WARZONE POI VEDIAMO GIVE 30 AGOSTO SOLO SUB !GIVEE !DROP !SOCIAL",
+            "viewersCount": 816,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tvjhonson-440x248.jpg",
+            "broadcaster": {
+              "id": "55674766",
+              "login": "tvjhonson",
+              "displayName": "TvJhonson",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/tvjhonson-profile_image-c52bfd4cab1274ef-50x50.jpeg",
+              "primaryColorHex": "FD0000",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "5b9935eb-1e9a-4217-98ad-62bda5cff0d1",
+                "isLanguageTag": true,
+                "localizedName": "Italian",
+                "tagName": "auto___lang_it",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "218545ba-5df3-430d-a95e-c70b649dd4bb",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjE1LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjE1LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzNNelF1TmpZNU5qZzRNelU1TnpVM05Dd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "381032162",
+            "title": "COD Enge dingen - #ad #unfairadvantage",
+            "viewersCount": 734,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_morrog-440x248.jpg",
+            "broadcaster": {
+              "id": "65660593",
+              "login": "morrog",
+              "displayName": "Morrog",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/493cd407-b29a-4da6-bdf2-77505a2fb233-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "e13e6734-37ae-4d85-897b-3015f0168355",
+                "isLanguageTag": true,
+                "localizedName": "Dutch",
+                "tagName": "auto___lang_nl",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "92fee6ff-ac1e-4c18-974c-a8cb54b24171",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjE2LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjE2LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzJOemt1T1RBek5UTTNNek0wTVRVek15d2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "382193106",
+            "title": "Pilli ja pulla squad ",
+            "viewersCount": 609,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_officialandypyro-440x248.jpg",
+            "broadcaster": {
+              "id": "46021592",
+              "login": "officialandypyro",
+              "displayName": "OfficialAndyPyro",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/af9f4967-cb9a-4b0f-b86f-b6509a428b17-profile_image-50x50.png",
+              "primaryColorHex": "5329FA",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "220eb274-ab25-425b-8a9b-826103404997",
+                "isLanguageTag": true,
+                "localizedName": "Finnish",
+                "tagName": "auto___lang_fi",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "714cd1c3-de5e-4922-80a6-00924216aa18",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjE3LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjE3LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzJOekl1T1Rrek5qY3dOamN5TkRBNU5pd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "382697890",
+            "title": "Giveaway is Out !Giveaway | !Case !Sponser !yt !donate",
+            "viewersCount": 672,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_farhadxray-440x248.jpg",
+            "broadcaster": {
+              "id": "280541454",
+              "login": "farhadxray",
+              "displayName": "FarhadXRay",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed95edd1-9589-4012-9a40-fb129891e37c-profile_image-50x50.png",
+              "primaryColorHex": "1F69FF",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "fd76c790-0505-4c4c-865a-d6bd139c0901",
+                "isLanguageTag": true,
+                "localizedName": "Language: Other",
+                "tagName": "auto___lang_other",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "fe08c4a4-9712-4352-9a07-1c67a1a8af52",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjE4LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjE4LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzJNemt1TlRjNE56TXlOakExTWpJM0xDSmtJanBtWVd4elpTd2lkQ0k2ZEhKMVpYMD0ifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "382443106",
+            "title": "GETTING TWISTEDDD I !twitter !sub",
+            "viewersCount": 639,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_louisld_-440x248.jpg",
+            "broadcaster": {
+              "id": "122131205",
+              "login": "louisld_",
+              "displayName": "LouisLD_",
+              "roles": {
+                "isPartner": false,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bac4e91-8619-41bb-9605-9991eea3fd7b-profile_image-50x50.png",
+              "primaryColorHex": "2F006C",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "11419958-5db6-4dfb-b7cf-f01f168acb5f",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjE5LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjE5LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFPVGN1TnpJME5EazFNVFUxTWpBM0xDSmtJanBtWVd4elpTd2lkQ0k2ZEhKMVpYMD0ifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "39353893374",
+            "title": "baldzone | !loadout !giveaway",
+            "viewersCount": 623,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maven-440x248.jpg",
+            "broadcaster": {
+              "id": "22739676",
+              "login": "maven",
+              "displayName": "Maven",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/38de07be-b22f-4a89-a49c-7c7922c3dd04-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "ec425e0b-896c-469e-92c8-6e2391b7fd80",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjIwLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjIwLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFPVFl1TmpVMU5EQXpOalV5TXpneExDSmtJanBtWVd4elpTd2lkQ0k2ZEhKMVpYMD0ifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "39352968654",
+            "title": "<-----BETTER THan them------>",
+            "viewersCount": 596,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lyndonfps-440x248.jpg",
+            "broadcaster": {
+              "id": "55433748",
+              "login": "lyndonfps",
+              "displayName": "LyndonFPS",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/lyndonfps-profile_image-7a5f1ffb20a9aca0-50x50.jpeg",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "39165eb0-055a-4df3-8714-04258b7fa247",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjIxLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjIxLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFPRE11TVRnNE1UQXlORGd3TnpZMk5Dd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "39354250126",
+            "title": "Season 5 Warzone LIVE | THINND",
+            "viewersCount": 558,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thinnd-440x248.jpg",
+            "broadcaster": {
+              "id": "181041216",
+              "login": "thinnd",
+              "displayName": "THINND",
+              "roles": {
+                "isPartner": false,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/666783ca-f3ea-468c-a800-413a9eef6c69-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "721ff0ae-4018-4c25-b515-99cc6ab4d8f4",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjIyLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjIyLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFORGN1T0RJeE9ETTFPREEyTlRVeE9Dd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "2483493745",
+            "title": "WZIN NO PS4 COM CONTROLE DE HANDCAM! 🎮 !desafio !aALC4 !discord !missao !sub !prime !video !comandos",
+            "viewersCount": 547,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_callzera-440x248.jpg",
+            "broadcaster": {
+              "id": "190772323",
+              "login": "callzera",
+              "displayName": "callzera",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebb2c76a-960c-4fce-84bf-d7a9a7b7db16-profile_image-50x50.png",
+              "primaryColorHex": "FF8406",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "39ee8140-901a-4762-bfca-8260dea1310f",
+                "isLanguageTag": true,
+                "localizedName": "Portuguese",
+                "tagName": "auto___lang_pt",
+                "__typename": "Tag"
+              },
+              {
+                "id": "fd8f5e68-42d3-4544-a273-5fc92dabc568",
+                "isLanguageTag": false,
+                "localizedName": "Mode: Battle Royale",
+                "tagName": "Mode: Battle Royale",
+                "__typename": "Tag"
+              },
+              {
+                "id": "ff56eeeb-99ed-4a60-93fc-0b3f05d8661e",
+                "isLanguageTag": false,
+                "localizedName": "Multiplayer",
+                "tagName": "Multiplayer",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "fdb8db99-a2e6-41f2-8998-26fe9b681d94",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjIzLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjIzLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFNekl1TnpjNU5UQTVORFE0TVRZeU1Td2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "2483381505",
+            "title": "SORTEIO SORTEIO !sorteio !jogarjunto !prime !loadout !comandos",
+            "viewersCount": 532,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joguecomoumogro-440x248.jpg",
+            "broadcaster": {
+              "id": "138334500",
+              "login": "joguecomoumogro",
+              "displayName": "JogueComoUmOgro",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fdd908823b96b759-profile_image-50x50.jpeg",
+              "primaryColorHex": "FA2929",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "39ee8140-901a-4762-bfca-8260dea1310f",
+                "isLanguageTag": true,
+                "localizedName": "Portuguese",
+                "tagName": "auto___lang_pt",
+                "__typename": "Tag"
+              },
+              {
+                "id": "67259b26-ff83-444e-9d3c-faab390df16f",
+                "isLanguageTag": false,
+                "localizedName": "AMA",
+                "tagName": "AMA",
+                "__typename": "Tag"
+              },
+              {
+                "id": "ef4f33d5-a6cb-4935-bc1d-97c818a1e39e",
+                "isLanguageTag": false,
+                "localizedName": "Analysis",
+                "tagName": "Analysis",
+                "__typename": "Tag"
+              },
+              {
+                "id": "e1a43486-eee5-4f36-9ee6-76e72af00180",
+                "isLanguageTag": false,
+                "localizedName": "Ranked",
+                "tagName": "Ranked",
+                "__typename": "Tag"
+              },
+              {
+                "id": "ad18ee82-c0b2-46d4-b4f9-d45994443bd7",
+                "isLanguageTag": false,
+                "localizedName": "Beginner Players",
+                "tagName": "Beginner Players",
+                "__typename": "Tag"
+              },
+              {
+                "id": "dbe20395-0e44-4156-92de-4a77f6cdccf0",
+                "isLanguageTag": false,
+                "localizedName": "Wargame",
+                "tagName": "Wargame",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "59bf8eed-06fc-4df9-aa06-a51404f5464c",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjI0LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjI0LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFNakV1T1RnNE1USTBOamd6TURNeExDSmtJanBtWVd4elpTd2lkQ0k2ZEhKMVpYMD0ifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "380129026",
+            "title": "!16+ I never RAGE....",
+            "viewersCount": 521,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sunni-440x248.jpg",
+            "broadcaster": {
+              "id": "67509214",
+              "login": "sunni",
+              "displayName": "Sunni",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14d6c98-32f6-4822-98c5-c7aac1dc3b89-profile_image-50x50.png",
+              "primaryColorHex": "BD0078",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "313121e5-c4de-4f10-846f-6b7db36359d1",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjI1LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjI1LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzFNRFl1TlRNek9URXlPVGd6TmpFME5EY3NJbVFpT21aaGJITmxMQ0owSWpwMGNuVmxmUT09In0sIjMiOnsib2ZmIjowLCJ0b3QiOjB9fX0=",
+          "node": {
+            "id": "39352913806",
+            "title": "GOOD MORNING POGU | 5.10+ K/D  660+ Wins",
+            "viewersCount": 506,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wagnificent-440x248.jpg",
+            "broadcaster": {
+              "id": "109341125",
+              "login": "wagnificent",
+              "displayName": "wagnificent",
+              "roles": {
+                "isPartner": false,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8fc6205-d566-480e-aaeb-51c43456ca85-profile_image-50x50.jpg",
+              "primaryColorHex": "8205B3",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "5b19d710-d472-4930-b646-a0cb185aa036",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjI2LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjI2LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzBPRFl1TVRVME5URTJPREk1TWpFek55d2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "382334674",
+            "title": "Chillin with tarangus || IG : @ItsLomba || !rivals !Youtube !tiktok",
+            "viewersCount": 486,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itslomba-440x248.jpg",
+            "broadcaster": {
+              "id": "80999147",
+              "login": "itslomba",
+              "displayName": "ItsLomba",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/16387016-f78c-480a-aacb-d1670dad73e8-profile_image-50x50.png",
+              "primaryColorHex": "FF4747",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "5b9935eb-1e9a-4217-98ad-62bda5cff0d1",
+                "isLanguageTag": true,
+                "localizedName": "Italian",
+                "tagName": "auto___lang_it",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "11504dc5-b10d-4562-8aff-8de1b41f791c",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjI3LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjI3LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzBOakV1TmpNek1qRTJOVGsxTVRreE9Dd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "382803602",
+            "title": "WARZONE W/ VIK, SPRATT & FIFA | !giveaway !pc",
+            "viewersCount": 461,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzwarsz-440x248.jpg",
+            "broadcaster": {
+              "id": "123522003",
+              "login": "itzwarsz",
+              "displayName": "itzwarsz",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/af3e2f1e-28cb-4b99-ad15-adce81b07123-profile_image-50x50.png",
+              "primaryColorHex": "00C7AC",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "c755027b-118a-4877-9267-9b6da755cd90",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjI4LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjI4LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzBOakV1TXpjM016STJOVFkyTXpRNE1pd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "2483478769",
+            "title": "LIVEZINHA PÓS CIRURGIA + BOLA DE FODIS  - !comandos / Editor Team Liquid R6S",
+            "viewersCount": 461,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fredaumeditor-440x248.jpg",
+            "broadcaster": {
+              "id": "52006684",
+              "login": "fredaumeditor",
+              "displayName": "FredauMeditor",
+              "roles": {
+                "isPartner": false,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/03e7e073abe17367-profile_image-50x50.jpeg",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "39ee8140-901a-4762-bfca-8260dea1310f",
+                "isLanguageTag": true,
+                "localizedName": "Portuguese",
+                "tagName": "auto___lang_pt",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "10ae5cd1-6c2a-4350-9c18-5e7b0af0aae3",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjI5LCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjI5LCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzBNVGN1TmpJNE5EQXlPRFUxTXprek5pd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "2483596401",
+            "title": "HOPE YOU HAVE A GREAT DAY",
+            "viewersCount": 417,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_speros_-440x248.jpg",
+            "broadcaster": {
+              "id": "137218232",
+              "login": "speros_",
+              "displayName": "speros_",
+              "roles": {
+                "isPartner": false,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a1d46d6-e359-4395-9b5f-53f6d157daa5-profile_image-50x50.png",
+              "primaryColorHex": null,
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "isLanguageTag": true,
+                "localizedName": "English",
+                "tagName": "auto___lang_en",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "8cc6bbea-388a-4e7c-aa23-76773b321109",
+          "__typename": "StreamEdge"
+        },
+        {
+          "cursor": "eyJvZmYiOjMwLCJibGsiOjAsInN1YiI6eyIxIjp7Im9mZiI6MCwidG90IjowfSwiMiI6eyJvZmYiOjMwLCJ0b3QiOjE3OSwiY3VyIjoiZXlKeklqbzBNRGt1TnprMU9UTTVPRGt6TVRneE5Dd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifSwiMyI6eyJvZmYiOjAsInRvdCI6MH19fQ==",
+          "node": {
+            "id": "381985122",
+            "title": "Au menu - Cassage de FIAC ",
+            "viewersCount": 409,
+            "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kiguniin-440x248.jpg",
+            "broadcaster": {
+              "id": "268297838",
+              "login": "kiguniin",
+              "displayName": "KiGuNiiN",
+              "roles": {
+                "isPartner": true,
+                "__typename": "UserRoles"
+              },
+              "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c6555fa-7c53-4dfe-8738-83c04f2e7c9f-profile_image-50x50.png",
+              "primaryColorHex": "000000",
+              "__typename": "User"
+            },
+            "tags": [
+              {
+                "id": "6f655045-9989-4ef7-8f85-1edcec42d648",
+                "isLanguageTag": true,
+                "localizedName": "French",
+                "tagName": "auto___lang_fr",
+                "__typename": "Tag"
+              }
+            ],
+            "type": "live",
+            "game": {
+              "id": "512710",
+              "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Modern%20Warfare-40x56.jpg",
+              "name": "Call of Duty: Modern Warfare",
+              "displayName": "Call of Duty: Modern Warfare",
+              "__typename": "Game"
+            },
+            "__typename": "Stream"
+          },
+          "trackingID": "f259a15b-6955-4fe0-b14c-b7db8374cc3b",
+          "__typename": "StreamEdge"
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": true,
+        "__typename": "PageInfo"
+      },
+      "__typename": "StreamConnection"
+    },
+    "__typename": "Game"
+  }
+]
