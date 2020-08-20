@@ -1,10 +1,9 @@
-const request = require('superagent');
 const fs = require('fs');
 const fetch = require('node-fetch');
 const newData = require('./gumtree.json');
 const nodemon = require('nodemon');
 
-const CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
+// const CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
                 
 const cursors = [
   'eyJzIjowLCJkIjpmYWxzZSwidCI6dHJ1ZX0=',
@@ -13,7 +12,7 @@ const cursors = [
   'eyJzIjoyOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ=='
 ];
 
-const drops = (cursors) => {
+const drops = cursors => {
   return Promise.all([
     dataFetch(cursors[0]),
     dataFetch(cursors[1]),
