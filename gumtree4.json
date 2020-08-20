@@ -24,6 +24,12 @@
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Tanks-285x380.jpg"
   },
   {
+    "id": "514956",
+    "displayName": "MLB The Show 20",
+    "name": "MLB The Show 20",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/MLB%20The%20Show%2020-285x380.jpg"
+  },
+  {
     "id": "32502",
     "displayName": "World of Warships",
     "name": "World of Warships",
@@ -34,6 +40,18 @@
     "displayName": "Don't Starve Together",
     "name": "Don't Starve Together",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Don%27t%20Starve%20Together-285x380.jpg"
+  },
+  {
+    "id": "115977",
+    "displayName": "The Witcher 3: Wild Hunt",
+    "name": "The Witcher 3: Wild Hunt",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-285x380.jpg"
+  },
+  {
+    "id": "498523",
+    "displayName": "Conqueror's Blade",
+    "name": "Conqueror's Blade",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Conqueror%27s%20Blade-285x380.jpg"
   },
   {
     "id": "493217",
@@ -48,12 +66,6 @@
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Last%20Day%20On%20Earth:%20Survival-285x380.jpg"
   },
   {
-    "id": "115977",
-    "displayName": "The Witcher 3: Wild Hunt",
-    "name": "The Witcher 3: Wild Hunt",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-285x380.jpg"
-  },
-  {
     "id": "494327",
     "displayName": "Minion Masters",
     "name": "Minion Masters",
@@ -64,11 +76,5 @@
     "displayName": "Eternal",
     "name": "Eternal",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Eternal-285x380.jpg"
-  },
-  {
-    "id": "491289",
-    "displayName": "Infestation: The New Z",
-    "name": "Infestation: The New Z",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Infestation:%20The%20New%20Z-285x380.jpg"
   }
 ]
