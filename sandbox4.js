@@ -13,9 +13,10 @@ const mapVerifiedStreamers = (newData) => {
 
 function filterUsersWithVerifiedDrops(streamerNames) {
   return Promise.all(streamerNames.map(streamerName => getVerifiedDrops(streamerName)))
-    .then(streamers => streamers
-      .filter(streamerWithDrops => streamerWithDrops.hasDrops)
-      .map(streamerWithDrops => streamerWithDrops.streamerName));
+
+    .then(streamers => streamers)
+      // .filter(streamerWithDrops => streamerWithDrops.hasDrops)
+      // .map(streamerWithDrops => streamerWithDrops.streamerName));
 }
 
 function getVerifiedDrops(streamerName) {
@@ -29,7 +30,9 @@ function getVerifiedDrops(streamerName) {
     body: JSON.stringify(body(streamerName))
   })
     .then(res => res.json())
-    .then(([{ data }]) => ({ streamerName, hasDrops: data.user.stream?.isStreamDropsEnabled }));
+    .then(([{ data }]) => ({ loginName: data.user.login, 
+      channelId: data.user.id, 
+      dropsArray: data.user.lastBroadcast.game['activeDropCampaigns'].map(item => item.applicableChannels.map(channel => channel.id))[0] }));
 }
 
 function body(streamerName) {

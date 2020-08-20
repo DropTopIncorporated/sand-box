@@ -1,5 +1,5 @@
 [{"operationName":"BrowsePage_AllDirectories","variables":{"limit":100,"options":{"recommendationsContext":{"platform":"web"},"requestID":"JIRA-VXP-2397","sort":"VIEWER_COUNT","tags":[]},"cursor":"eyJvZmYiOjIwOCwiYmxrIjowLCJzdWIiOnsiMSI6eyJvZmYiOjEwMCwidG90IjoxMDB9LCIyIjp7Im9mZiI6MTgyLCJ0b3QiOjMyOSwiY3VyIjoiZXlKeklqb3hPRElzSW1RaU9tWmhiSE5sTENKMElqcDBjblZsZlE9PSJ9LCIzIjp7Im9mZiI6MCwidG90IjowfX19"},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"78957de9388098820e222c88ec14e85aaf6cf844adf44c8319c545c75fd63203"}}}]
-
+g
 ^^ this gets us the games in directory (1ST FETCH CALL) -- filter through to see which games have active drop campaign array of a length of at least 1. -- put the results through the 2nd fetch call. -- keep this information in Game Model
 
 
