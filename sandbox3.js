@@ -17,12 +17,15 @@ const game = getGameName(newData);
   
 const drops = (game) => {
   return Promise.all([
-    dataFetch(game[0]),
-    // dataFetch(game[1]),
-    // dataFetch(game[2]),
-    // dataFetch(game[3])
+    game[0],
+    dataFetch(game[0])
   ])
-    .then(array => fs.writeFileSync('gumtree6.json', JSON.stringify(array.flat(), null, 2)));
+    .then(([game, streamers]) => {
+      return ({
+        [game]: streamers,
+      });
+    })
+    .then(array => fs.writeFileSync('gumtree6.json', JSON.stringify(array, null, 2)));
 };
   
 function dataFetch(game) {
@@ -38,23 +41,11 @@ function dataFetch(game) {
     .then(res => res.json())
     .then(item => {
       return (item[0].data.game.streams['edges'].map(item => item.node.broadcaster.login));
-      
-    //   item[0].data.directoriesWithTags['edges']
-    //     .filter(item => item.node.activeDropCampaigns.length > 0)
-    //     .map(({ node: { id, displayName, name, avatarURL } }) => {
-    //       return {
-    //         id,
-    //         displayName,
-    //         name,
-    //         imageUrl: avatarURL
-    //       };
-    //     });
     });
 }
   
 function body(gameName) {
   return [{ 'operationName':'DirectoryPage_Game', 'variables':{ 'name':`${gameName}`, 'options':{ 'sort':'RELEVANCE', 'recommendationsContext':{ 'platform':'web' }, 'requestID':'JIRA-VXP-2397', 'tags':[] }, 'sortTypeIsRecency':false, 'limit':100 }, 'extensions':{ 'persistedQuery':{ 'version':1, 'sha256Hash':'5feb6766dc5d70b33ae9a37cda21e1cd7674187cb74f84b4dd3eb69086d9489c' } } }];
 }
-
 
 drops(game);
