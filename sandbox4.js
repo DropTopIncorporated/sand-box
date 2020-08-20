@@ -32,7 +32,7 @@ function getVerifiedDrops(streamerName) {
     .then(res => res.json())
     .then(([{ data }]) => ({ loginName: data.user.login, 
       channelId: data.user.id, 
-      dropsArray: data.user.lastBroadcast.game['activeDropCampaigns'].map(item => item.applicableChannels.map(channel => channel.id))[0] }));
+      dropsArray: data.user.lastBroadcast.game.activeDropCampaigns.map(item => item.applicableChannels.map(channel => channel.id))[0] }));
 }
 
 function body(streamerName) {
