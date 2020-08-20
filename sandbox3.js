@@ -37,7 +37,7 @@ function dataFetch(game) {
   })
     .then(res => res.json())
     .then(item => {
-      return item[0].data.game.streams['edges'];
+      return (item[0].data.game.streams['edges'].map(item => item.node.broadcaster.login));
       
     //   item[0].data.directoriesWithTags['edges']
     //     .filter(item => item.node.activeDropCampaigns.length > 0)
