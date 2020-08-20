@@ -13,12 +13,7 @@ const cursors = [
 ];
 
 const drops = cursors => {
-  return Promise.all([
-    dataFetch(cursors[0]),
-    dataFetch(cursors[1]),
-    dataFetch(cursors[2]),
-    dataFetch(cursors[3])
-  ])
+  return Promise.all([...Array(cursors.length)].map((_, i) => dataFetch(cursors[i])))
     .then(array => fs.writeFileSync('gumtree4.json', JSON.stringify(array.flat(), null, 2)));
 };
 
