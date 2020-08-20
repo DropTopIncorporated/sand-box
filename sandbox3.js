@@ -9,26 +9,27 @@ const cursors = [
   'eyJzIjoyOTksImQiOmZhbHNlLCJ0Ijp0cnVlfQ=='
 ];
 
-const getGameName = (gameArray) => {
+const getGameNames = (gameArray) => {
   return gameArray.map(item => item.name);
 };
 
-const game = getGameName(newData);
+const games = getGameNames(newData);
   
-const drops = (game) => {
-  return Promise.all([
-    game[0],
-    dataFetch(game[0])
-  ])
-    .then(([game, streamers]) => {
-      return ({
-        [game]: streamers,
-      });
+const drops = (games) => {
+
+  return Promise.all(games.map(name => getGameStreamers(name)))
+
+    .then((gameStreamers) => {
+      return Object.fromEntries(gameStreamers.map((streamers, i) => [
+        games[i],
+        streamers
+      ])
+      );
     })
     .then(array => fs.writeFileSync('gumtree6.json', JSON.stringify(array, null, 2)));
 };
   
-function dataFetch(game) {
+function getGameStreamers(game) {
   return fetch('https://gql.twitch.tv/gql', {
     method: 'POST',
     headers: {
@@ -48,4 +49,4 @@ function body(gameName) {
   return [{ 'operationName':'DirectoryPage_Game', 'variables':{ 'name':`${gameName}`, 'options':{ 'sort':'RELEVANCE', 'recommendationsContext':{ 'platform':'web' }, 'requestID':'JIRA-VXP-2397', 'tags':[] }, 'sortTypeIsRecency':false, 'limit':100 }, 'extensions':{ 'persistedQuery':{ 'version':1, 'sha256Hash':'5feb6766dc5d70b33ae9a37cda21e1cd7674187cb74f84b4dd3eb69086d9489c' } } }];
 }
 
-drops(game);
+drops(games);
