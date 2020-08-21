@@ -1,6 +1,6 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
-const newData =  require('./gumtree6.json');
+const newData = require('./gumtree6.json');
 
 const mapVerifiedStreamers = (newData) => {
 
@@ -8,15 +8,14 @@ const mapVerifiedStreamers = (newData) => {
     return Promise.all([gameName, filterUsersWithVerifiedDrops(streamers)]);
   }))
     .then(entries => Object.fromEntries(entries))
-    .then(array => fs.writeFileSync('results.json', JSON.stringify(array, null, 2)));
+    .then(array => fs.writeFileSync('results2.json', JSON.stringify(array, null, 2)));
 };
 
 function filterUsersWithVerifiedDrops(streamerNames) {
   return Promise.all(streamerNames.map(streamerName => getVerifiedDrops(streamerName)))
-
-    .then(streamers => streamers);
-  // .filter(streamerWithDrops => streamerWithDrops.hasDrops)
-  // .map(streamerWithDrops => streamerWithDrops.streamerName));
+    // .then(item => item.map(newItem => newItem.length > 0))
+    .then(streamers => streamers
+      .filter(streamer => streamer.hasDrops));
 }
 
 function getVerifiedDrops(streamerName) {
@@ -30,14 +29,15 @@ function getVerifiedDrops(streamerName) {
     body: JSON.stringify(body(streamerName))
   })
     .then(res => res.json())
-    .then(([{ data }]) => ({ loginName: data.user.login, 
-      channelId: data.user.id, 
-      newDropsForAll: data.user.lastBroadcast.game?.activeDropCampaigns.filter(item => item.isAvailableToAllChannels === true).map(item => item),
-      // dropsForAll: data.user.lastBroadcast.game?.activeDropCampaigns,
-      dropSpecificChannelArray: data.user.lastBroadcast.game?.activeDropCampaigns
-        .map(item => item.applicableChannels
-          .map(channel => channel.id))[0] }));
-  // }));
+    .then(([{ data }]) => ({
+      loginName: data.user.login,
+      hasDrops: userHasDrops(data)
+    }));
+}
+
+function userHasDrops(userData) {
+  return userData.user.lastBroadcast.game?.activeDropCampaigns
+    .some(campaign => campaign.isAvailableToAllChannels || campaign.applicableChannels.find(channel => channel.id === userData.user.id));
 }
 
 function body(streamerName) {
@@ -45,3 +45,18 @@ function body(streamerName) {
 }
 
 mapVerifiedStreamers(newData);
+
+// ({ loginName: data.user.login, 
+//   channelId: data.user.id, 
+//   newDropsForAll: data.user.lastBroadcast.game?.activeDropCampaigns.filter(item => item.isAvailableToAllChannels === true).map(item => item),
+//   dropSpecificChannelArray: data.user.lastBroadcast.game?.activeDropCampaigns
+//     .map(item => item.applicableChannels
+//       .map(channel => channel.id))[0] })
+
+// .then(([streamers]) => ({ 
+//   loginName: streamers.loginName,
+//   applicableChannel: streamers.dropSpecificChannelArray
+//     .includes(streamers.channelId) 
+//   || streamers.newDropsForAll
+//     .filter(drops => drops.isAvailableToAllChannels)
+// }));
