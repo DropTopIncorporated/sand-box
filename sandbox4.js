@@ -8,7 +8,7 @@ const mapVerifiedStreamers = (newData) => {
     return Promise.all([gameName, filterUsersWithVerifiedDrops(streamers)]);
   }))
     .then(entries => Object.fromEntries(entries))
-    .then(array => fs.writeFileSync('results2.json', JSON.stringify(array, null, 2)));
+    .then(array => fs.writeFileSync('results4.json', JSON.stringify(array, null, 2)));
 };
 
 function filterUsersWithVerifiedDrops(streamerNames) {

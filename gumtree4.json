@@ -1,5 +1,11 @@
 [
   {
+    "id": "460630",
+    "displayName": "Tom Clancy's Rainbow Six: Siege",
+    "name": "Tom Clancy's Rainbow Six: Siege",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Tom%20Clancy%27s%20Rainbow%20Six:%20Siege-285x380.jpg"
+  },
+  {
     "id": "493057",
     "displayName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
     "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
@@ -12,22 +18,10 @@
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Rocket%20League-285x380.jpg"
   },
   {
-    "id": "460630",
-    "displayName": "Tom Clancy's Rainbow Six: Siege",
-    "name": "Tom Clancy's Rainbow Six: Siege",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Tom%20Clancy%27s%20Rainbow%20Six:%20Siege-285x380.jpg"
-  },
-  {
     "id": "514194",
     "displayName": "Rogue Company",
     "name": "Rogue Company",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Company-285x380.jpg"
-  },
-  {
-    "id": "488634",
-    "displayName": "Don't Starve Together",
-    "name": "Don't Starve Together",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Don%27t%20Starve%20Together-285x380.jpg"
   },
   {
     "id": "32502",
@@ -36,10 +30,10 @@
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Warships-285x380.jpg"
   },
   {
-    "id": "115977",
-    "displayName": "The Witcher 3: Wild Hunt",
-    "name": "The Witcher 3: Wild Hunt",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-285x380.jpg"
+    "id": "488634",
+    "displayName": "Don't Starve Together",
+    "name": "Don't Starve Together",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Don%27t%20Starve%20Together-285x380.jpg"
   },
   {
     "id": "493217",
@@ -54,10 +48,10 @@
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./Last%20Day%20On%20Earth:%20Survival-285x380.jpg"
   },
   {
-    "id": "494327",
-    "displayName": "Minion Masters",
-    "name": "Minion Masters",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Minion%20Masters-285x380.jpg"
+    "id": "115977",
+    "displayName": "The Witcher 3: Wild Hunt",
+    "name": "The Witcher 3: Wild Hunt",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-285x380.jpg"
   },
   {
     "id": "491403",
