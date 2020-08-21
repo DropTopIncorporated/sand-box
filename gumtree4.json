@@ -12,12 +12,6 @@
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/PLAYERUNKNOWN%27S%20BATTLEGROUNDS-285x380.jpg"
   },
   {
-    "id": "30921",
-    "displayName": "Rocket League",
-    "name": "Rocket League",
-    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Rocket%20League-285x380.jpg"
-  },
-  {
     "id": "514194",
     "displayName": "Rogue Company",
     "name": "Rogue Company",
@@ -52,6 +46,12 @@
     "displayName": "The Witcher 3: Wild Hunt",
     "name": "The Witcher 3: Wild Hunt",
     "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-285x380.jpg"
+  },
+  {
+    "id": "494327",
+    "displayName": "Minion Masters",
+    "name": "Minion Masters",
+    "imageUrl": "https://static-cdn.jtvnw.net/ttv-boxart/Minion%20Masters-285x380.jpg"
   },
   {
     "id": "491403",

@@ -22,8 +22,8 @@ function getStreamersInformation(streamerLogin) {
       'Authorization': 'Bearer y8u1rjycjgxd0doat4n1ui4saswjls'
     },
   })
-    .then(res => res.json())
-    .then(data => data);
+    .then(res => res.json());
+  // .then(data => data);
         
   //     ({
   //   streamTitle: data.title,

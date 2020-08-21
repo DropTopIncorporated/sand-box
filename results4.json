@@ -1,7 +1,6 @@
 {
   "Tom Clancy's Rainbow Six: Siege": [],
   "PLAYERUNKNOWN'S BATTLEGROUNDS": [],
-  "Rocket League": [],
   "Rogue Company": [
     {
       "loginName": "schviftyfive",
@@ -12,7 +11,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "z1unknown",
+      "loginName": "archiboy_",
       "hasDrops": true
     },
     {
@@ -20,7 +19,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "gamewithgray",
+      "loginName": "z1unknown",
       "hasDrops": true
     },
     {
@@ -28,11 +27,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "brenin",
+      "loginName": "gamewithgray",
       "hasDrops": true
     },
     {
-      "loginName": "archiboy_",
+      "loginName": "brenin",
       "hasDrops": true
     },
     {
@@ -86,11 +85,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "overlordbou",
+      "loginName": "ichasegaming",
       "hasDrops": true
     },
     {
-      "loginName": "kidneycowboy",
+      "loginName": "overlordbou",
       "hasDrops": true
     },
     {
@@ -98,11 +97,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "azakis",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ichasegaming",
+      "loginName": "kidneycowboy",
       "hasDrops": true
     },
     {
@@ -114,6 +109,10 @@
       "hasDrops": true
     },
     {
+      "loginName": "retired8404",
+      "hasDrops": true
+    },
+    {
       "loginName": "doc_scylla",
       "hasDrops": true
     },
@@ -122,15 +121,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "retired8404",
+      "loginName": "martin_riggs86",
+      "hasDrops": true
+    },
+    {
+      "loginName": "gameprodigy",
       "hasDrops": true
     },
     {
       "loginName": "m4rsh4l",
-      "hasDrops": true
-    },
-    {
-      "loginName": "martin_riggs86",
       "hasDrops": true
     },
     {
@@ -142,11 +141,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "thenoticer15",
+      "loginName": "ahskance",
       "hasDrops": true
     },
     {
-      "loginName": "gameprodigy",
+      "loginName": "thenoticer15",
       "hasDrops": true
     },
     {
@@ -154,11 +153,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "ahskance",
+      "loginName": "grease_monkey_01",
       "hasDrops": true
     },
     {
-      "loginName": "grease_monkey_01",
+      "loginName": "dicetea",
       "hasDrops": true
     },
     {
@@ -182,10 +181,6 @@
       "hasDrops": true
     },
     {
-      "loginName": "julianheafy",
-      "hasDrops": true
-    },
-    {
       "loginName": "sss_itv",
       "hasDrops": true
     },
@@ -198,7 +193,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "maxwell_van_smart",
+      "loginName": "julianheafy",
       "hasDrops": true
     },
     {
@@ -210,39 +205,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "ferrat86",
-      "hasDrops": true
-    },
-    {
       "loginName": "nono7418",
-      "hasDrops": true
-    },
-    {
-      "loginName": "fcnone",
-      "hasDrops": true
-    },
-    {
-      "loginName": "happygirl730",
-      "hasDrops": true
-    },
-    {
-      "loginName": "flyawaysafe944",
-      "hasDrops": true
-    },
-    {
-      "loginName": "v1ip3r",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kestrow",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dragod1389",
-      "hasDrops": true
-    },
-    {
-      "loginName": "helliontv_",
       "hasDrops": true
     },
     {
@@ -254,35 +217,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "lord_stormrider",
+      "loginName": "flyawaysafe944",
       "hasDrops": true
     },
     {
-      "loginName": "demizedempire",
-      "hasDrops": true
-    },
-    {
-      "loginName": "el_natto",
-      "hasDrops": true
-    },
-    {
-      "loginName": "therealoverkill",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zmeleron",
-      "hasDrops": true
-    },
-    {
-      "loginName": "abaddonmenet911",
-      "hasDrops": true
-    },
-    {
-      "loginName": "datura_inoxia",
-      "hasDrops": true
-    },
-    {
-      "loginName": "natoh2",
+      "loginName": "ferrat86",
       "hasDrops": true
     },
     {
@@ -290,23 +229,23 @@
       "hasDrops": true
     },
     {
-      "loginName": "dokterbeefcake",
+      "loginName": "fcnone",
       "hasDrops": true
     },
     {
-      "loginName": "rewind_____",
+      "loginName": "v1ip3r",
       "hasDrops": true
     },
     {
-      "loginName": "tommyboypdx",
+      "loginName": "demizedempire",
       "hasDrops": true
     },
     {
-      "loginName": "xxxzirvexxx",
+      "loginName": "datura_inoxia",
       "hasDrops": true
     },
     {
-      "loginName": "madebyfritz",
+      "loginName": "el_natto",
       "hasDrops": true
     },
     {
@@ -314,7 +253,35 @@
       "hasDrops": true
     },
     {
-      "loginName": "vinkkey",
+      "loginName": "abaddonmenet911",
+      "hasDrops": true
+    },
+    {
+      "loginName": "happygirl730",
+      "hasDrops": true
+    },
+    {
+      "loginName": "lord_stormrider",
+      "hasDrops": true
+    },
+    {
+      "loginName": "rewind_____",
+      "hasDrops": true
+    },
+    {
+      "loginName": "maxwell_van_smart",
+      "hasDrops": true
+    },
+    {
+      "loginName": "therealoverkill",
+      "hasDrops": true
+    },
+    {
+      "loginName": "dragod1389",
+      "hasDrops": true
+    },
+    {
+      "loginName": "ezbreezy750",
       "hasDrops": true
     },
     {
@@ -322,7 +289,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "sdrogerio",
+      "loginName": "natoh2",
+      "hasDrops": true
+    },
+    {
+      "loginName": "zmeleron",
       "hasDrops": true
     },
     {
@@ -330,15 +301,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "bismark762",
+      "loginName": "dokterbeefcake",
       "hasDrops": true
     },
     {
-      "loginName": "tsbxsaber",
+      "loginName": "tommyboypdx",
       "hasDrops": true
     },
     {
-      "loginName": "alyce_wonderlandgaming",
+      "loginName": "helliontv_",
       "hasDrops": true
     },
     {
@@ -346,7 +317,23 @@
       "hasDrops": true
     },
     {
-      "loginName": "gracehub_",
+      "loginName": "bismark762",
+      "hasDrops": true
+    },
+    {
+      "loginName": "kujak2626",
+      "hasDrops": true
+    },
+    {
+      "loginName": "alyce_wonderlandgaming",
+      "hasDrops": true
+    },
+    {
+      "loginName": "madebyfritz",
+      "hasDrops": true
+    },
+    {
+      "loginName": "tsbxsaber",
       "hasDrops": true
     },
     {
@@ -354,7 +341,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "realwfdi",
+      "loginName": "xxxzirvexxx",
+      "hasDrops": true
+    },
+    {
+      "loginName": "le_visiteur",
       "hasDrops": true
     },
     {
@@ -366,7 +357,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "ezbreezy750",
+      "loginName": "vinkkey",
       "hasDrops": true
     },
     {
@@ -382,15 +373,15 @@
       "hasDrops": true
     },
     {
+      "loginName": "sdrogerio",
+      "hasDrops": true
+    },
+    {
       "loginName": "gingi2506",
       "hasDrops": true
     },
     {
-      "loginName": "clganser",
-      "hasDrops": true
-    },
-    {
-      "loginName": "misterzoltangg",
+      "loginName": "sarrogaming",
       "hasDrops": true
     },
     {
@@ -399,6 +390,10 @@
     },
     {
       "loginName": "dozer456",
+      "hasDrops": true
+    },
+    {
+      "loginName": "suntzu_mistrzu",
       "hasDrops": true
     },
     {
@@ -418,10 +413,6 @@
       "hasDrops": true
     },
     {
-      "loginName": "cybercaptin",
-      "hasDrops": true
-    },
-    {
       "loginName": "tressombrass",
       "hasDrops": true
     },
@@ -430,19 +421,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "craigsie",
+      "loginName": "dirt813",
       "hasDrops": true
     },
     {
-      "loginName": "leftydoesgames",
+      "loginName": "samurkin__",
       "hasDrops": true
     },
     {
-      "loginName": "kujak2626",
-      "hasDrops": true
-    },
-    {
-      "loginName": "pancoretv",
+      "loginName": "northmantv",
       "hasDrops": true
     },
     {
@@ -455,6 +442,18 @@
     },
     {
       "loginName": "maniacmouse",
+      "hasDrops": true
+    },
+    {
+      "loginName": "quateregallus",
+      "hasDrops": true
+    },
+    {
+      "loginName": "vince229",
+      "hasDrops": true
+    },
+    {
+      "loginName": "n3k0_s3mp41",
       "hasDrops": true
     }
   ],
@@ -488,6 +487,10 @@
       "hasDrops": true
     },
     {
+      "loginName": "kyledempsterstudios",
+      "hasDrops": true
+    },
+    {
       "loginName": "shyffy",
       "hasDrops": true
     },
@@ -496,15 +499,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "kyledempsterstudios",
-      "hasDrops": true
-    },
-    {
       "loginName": "miauzita",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mei_otonashi",
       "hasDrops": true
     },
     {
@@ -512,7 +507,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "pardow",
+      "loginName": "mei_otonashi",
       "hasDrops": true
     },
     {
@@ -520,7 +515,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "thademais",
+      "loginName": "pardow",
       "hasDrops": true
     },
     {
@@ -540,11 +535,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "holy_mew",
+      "loginName": "eloh98",
       "hasDrops": true
     },
     {
-      "loginName": "gutooss",
+      "loginName": "thademais",
       "hasDrops": true
     },
     {
@@ -552,15 +547,31 @@
       "hasDrops": true
     },
     {
+      "loginName": "gutooss",
+      "hasDrops": true
+    },
+    {
       "loginName": "ueproducoes",
       "hasDrops": true
     },
     {
-      "loginName": "eloh98",
+      "loginName": "holy_mew",
+      "hasDrops": true
+    },
+    {
+      "loginName": "minyugal",
+      "hasDrops": true
+    },
+    {
+      "loginName": "frum0r",
       "hasDrops": true
     },
     {
       "loginName": "thepandinhah",
+      "hasDrops": true
+    },
+    {
+      "loginName": "miyako_baba",
       "hasDrops": true
     },
     {
@@ -572,35 +583,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "minyugal",
-      "hasDrops": true
-    },
-    {
-      "loginName": "miyako_baba",
-      "hasDrops": true
-    },
-    {
       "loginName": "coldwooparty1",
-      "hasDrops": true
-    },
-    {
-      "loginName": "heathenmaximous",
-      "hasDrops": true
-    },
-    {
-      "loginName": "frum0r",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lahoradelapurga",
-      "hasDrops": true
-    },
-    {
-      "loginName": "eltacoward",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nitridda",
       "hasDrops": true
     },
     {
@@ -608,67 +591,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "jorgitodpunta",
-      "hasDrops": true
-    },
-    {
-      "loginName": "clover_q",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lowmemore",
-      "hasDrops": true
-    },
-    {
-      "loginName": "chibireapstv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "fabrixxx",
-      "hasDrops": true
-    },
-    {
-      "loginName": "boomerererererer",
-      "hasDrops": true
-    },
-    {
       "loginName": "jhonatabs",
-      "hasDrops": true
-    },
-    {
-      "loginName": "treehu99er",
-      "hasDrops": true
-    },
-    {
-      "loginName": "reapeth",
-      "hasDrops": true
-    },
-    {
-      "loginName": "boukhrisstv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "cpigloo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gamerguest_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "alosworld",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thykingjames",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dodgethistv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "feunandah",
       "hasDrops": true
     },
     {
@@ -676,7 +599,95 @@
       "hasDrops": true
     },
     {
+      "loginName": "lowmemore",
+      "hasDrops": true
+    },
+    {
+      "loginName": "inception7",
+      "hasDrops": true
+    },
+    {
+      "loginName": "clover_q",
+      "hasDrops": true
+    },
+    {
+      "loginName": "nitridda",
+      "hasDrops": true
+    },
+    {
+      "loginName": "vbolanho",
+      "hasDrops": true
+    },
+    {
+      "loginName": "biatando",
+      "hasDrops": true
+    },
+    {
+      "loginName": "gamerguest_",
+      "hasDrops": true
+    },
+    {
+      "loginName": "lahoradelapurga",
+      "hasDrops": true
+    },
+    {
+      "loginName": "fabrixxx",
+      "hasDrops": true
+    },
+    {
+      "loginName": "vitocarlinhos",
+      "hasDrops": true
+    },
+    {
+      "loginName": "treehu99er",
+      "hasDrops": true
+    },
+    {
+      "loginName": "jorgitodpunta",
+      "hasDrops": true
+    },
+    {
+      "loginName": "heathenmaximous",
+      "hasDrops": true
+    },
+    {
+      "loginName": "reapeth",
+      "hasDrops": true
+    },
+    {
       "loginName": "john_e_rocketz",
+      "hasDrops": true
+    },
+    {
+      "loginName": "cpigloo",
+      "hasDrops": true
+    },
+    {
+      "loginName": "mantisf1re",
+      "hasDrops": true
+    },
+    {
+      "loginName": "chibireapstv",
+      "hasDrops": true
+    },
+    {
+      "loginName": "alosworld",
+      "hasDrops": true
+    },
+    {
+      "loginName": "dodgethistv",
+      "hasDrops": true
+    },
+    {
+      "loginName": "gio_tash",
+      "hasDrops": true
+    },
+    {
+      "loginName": "feunandah",
+      "hasDrops": true
+    },
+    {
+      "loginName": "eltacoward",
       "hasDrops": true
     },
     {
@@ -708,11 +719,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "h4ngeer",
+      "loginName": "boomerererererer",
       "hasDrops": true
     },
     {
-      "loginName": "vitocarlinhos",
+      "loginName": "tongames_",
+      "hasDrops": true
+    },
+    {
+      "loginName": "h4ngeer",
       "hasDrops": true
     },
     {
@@ -724,11 +739,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "gio_tash",
+      "loginName": "thykingjames",
       "hasDrops": true
     },
     {
       "loginName": "naninhoontwitch",
+      "hasDrops": true
+    },
+    {
+      "loginName": "renevictorm",
       "hasDrops": true
     }
   ],
@@ -770,19 +789,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "luluxia946",
-      "hasDrops": true
-    },
-    {
       "loginName": "blayz_by_fill",
-      "hasDrops": true
-    },
-    {
-      "loginName": "d_stalke",
-      "hasDrops": true
-    },
-    {
-      "loginName": "anastationlive",
       "hasDrops": true
     },
     {
@@ -790,7 +797,23 @@
       "hasDrops": true
     },
     {
+      "loginName": "anastationlive",
+      "hasDrops": true
+    },
+    {
+      "loginName": "luluxia946",
+      "hasDrops": true
+    },
+    {
+      "loginName": "d_stalke",
+      "hasDrops": true
+    },
+    {
       "loginName": "hexic_tv",
+      "hasDrops": true
+    },
+    {
+      "loginName": "mtxablau",
       "hasDrops": true
     },
     {
@@ -807,10 +830,6 @@
     },
     {
       "loginName": "jaskierprzechwalki",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mtxablau",
       "hasDrops": true
     },
     {
@@ -850,11 +869,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "anya_io",
+      "loginName": "aryssa614",
       "hasDrops": true
     },
     {
-      "loginName": "aryssa614",
+      "loginName": "anya_io",
       "hasDrops": true
     },
     {
@@ -866,7 +885,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "classylibrarian",
+      "loginName": "trilliamzz",
       "hasDrops": true
     },
     {
@@ -874,7 +893,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "derpydo",
+      "loginName": "conter6",
       "hasDrops": true
     },
     {
@@ -882,19 +901,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "trilliamzz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "conter6",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ameliemunic",
-      "hasDrops": true
-    },
-    {
-      "loginName": "i3lackj8ck",
+      "loginName": "derpydo",
       "hasDrops": true
     },
     {
@@ -902,7 +909,15 @@
       "hasDrops": true
     },
     {
+      "loginName": "latrish_reloaded",
+      "hasDrops": true
+    },
+    {
       "loginName": "karis26",
+      "hasDrops": true
+    },
+    {
+      "loginName": "ameliemunic",
       "hasDrops": true
     },
     {
@@ -910,43 +925,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "drseasnake",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sedmaya_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sassyphras",
-      "hasDrops": true
-    },
-    {
-      "loginName": "prostonastyaa",
-      "hasDrops": true
-    },
-    {
-      "loginName": "latrish_reloaded",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thespookycrew",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zakzakgoplay",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nabaro",
-      "hasDrops": true
-    },
-    {
       "loginName": "newbcorleone",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mguzmangm",
       "hasDrops": true
     },
     {
@@ -954,39 +933,27 @@
       "hasDrops": true
     },
     {
-      "loginName": "lucaslucassen",
+      "loginName": "nabaro",
       "hasDrops": true
     },
     {
-      "loginName": "blackice_ru",
+      "loginName": "drseasnake",
       "hasDrops": true
     },
     {
-      "loginName": "happydog1968",
+      "loginName": "zakzakgoplay",
       "hasDrops": true
     },
     {
-      "loginName": "wildrage215",
+      "loginName": "sassyphras",
       "hasDrops": true
     },
     {
-      "loginName": "loremasternojah",
+      "loginName": "sedmaya_",
       "hasDrops": true
     },
     {
-      "loginName": "owszeem",
-      "hasDrops": true
-    },
-    {
-      "loginName": "chobotar",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dragonheart___",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ondream",
+      "loginName": "prostonastyaa",
       "hasDrops": true
     },
     {
@@ -994,15 +961,43 @@
       "hasDrops": true
     },
     {
+      "loginName": "hk_freshikki",
+      "hasDrops": true
+    },
+    {
+      "loginName": "blackice_ru",
+      "hasDrops": true
+    },
+    {
+      "loginName": "ondream",
+      "hasDrops": true
+    },
+    {
+      "loginName": "mguzmangm",
+      "hasDrops": true
+    },
+    {
+      "loginName": "thespookycrew",
+      "hasDrops": true
+    },
+    {
+      "loginName": "wildrage215",
+      "hasDrops": true
+    },
+    {
+      "loginName": "koffeinflash",
+      "hasDrops": true
+    },
+    {
+      "loginName": "happydog1968",
+      "hasDrops": true
+    },
+    {
+      "loginName": "dragonheart___",
+      "hasDrops": true
+    },
+    {
       "loginName": "lidsvids",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gorapha",
-      "hasDrops": true
-    },
-    {
-      "loginName": "marc_le_chat",
       "hasDrops": true
     },
     {
@@ -1010,7 +1005,19 @@
       "hasDrops": true
     },
     {
-      "loginName": "mr_mangese",
+      "loginName": "mimikasuo",
+      "hasDrops": true
+    },
+    {
+      "loginName": "denoied",
+      "hasDrops": true
+    },
+    {
+      "loginName": "zackjm14",
+      "hasDrops": true
+    },
+    {
+      "loginName": "theglitchguy_107",
       "hasDrops": true
     },
     {
@@ -1018,11 +1025,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "mimikasuo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "pippogaming7",
+      "loginName": "mr_mangese",
       "hasDrops": true
     },
     {
@@ -1038,11 +1041,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "desambacancao",
+      "loginName": "leshaviola",
       "hasDrops": true
     },
     {
-      "loginName": "koffeinflash",
+      "loginName": "kailadia",
+      "hasDrops": true
+    },
+    {
+      "loginName": "desambacancao",
       "hasDrops": true
     },
     {
@@ -1050,7 +1057,11 @@
       "hasDrops": true
     },
     {
-      "loginName": "callmearmin",
+      "loginName": "chobotar",
+      "hasDrops": true
+    },
+    {
+      "loginName": "loremasternojah",
       "hasDrops": true
     },
     {
@@ -1066,27 +1077,19 @@
       "hasDrops": true
     },
     {
-      "loginName": "whyguy302",
+      "loginName": "gorapha",
       "hasDrops": true
     },
     {
-      "loginName": "jalop15",
+      "loginName": "rec1usee",
       "hasDrops": true
     },
     {
-      "loginName": "blyri",
+      "loginName": "marc_le_chat",
       "hasDrops": true
     },
     {
       "loginName": "histerlia",
-      "hasDrops": true
-    },
-    {
-      "loginName": "snug_d0g",
-      "hasDrops": true
-    },
-    {
-      "loginName": "theglitchguy_107",
       "hasDrops": true
     },
     {
@@ -1098,7 +1101,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "spacebobz",
+      "loginName": "pippogaming7",
       "hasDrops": true
     },
     {
@@ -1106,7 +1109,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "zackjm14",
+      "loginName": "zdzichowdwoch",
       "hasDrops": true
     },
     {
@@ -1127,10 +1130,6 @@
     },
     {
       "loginName": "smashthatapex",
-      "hasDrops": true
-    },
-    {
-      "loginName": "leshaviola",
       "hasDrops": true
     },
     {
@@ -1194,11 +1193,19 @@
       "hasDrops": true
     },
     {
+      "loginName": "callmearmin",
+      "hasDrops": true
+    },
+    {
       "loginName": "m4nog",
       "hasDrops": true
     },
     {
-      "loginName": "lexingtonandconcord",
+      "loginName": "henry81earthling",
+      "hasDrops": true
+    },
+    {
+      "loginName": "owszeem",
       "hasDrops": true
     },
     {
@@ -1206,11 +1213,15 @@
       "hasDrops": true
     },
     {
-      "loginName": "rec1usee",
+      "loginName": "whyguy302",
       "hasDrops": true
     },
     {
       "loginName": "azombieday12345",
+      "hasDrops": true
+    },
+    {
+      "loginName": "jalop15",
       "hasDrops": true
     },
     {
@@ -1230,15 +1241,109 @@
       "hasDrops": true
     },
     {
-      "loginName": "denoied",
+      "loginName": "soul_engine",
       "hasDrops": true
     },
     {
-      "loginName": "zdzichowdwoch",
+      "loginName": "blyri",
       "hasDrops": true
     },
     {
-      "loginName": "mrbronchi",
+      "loginName": "uro666",
+      "hasDrops": true
+    },
+    {
+      "loginName": "upsetgamertri45",
+      "hasDrops": true
+    },
+    {
+      "loginName": "snug_d0g",
+      "hasDrops": true
+    }
+  ],
+  "Minion Masters": [
+    {
+      "loginName": "sinobii",
+      "hasDrops": true
+    },
+    {
+      "loginName": "expertares",
+      "hasDrops": true
+    },
+    {
+      "loginName": "equoxdragon",
+      "hasDrops": true
+    },
+    {
+      "loginName": "hotair10",
+      "hasDrops": true
+    },
+    {
+      "loginName": "celeboran",
+      "hasDrops": true
+    },
+    {
+      "loginName": "skunkeyyy",
+      "hasDrops": true
+    },
+    {
+      "loginName": "posmedleyttv",
+      "hasDrops": true
+    },
+    {
+      "loginName": "arjetlam123",
+      "hasDrops": true
+    },
+    {
+      "loginName": "can_lem0n",
+      "hasDrops": true
+    },
+    {
+      "loginName": "elimiotis",
+      "hasDrops": true
+    },
+    {
+      "loginName": "babylano",
+      "hasDrops": true
+    },
+    {
+      "loginName": "germangeamer",
+      "hasDrops": true
+    },
+    {
+      "loginName": "seferon84",
+      "hasDrops": true
+    },
+    {
+      "loginName": "matthewlcnp",
+      "hasDrops": true
+    },
+    {
+      "loginName": "oberfranke1983",
+      "hasDrops": true
+    },
+    {
+      "loginName": "firefalk76tv",
+      "hasDrops": true
+    },
+    {
+      "loginName": "shadedthefaded",
+      "hasDrops": true
+    },
+    {
+      "loginName": "mancosenapuros",
+      "hasDrops": true
+    },
+    {
+      "loginName": "h4rdcorepl",
+      "hasDrops": true
+    },
+    {
+      "loginName": "9xonnep",
+      "hasDrops": true
+    },
+    {
+      "loginName": "zailor01",
       "hasDrops": true
     }
   ],
@@ -1274,23 +1379,7 @@
       "hasDrops": true
     },
     {
-      "loginName": "tr3nety",
-      "hasDrops": true
-    },
-    {
-      "loginName": "drikinh402",
-      "hasDrops": true
-    },
-    {
       "loginName": "desqxd",
-      "hasDrops": true
-    },
-    {
-      "loginName": "triidente",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vlasik_rus",
       "hasDrops": true
     },
     {
@@ -1298,11 +1387,27 @@
       "hasDrops": true
     },
     {
-      "loginName": "romeoiidie",
+      "loginName": "drikinh402",
       "hasDrops": true
     },
     {
       "loginName": "thgrexpe1ta",
+      "hasDrops": true
+    },
+    {
+      "loginName": "tr3nety",
+      "hasDrops": true
+    },
+    {
+      "loginName": "triidente",
+      "hasDrops": true
+    },
+    {
+      "loginName": "romeoiidie",
+      "hasDrops": true
+    },
+    {
+      "loginName": "vlasik_rus",
       "hasDrops": true
     },
     {

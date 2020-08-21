@@ -7,8 +7,9 @@ const mapVerifiedStreamers = (newData) => {
   return Promise.all(Object.entries(newData).map(([gameName, streamers]) => {
     return Promise.all([gameName, filterUsersWithVerifiedDrops(streamers)]);
   }))
-    .then(entries => Object.fromEntries(entries))
-    .then(array => fs.writeFileSync('results4.json', JSON.stringify(array, null, 2)));
+    .then(filterEmptyGames)
+    .then(Object.fromEntries)
+    .then(array => fs.writeFileSync('results2.json', JSON.stringify(array, null, 2)));
 };
 
 function filterUsersWithVerifiedDrops(streamerNames) {
@@ -38,6 +39,12 @@ function getVerifiedDrops(streamerName) {
 function userHasDrops(userData) {
   return userData.user.lastBroadcast.game?.activeDropCampaigns
     .some(campaign => campaign.isAvailableToAllChannels || campaign.applicableChannels.find(channel => channel.id === userData.user.id));
+}
+
+function filterEmptyGames(gamesWithDrops) {
+  return gamesWithDrops.filter(([, usersWithDrops]) => {
+    return usersWithDrops.length > 0;
+  });
 }
 
 function body(streamerName) {
