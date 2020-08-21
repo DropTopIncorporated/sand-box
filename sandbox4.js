@@ -8,15 +8,15 @@ const mapVerifiedStreamers = (newData) => {
     return Promise.all([gameName, filterUsersWithVerifiedDrops(streamers)]);
   }))
     .then(entries => Object.fromEntries(entries))
-    .then(array => fs.writeFileSync('gumtree7.json', JSON.stringify(array, null, 2)));
+    .then(array => fs.writeFileSync('results.json', JSON.stringify(array, null, 2)));
 };
 
 function filterUsersWithVerifiedDrops(streamerNames) {
   return Promise.all(streamerNames.map(streamerName => getVerifiedDrops(streamerName)))
 
-    .then(streamers => streamers)
-      // .filter(streamerWithDrops => streamerWithDrops.hasDrops)
-      // .map(streamerWithDrops => streamerWithDrops.streamerName));
+    .then(streamers => streamers);
+  // .filter(streamerWithDrops => streamerWithDrops.hasDrops)
+  // .map(streamerWithDrops => streamerWithDrops.streamerName));
 }
 
 function getVerifiedDrops(streamerName) {
@@ -32,7 +32,12 @@ function getVerifiedDrops(streamerName) {
     .then(res => res.json())
     .then(([{ data }]) => ({ loginName: data.user.login, 
       channelId: data.user.id, 
-      dropsArray: data.user.lastBroadcast.game.activeDropCampaigns.map(item => item.applicableChannels.map(channel => channel.id))[0] }));
+      newDropsForAll: data.user.lastBroadcast.game?.activeDropCampaigns.filter(item => item.isAvailableToAllChannels === true).map(item => item),
+      // dropsForAll: data.user.lastBroadcast.game?.activeDropCampaigns,
+      dropSpecificChannelArray: data.user.lastBroadcast.game?.activeDropCampaigns
+        .map(item => item.applicableChannels
+          .map(channel => channel.id))[0] }));
+  // }));
 }
 
 function body(streamerName) {
