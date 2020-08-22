@@ -7,7 +7,8 @@ const getStreamerNames = (data) => {
     return Promise.all([gameName, 
       getStreamerDetails(streamerNames)]);
   }))
-    .then(array => fs.writeFileSync('results3.json', JSON.stringify(array, null, 2)));
+    .then(array => array.flat())
+    .then(array => fs.writeFileSync('results4.json', JSON.stringify(array, null, 2)));
 };
 
 function getStreamerDetails(streamerNames) {
@@ -22,7 +23,17 @@ function getStreamersInformation(streamerLogin) {
       'Authorization': 'Bearer y8u1rjycjgxd0doat4n1ui4saswjls'
     },
   })
-    .then(res => res.json());
+    .then(res => res.json())
+    .then(stuff => 
+      (stuff.data.map(item => ({
+        
+        userId: item.user_id,
+        userName: item.user_name,
+        title: item.title,
+        thumbnail_url: item.thumbnail_url,
+        viewer_count: item.viewer_count
+        
+      }))));
   // .then(data => data);
         
   //     ({

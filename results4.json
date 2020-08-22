@@ -1,1430 +1,2229 @@
-{
-  "Tom Clancy's Rainbow Six: Siege": [],
-  "PLAYERUNKNOWN'S BATTLEGROUNDS": [],
-  "Rogue Company": [
-    {
-      "loginName": "schviftyfive",
-      "hasDrops": true
-    },
-    {
-      "loginName": "twooff",
-      "hasDrops": true
-    },
-    {
-      "loginName": "archiboy_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "livedorick",
-      "hasDrops": true
-    },
-    {
-      "loginName": "z1unknown",
-      "hasDrops": true
-    },
-    {
-      "loginName": "klaxton",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gamewithgray",
-      "hasDrops": true
-    },
-    {
-      "loginName": "brenin",
-      "hasDrops": true
-    },
-    {
-      "loginName": "hishorty",
-      "hasDrops": true
-    },
-    {
-      "loginName": "viral",
-      "hasDrops": true
-    },
-    {
-      "loginName": "taylan",
-      "hasDrops": true
-    },
-    {
-      "loginName": "bixle",
-      "hasDrops": true
-    },
-    {
-      "loginName": "xellagg",
-      "hasDrops": true
-    }
+[
+  "Tom Clancy's Rainbow Six: Siege",
+  [
+    [
+      {
+        "userId": "53412089",
+        "userName": "Rufuz_tv",
+        "title": "🔥GIVEAWAY / GRAFICHE NUOVE🔥 ❗PUNTI FAMA E CIONDOLO GRATIS  ❗command ❗azarus ❗domanda ❗audio ❗prime ❗instagram",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rufuz_tv-{width}x{height}.jpg",
+        "viewer_count": 18
+      }
+    ]
   ],
-  "World of Warships": [
-    {
-      "loginName": "worldofwarships",
-      "hasDrops": true
-    },
-    {
-      "loginName": "statsbloke",
-      "hasDrops": true
-    },
-    {
-      "loginName": "snusnu__rip",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sone_mg",
-      "hasDrops": true
-    },
-    {
-      "loginName": "wallsterix",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gamer52undercover",
-      "hasDrops": true
-    },
-    {
-      "loginName": "l3mming42",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ichasegaming",
-      "hasDrops": true
-    },
-    {
-      "loginName": "overlordbou",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sea_lord_mountbatten",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kidneycowboy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "harleyquinntvfr",
-      "hasDrops": true
-    },
-    {
-      "loginName": "siegmundson",
-      "hasDrops": true
-    },
-    {
-      "loginName": "retired8404",
-      "hasDrops": true
-    },
-    {
-      "loginName": "doc_scylla",
-      "hasDrops": true
-    },
-    {
-      "loginName": "baron_von_sliwowitz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "martin_riggs86",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gameprodigy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "m4rsh4l",
-      "hasDrops": true
-    },
-    {
-      "loginName": "die_rohrzange",
-      "hasDrops": true
-    },
-    {
-      "loginName": "m373x",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ahskance",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thenoticer15",
-      "hasDrops": true
-    },
-    {
-      "loginName": "crotemplar",
-      "hasDrops": true
-    },
-    {
-      "loginName": "grease_monkey_01",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dicetea",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nit_k",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kikifaitdesvideos",
-      "hasDrops": true
-    },
-    {
-      "loginName": "easyfragdk",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mrmodo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "angeprototype",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sss_itv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nudelnorbert_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "pisireis_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "julianheafy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "bilbro_shaggins",
-      "hasDrops": true
-    },
-    {
-      "loginName": "shen_geocruiser",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nono7418",
-      "hasDrops": true
-    },
-    {
-      "loginName": "piupiu_kitty",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lefrancuz_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "flyawaysafe944",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ferrat86",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sirwyrd",
-      "hasDrops": true
-    },
-    {
-      "loginName": "fcnone",
-      "hasDrops": true
-    },
-    {
-      "loginName": "v1ip3r",
-      "hasDrops": true
-    },
-    {
-      "loginName": "demizedempire",
-      "hasDrops": true
-    },
-    {
-      "loginName": "datura_inoxia",
-      "hasDrops": true
-    },
-    {
-      "loginName": "el_natto",
-      "hasDrops": true
-    },
-    {
-      "loginName": "survival_impact",
-      "hasDrops": true
-    },
-    {
-      "loginName": "abaddonmenet911",
-      "hasDrops": true
-    },
-    {
-      "loginName": "happygirl730",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lord_stormrider",
-      "hasDrops": true
-    },
-    {
-      "loginName": "rewind_____",
-      "hasDrops": true
-    },
-    {
-      "loginName": "maxwell_van_smart",
-      "hasDrops": true
-    },
-    {
-      "loginName": "therealoverkill",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dragod1389",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ezbreezy750",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kiimiikoo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "natoh2",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zmeleron",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zex8541kcasia",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dokterbeefcake",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tommyboypdx",
-      "hasDrops": true
-    },
-    {
-      "loginName": "helliontv_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thebeardedlord",
-      "hasDrops": true
-    },
-    {
-      "loginName": "bismark762",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kujak2626",
-      "hasDrops": true
-    },
-    {
-      "loginName": "alyce_wonderlandgaming",
-      "hasDrops": true
-    },
-    {
-      "loginName": "madebyfritz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tsbxsaber",
-      "hasDrops": true
-    },
-    {
-      "loginName": "luditic",
-      "hasDrops": true
-    },
-    {
-      "loginName": "xxxzirvexxx",
-      "hasDrops": true
-    },
-    {
-      "loginName": "le_visiteur",
-      "hasDrops": true
-    },
-    {
-      "loginName": "davire_yt",
-      "hasDrops": true
-    },
-    {
-      "loginName": "blackjack_gamers",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vinkkey",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dalirio10",
-      "hasDrops": true
-    },
-    {
-      "loginName": "rebirth1012",
-      "hasDrops": true
-    },
-    {
-      "loginName": "commanderjohannessen",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sdrogerio",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gingi2506",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sarrogaming",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tetra_owo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dozer456",
-      "hasDrops": true
-    },
-    {
-      "loginName": "suntzu_mistrzu",
-      "hasDrops": true
-    },
-    {
-      "loginName": "caalicojack",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dangerball00n",
-      "hasDrops": true
-    },
-    {
-      "loginName": "camoredstone105",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tt4nn3baum",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tressombrass",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sthg77",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dirt813",
-      "hasDrops": true
-    },
-    {
-      "loginName": "samurkin__",
-      "hasDrops": true
-    },
-    {
-      "loginName": "northmantv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "enzalk",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kpt_ltn_von_schulz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "maniacmouse",
-      "hasDrops": true
-    },
-    {
-      "loginName": "quateregallus",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vince229",
-      "hasDrops": true
-    },
-    {
-      "loginName": "n3k0_s3mp41",
-      "hasDrops": true
-    }
+  "Rogue Company",
+  [
+    [],
+    [
+      {
+        "userId": "148669304",
+        "userName": "TWOOFF",
+        "title": "💀Drops Enabled | Rollin To The Top | Code giveaways",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_twooff-{width}x{height}.jpg",
+        "viewer_count": 531
+      }
+    ],
+    [
+      {
+        "userId": "159181205",
+        "userName": "LiveDoRick",
+        "title": "🔥 !DROPS 🔑 - CONSIGA SUA KEY AQUI - RERUN 🔥 !SORTEIO TODOS OS DIAS - !LOJA 🛒 RESGATE PRÊMIOS - !cupom !prime",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_livedorick-{width}x{height}.jpg",
+        "viewer_count": 126
+      }
+    ],
+    [
+      {
+        "userId": "61560224",
+        "userName": "z1unknown",
+        "title": "✅!DROPS ENABLED✅",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_z1unknown-{width}x{height}.jpg",
+        "viewer_count": 186
+      }
+    ],
+    [
+      {
+        "userId": "55912774",
+        "userName": "GameWithGray",
+        "title": "HAPPY FRIDAY FRIENDS",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamewithgray-{width}x{height}.jpg",
+        "viewer_count": 70
+      }
+    ],
+    [
+      {
+        "userId": "68196033",
+        "userName": "Klaxton",
+        "title": "✅ !DROPS ENABLED ✅ // BEST DROPS IN TOWN! // Discord !Twitter !YT !creatorcode",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_klaxton-{width}x{height}.jpg",
+        "viewer_count": 94
+      }
+    ],
+    [
+      {
+        "userId": "32463601",
+        "userName": "Brenin",
+        "title": "EN VIVO 🔥 !DROPS - 🔑 KEYS GRATIS 🔥  UNANSE A LA COMUNIDAD !DISCORD",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_brenin-{width}x{height}.jpg",
+        "viewer_count": 99
+      }
+    ],
+    [
+      {
+        "userId": "497911935",
+        "userName": "ArchiBoy_",
+        "title": "✅[DROPS ON] Получить игру бесплатно можно тут напиши - !drops ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_archiboy_-{width}x{height}.jpg",
+        "viewer_count": 58
+      }
+    ],
+    [
+      {
+        "userId": "37388525",
+        "userName": "hiShorty",
+        "title": "🔥 !DROPS Enabled, Baby Face returns... 👶  // !RoCoPatch !discord",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hishorty-{width}x{height}.jpg",
+        "viewer_count": 62
+      }
+    ],
+    [
+      {
+        "userId": "62044794",
+        "userName": "Viral",
+        "title": "[DROPS ENABLED] I HAVE RETURNED - !sub !d2d !socials !discord !SR",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_viral-{width}x{height}.jpg",
+        "viewer_count": 58
+      }
+    ],
+    [
+      {
+        "userId": "136771701",
+        "userName": "taylan",
+        "title": "[✅DROPS HABILITADOS🔑] !DROP !JOGOS -- Eu serei seu héroi hehe ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taylan-{width}x{height}.jpg",
+        "viewer_count": 34
+      }
+    ],
+    [
+      {
+        "userId": "35468275",
+        "userName": "BixLe",
+        "title": "!drops enabled Rogue Company once again! :D , gaming the game with gaming prowess. !team I guess",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bixle-{width}x{height}.jpg",
+        "viewer_count": 17
+      }
+    ],
+    [
+      {
+        "userId": "546755411",
+        "userName": "XellaGG",
+        "title": "GLHF !Drops",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xellagg-{width}x{height}.jpg",
+        "viewer_count": 16
+      }
+    ]
   ],
-  "Don't Starve Together": [
-    {
-      "loginName": "mocbka34",
-      "hasDrops": true
-    },
-    {
-      "loginName": "akamiya",
-      "hasDrops": true
-    },
-    {
-      "loginName": "fly_diiqqiidy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "eymiih",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dangrape",
-      "hasDrops": true
-    },
-    {
-      "loginName": "redbabies",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vicfuji",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kyledempsterstudios",
-      "hasDrops": true
-    },
-    {
-      "loginName": "shyffy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "checochillday",
-      "hasDrops": true
-    },
-    {
-      "loginName": "miauzita",
-      "hasDrops": true
-    },
-    {
-      "loginName": "hopinhos",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mei_otonashi",
-      "hasDrops": true
-    },
-    {
-      "loginName": "restrictred",
-      "hasDrops": true
-    },
-    {
-      "loginName": "pardow",
-      "hasDrops": true
-    },
-    {
-      "loginName": "erumaren1",
-      "hasDrops": true
-    },
-    {
-      "loginName": "phyrexxian",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dondabals",
-      "hasDrops": true
-    },
-    {
-      "loginName": "darkelfish",
-      "hasDrops": true
-    },
-    {
-      "loginName": "eloh98",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thademais",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tawamisu",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gutooss",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ueproducoes",
-      "hasDrops": true
-    },
-    {
-      "loginName": "holy_mew",
-      "hasDrops": true
-    },
-    {
-      "loginName": "minyugal",
-      "hasDrops": true
-    },
-    {
-      "loginName": "frum0r",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thepandinhah",
-      "hasDrops": true
-    },
-    {
-      "loginName": "miyako_baba",
-      "hasDrops": true
-    },
-    {
-      "loginName": "soares_art",
-      "hasDrops": true
-    },
-    {
-      "loginName": "stebop",
-      "hasDrops": true
-    },
-    {
-      "loginName": "coldwooparty1",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dramatikfool",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jhonatabs",
-      "hasDrops": true
-    },
-    {
-      "loginName": "diodeimari",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lowmemore",
-      "hasDrops": true
-    },
-    {
-      "loginName": "inception7",
-      "hasDrops": true
-    },
-    {
-      "loginName": "clover_q",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nitridda",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vbolanho",
-      "hasDrops": true
-    },
-    {
-      "loginName": "biatando",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gamerguest_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lahoradelapurga",
-      "hasDrops": true
-    },
-    {
-      "loginName": "fabrixxx",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vitocarlinhos",
-      "hasDrops": true
-    },
-    {
-      "loginName": "treehu99er",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jorgitodpunta",
-      "hasDrops": true
-    },
-    {
-      "loginName": "heathenmaximous",
-      "hasDrops": true
-    },
-    {
-      "loginName": "reapeth",
-      "hasDrops": true
-    },
-    {
-      "loginName": "john_e_rocketz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "cpigloo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mantisf1re",
-      "hasDrops": true
-    },
-    {
-      "loginName": "chibireapstv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "alosworld",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dodgethistv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gio_tash",
-      "hasDrops": true
-    },
-    {
-      "loginName": "feunandah",
-      "hasDrops": true
-    },
-    {
-      "loginName": "eltacoward",
-      "hasDrops": true
-    },
-    {
-      "loginName": "smhsquid",
-      "hasDrops": true
-    },
-    {
-      "loginName": "marijordao",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ckatv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "beastrend",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tegotrick",
-      "hasDrops": true
-    },
-    {
-      "loginName": "rubbishnatedawg",
-      "hasDrops": true
-    },
-    {
-      "loginName": "maripadua",
-      "hasDrops": true
-    },
-    {
-      "loginName": "boomerererererer",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tongames_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "h4ngeer",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kknd2go",
-      "hasDrops": true
-    },
-    {
-      "loginName": "bennyskiff",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thykingjames",
-      "hasDrops": true
-    },
-    {
-      "loginName": "naninhoontwitch",
-      "hasDrops": true
-    },
-    {
-      "loginName": "renevictorm",
-      "hasDrops": true
-    }
+  "World of Warships",
+  [
+    [
+      {
+        "userId": "182565961",
+        "userName": "WorldofWarships",
+        "title": "[EN] NA Summer Event Community Time with Karmat1ka and Hapa_Fodder ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_worldofwarships-{width}x{height}.jpg",
+        "viewer_count": 1734
+      }
+    ],
+    [
+      {
+        "userId": "160533914",
+        "userName": "StatsBloke",
+        "title": "[CC] Wouldn't It Be Nice | !drops !streamgifts !crackajoke",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_statsbloke-{width}x{height}.jpg",
+        "viewer_count": 602
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "162093602",
+        "userName": "Sone_mg",
+        "title": "[NA/CC] Setting Things on FUEGOOOOOO || Drops Enabled || !coffee !stince !merch !x13 !stackup",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sone_mg-{width}x{height}.jpg",
+        "viewer_count": 206
+      }
+    ],
+    [
+      {
+        "userId": "191863209",
+        "userName": "Wallsterix",
+        "title": "[CC] 🔥 Summer Sale - Drops On 🔥 !sneak !ticket !fire !hype",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallsterix-{width}x{height}.jpg",
+        "viewer_count": 90
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "68438766",
+        "userName": "iChaseGaming",
+        "title": "Wrap Up Fridays | Have Qs? Come Ask",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ichasegaming-{width}x{height}.jpg",
+        "viewer_count": 151
+      }
+    ],
+    [
+      {
+        "userId": "80934441",
+        "userName": "OverLordBou",
+        "title": "[CC/QQ7] Fuso Friday!! Sprint Ranked! !Drops !GiveAway !discord !twitter !GG ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_overlordbou-{width}x{height}.jpg",
+        "viewer_count": 72
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "406733927",
+        "userName": "KidneyCowboy",
+        "title": "[CC][NA] Ranked Sprint this time! Here we go! !battle !merch #blametag",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kidneycowboy-{width}x{height}.jpg",
+        "viewer_count": 55
+      }
+    ],
+    [
+      {
+        "userId": "121172580",
+        "userName": "HarleyQuinnTVFR",
+        "title": "[FR]PC]En Route Pour Les 1000 Follow, Une Journée En Enfer,  Venez discuter et joue (1000Follow ?)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_harleyquinntvfr-{width}x{height}.jpg",
+        "viewer_count": 32
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "211021620",
+        "userName": "doc_scylla",
+        "title": "WoWs Y (O, U) DCS desde Aragón. Con corrección ortográfica incluida. Y gratis",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doc_scylla-{width}x{height}.jpg",
+        "viewer_count": 36
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "91016950",
+        "userName": "Retired8404",
+        "title": "⭐Veteran⭐WHISKEY TANGO FOXTROT",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_retired8404-{width}x{height}.jpg",
+        "viewer_count": 32
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "95198700",
+        "userName": "GameProdigy",
+        "title": "[NA/CC] Randos (dog cam)(giveaways)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gameprodigy-{width}x{height}.jpg",
+        "viewer_count": 41
+      }
+    ],
+    [
+      {
+        "userId": "92191253",
+        "userName": "Die_Rohrzange",
+        "title": "[ENUF/_] Der Late-NightOssi is back...lets go [GER] #ossiderherzen Nr.149 #Twitchdrops # FSK18",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_die_rohrzange-{width}x{height}.jpg",
+        "viewer_count": 119
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "32176158",
+        "userName": "Ahskance",
+        "title": "[TNG] Flight Instructor - Play by Play Commentary",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ahskance-{width}x{height}.jpg",
+        "viewer_count": 23
+      }
+    ],
+    [
+      {
+        "userId": "90382127",
+        "userName": "thenoticer15",
+        "title": "[O7] Quitting Fortnite because epic games added carriers lol",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thenoticer15-{width}x{height}.jpg",
+        "viewer_count": 27
+      }
+    ],
+    [
+      {
+        "userId": "487278889",
+        "userName": "DiceTea",
+        "title": "Wows / TTT /Main CV /Twitch Drops on /  [Ger]  Ranked Sprint EMOTES arrived!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dicetea-{width}x{height}.jpg",
+        "viewer_count": 36
+      }
+    ],
+    [
+      {
+        "userId": "163538972",
+        "userName": "NiT_K",
+        "title": "火力こそ正義",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nit_k-{width}x{height}.jpg",
+        "viewer_count": 41
+      }
+    ],
+    [
+      {
+        "userId": "59845925",
+        "userName": "grease_monkey_01",
+        "title": "NA Friday . it's G sinking Time ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grease_monkey_01-{width}x{height}.jpg",
+        "viewer_count": 21
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "116284266",
+        "userName": "EasyFragDK",
+        "title": "[EU] [ENG] Ranked Out so only some Random Battles (Drops enabled)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_easyfragdk-{width}x{height}.jpg",
+        "viewer_count": 13
+      }
+    ],
+    [
+      {
+        "userId": "198834550",
+        "userName": "MrModo",
+        "title": "[NA/CC] 95% Salt Free, Friday Shippy Ships.  Last day to submit suggestions for the ship giveaway for my bday.",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrmodo-{width}x{height}.jpg",
+        "viewer_count": 24
+      }
+    ],
+    [
+      {
+        "userId": "417102383",
+        "userName": "あんじぇ",
+        "title": "WoWs Asia",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angeprototype-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [
+      {
+        "userId": "144184457",
+        "userName": "서울스트리밍스테이션",
+        "title": "[비공식] 오늘은 왠종일 게임을 해보겠습니다.",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sss_itv-{width}x{height}.jpg",
+        "viewer_count": 22
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "121286393",
+        "userName": "bilbro_shaggins",
+        "title": "[NA][Twitch Drops] Ranking!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bilbro_shaggins-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "187328406",
+        "userName": "JulianHeafy",
+        "title": "[ESP] [NA] Kriegsmarine container for the win",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julianheafy-{width}x{height}.jpg",
+        "viewer_count": 10
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "173170331",
+        "userName": "piupiu_kitty",
+        "title": "World of warkitty",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_piupiu_kitty-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [
+      {
+        "userId": "462522576",
+        "userName": "LeFrancuz_",
+        "title": "НОЧНЫЕ ПОКАТУШКИ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lefrancuz_-{width}x{height}.jpg",
+        "viewer_count": 21
+      }
+    ],
+    [
+      {
+        "userId": "83030132",
+        "userName": "shen_geocruiser",
+        "title": "[FR][SHEN]  Stream du vendredi tard",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shen_geocruiser-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "62422178",
+        "userName": "Ferrat86",
+        "title": "🔥 Schiffchen zur beruhigung 🔥 | Später WoW? | !discord !ferret ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ferrat86-{width}x{height}.jpg",
+        "viewer_count": 10
+      }
+    ],
+    [
+      {
+        "userId": "484587804",
+        "userName": "SirWyrd",
+        "title": "[NA/ENG] [106/250 Followers] FriYay!!! Time for ships and fun! Come hang out and relax!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sirwyrd-{width}x{height}.jpg",
+        "viewer_count": 15
+      }
+    ],
+    [
+      {
+        "userId": "121321946",
+        "userName": "爆走狂魔",
+        "title": "[NoNo]ASIA-大叔深夜海猴日常，任務過起來!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nono7418-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "63063333",
+        "userName": "survival_impact",
+        "title": "(ENG EU PC 25/50 Subs) The Never Ending Grinding Story + Twitch Drops",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_survival_impact-{width}x{height}.jpg",
+        "viewer_count": 9
+      }
+    ],
+    [
+      {
+        "userId": "92917267",
+        "userName": "Datura_Inoxia",
+        "title": "[GR/EN] Playing World of Warships since Alpha Tester. Feel free to join, request ships, commander set up or div up!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_datura_inoxia-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "439229146",
+        "userName": "maxwell_van_smart",
+        "title": "Auf zur See mit flyingharm und Gimli..... #Activate sound for Drops! #songrequest is activated! ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maxwell_van_smart-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "36605905",
+        "userName": "SdRogerio",
+        "title": "GTA 5 RP bora brinca   #ROXX",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sdrogerio-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "476910156",
+        "userName": "lord_stormrider",
+        "title": "Capitão no deque! Drop da twitch! Iniciantes avisem antes de criar conta! navio lendario e conta premium temporaria!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lord_stormrider-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "433173178",
+        "userName": "zex8541kcasia",
+        "title": "World of Warships ::: жду всех зрителей кто играет от wargaming.net",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zex8541kcasia-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "188346661",
+        "userName": "DragoD1389",
+        "title": "Rank-Stufe 14 in Sicht + neue Schiffe  :)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dragod1389-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "151411262",
+        "userName": "Abaddonmenet911",
+        "title": "Wet Ships",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_abaddonmenet911-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [
+      {
+        "userId": "70815624",
+        "userName": "EzBreezy750",
+        "title": "World of Warships - Happy Friday Everyone ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ezbreezy750-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "22665928",
+        "userName": "FCNone",
+        "title": "Boots and Doots",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fcnone-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "149071905",
+        "userName": "MADEbyFRITZ",
+        "title": "Wir dampfen über die Meere | WOWS | Drops | GER",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_madebyfritz-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "82041621",
+        "userName": "TommyboyPDX",
+        "title": "(NA)Time for the SHIPS and things!!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tommyboypdx-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "118210135",
+        "userName": "TheBeardedLord",
+        "title": "Help I'm hooked again... || Drops Enabled",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thebeardedlord-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "182449796",
+        "userName": "Bismark762",
+        "title": "World of war ships [PT/BR] Drops On \nCola ai na live!Bora pra rankeada. ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bismark762-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "167747089",
+        "userName": "alyce_wonderlandgaming",
+        "title": "Friday chill and build. #Satisfactory",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alyce_wonderlandgaming-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "38843566",
+        "userName": "DokterBeefcake",
+        "title": "Sprinting through toxicity!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokterbeefcake-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "126558150",
+        "userName": "CaalicoJack",
+        "title": "Hoy vamos a alta mar!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_caalicojack-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "543190124",
+        "userName": "Vinkkey",
+        "title": "World of Warships- les torpilles ça me connaît",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vinkkey-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "59079895",
+        "userName": "Dalirio10",
+        "title": "[PT/BR][Twitch Drops]Porquinho nos mares! Fazendo missão Tokens de Verão!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dalirio10-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "182672282",
+        "userName": "rebirth1012",
+        "title": "pewpew for wife",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rebirth1012-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "517544882",
+        "userName": "CommanderJohannessen",
+        "title": "Test strømming, morgen kaffe/prat og world of warships! Velkommen :D",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_commanderjohannessen-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "97353596",
+        "userName": "SarroGaming",
+        "title": "Ranked Sprint - World of Warships",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sarrogaming-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "88326212",
+        "userName": "Tetra_OwO",
+        "title": "[22/25 Subs] Bismarck and FDG #TransPride [18+]",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tetra_owo-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "107480519",
+        "userName": "SUNTZU_Mistrzu",
+        "title": "SUNTZU clan is recruiting on !discord Total War: Arena rerun | SUNTZU's 10th anniversary megamarathon - Journey through last 10 years",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_suntzu_mistrzu-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "175610583",
+        "userName": "Camoredstone105",
+        "title": "[NA] Drops Enabled Chilling just grinding some ships",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camoredstone105-{width}x{height}.jpg",
+        "viewer_count": 6
+      }
+    ],
+    [
+      {
+        "userId": "102978097",
+        "userName": "TT4nn3baum",
+        "title": "[GER] || TT4nn3baum ON || New !commands (Für Follower) ||",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tt4nn3baum-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "529697081",
+        "userName": "TresSombrass",
+        "title": "[Es] Rumbo a plata, Ahora a por los 100 seguidores Y otro especial de 12H",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tressombrass-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "12144128",
+        "userName": "dirt813",
+        "title": "dirt813My bad Rank sprint was too easy I finished it already. ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dirt813-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "84717232",
+        "userName": "NorthmanTV",
+        "title": "Bissschen Shpen",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_northmantv-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "91176629",
+        "userName": "enzalk",
+        "title": "[+18]   au calme  !popup ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enzalk-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "36404193",
+        "userName": "N3K0_S3MP41",
+        "title": "[Es] A hundir barcosss - HABLA Y DOY COFRES DE STREAMLOOT A LOS DEL CHAT",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_n3k0_s3mp41-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    []
   ],
-  "Gwent: The Witcher Card Game": [
-    {
-      "loginName": "specimengwent",
-      "hasDrops": true
-    },
-    {
-      "loginName": "magectop",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mrdisbalance",
-      "hasDrops": true
-    },
-    {
-      "loginName": "piotrcns",
-      "hasDrops": true
-    },
-    {
-      "loginName": "steveparker",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gwentsoul",
-      "hasDrops": true
-    },
-    {
-      "loginName": "theonechristo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zeto_vega",
-      "hasDrops": true
-    },
-    {
-      "loginName": "redxeyon",
-      "hasDrops": true
-    },
-    {
-      "loginName": "blayz_by_fill",
-      "hasDrops": true
-    },
-    {
-      "loginName": "bluefella",
-      "hasDrops": true
-    },
-    {
-      "loginName": "anastationlive",
-      "hasDrops": true
-    },
-    {
-      "loginName": "luluxia946",
-      "hasDrops": true
-    },
-    {
-      "loginName": "d_stalke",
-      "hasDrops": true
-    },
-    {
-      "loginName": "hexic_tv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mtxablau",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dogbentobox",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dinu23231",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jkonrad1337",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jaskierprzechwalki",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tomikovec01",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zedimental",
-      "hasDrops": true
-    }
+  "Don't Starve Together",
+  [
+    [
+      {
+        "userId": "35768443",
+        "userName": "MoCbka34",
+        "title": "24\\7 New!!! !drops  Ура !watchtime !myuptime  20 day ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mocbka34-{width}x{height}.jpg",
+        "viewer_count": 1777
+      }
+    ],
+    [
+      {
+        "userId": "182059286",
+        "userName": "akamiya",
+        "title": "[NOVO !drop] !sr Ligado Só vem que hoje a gente quer matar Fuel Weaver.",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akamiya-{width}x{height}.jpg",
+        "viewer_count": 295
+      }
+    ],
+    [
+      {
+        "userId": "101302022",
+        "userName": "Fly_Diiqqiidy",
+        "title": "NEW [!Drops] New Update 4k+ Megabase !Merch !Onyx !Social !Tunes !DSTUpdate !DSTmods !Spools",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fly_diiqqiidy-{width}x{height}.jpg",
+        "viewer_count": 257
+      }
+    ],
+    [
+      {
+        "userId": "176087771",
+        "userName": "eymiih",
+        "title": "[novo !DROP] Nova Megabase | farm de merm  !pa !linhas !loja",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eymiih-{width}x{height}.jpg",
+        "viewer_count": 224
+      }
+    ],
+    [
+      {
+        "userId": "186336605",
+        "userName": "단포도",
+        "title": "New [!Drops] 24hours 켜놓고 새로운드롭스 받아가세요~",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dangrape-{width}x{height}.jpg",
+        "viewer_count": 108
+      }
+    ],
+    [
+      {
+        "userId": "519837992",
+        "userName": "RedBabies",
+        "title": "Novo !drop do Cajado do Feiticeiro! \nDon't Starve Together\n!mods !emoji !sorteio",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redbabies-{width}x{height}.jpg",
+        "viewer_count": 88
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "154610794",
+        "userName": "KyleDempsterStudios",
+        "title": "DROPS | Haven't played in years 👻 !paranormal podcast!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyledempsterstudios-{width}x{height}.jpg",
+        "viewer_count": 69
+      }
+    ],
+    [
+      {
+        "userId": "137858867",
+        "userName": "Shyffy",
+        "title": "[New !drop] 5º dia mundo !architect !join !discord || Don't Starve Together",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shyffy-{width}x{height}.jpg",
+        "viewer_count": 42
+      }
+    ],
+    [
+      {
+        "userId": "171037517",
+        "userName": "ChecoChillday",
+        "title": "ESP - ENG / Día 2100+ Es hoy un buen día para jugar don ester? uwu !arquitecto !discord !drops",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_checochillday-{width}x{height}.jpg",
+        "viewer_count": 53
+      }
+    ],
+    [
+      {
+        "userId": "275522947",
+        "userName": "Miauzita",
+        "title": "[DROPS ON] QUANDO A CHUVA PASSAR E O TEMPO ABRIR, ABRA A JANELA E VEJA EU SOU O SOL  !sorteio",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miauzita-{width}x{height}.jpg",
+        "viewer_count": 40
+      }
+    ],
+    [
+      {
+        "userId": "96564789",
+        "userName": "Hopinhos",
+        "title": "Game Night⭐️Trying to not starve with viewers <3⭐️ ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopinhos-{width}x{height}.jpg",
+        "viewer_count": 16
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "75966094",
+        "userName": "pardow",
+        "title": "[!drops] Jogando don't Starve together com lets play! hoje não para!novo drop!!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pardow-{width}x{height}.jpg",
+        "viewer_count": 8
+      }
+    ],
+    [
+      {
+        "userId": "253878821",
+        "userName": "Mei_Otonashi",
+        "title": "Nuevos drops activos 7u7 vamos a seguir con el Zoo UwU te nos unes? !grupo2 !sorteo !discord",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mei_otonashi-{width}x{height}.jpg",
+        "viewer_count": 9
+      }
+    ],
+    [
+      {
+        "userId": "150646325",
+        "userName": "erumaren1",
+        "title": "Don't Starve with The Gang! First Playthrough EVER!! 6 Follows from 300!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_erumaren1-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [
+      {
+        "userId": "105953517",
+        "userName": "Phyrexxian",
+        "title": "!drops - Und das göttliche DST mit Streamer vs. Chat 8.8",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_phyrexxian-{width}x{height}.jpg",
+        "viewer_count": 14
+      }
+    ],
+    [
+      {
+        "userId": "179189803",
+        "userName": "돈다발쓰",
+        "title": "[돈다발] 8월22일.....말없음주의",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dondabals-{width}x{height}.jpg",
+        "viewer_count": 9
+      }
+    ],
+    [
+      {
+        "userId": "424955509",
+        "userName": "DarkELFish",
+        "title": "[DROPS ON] dst e depois..? !sorteio",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_darkelfish-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [
+      {
+        "userId": "51713166",
+        "userName": "ThaDemais",
+        "title": "[NOVO DROP] Noob avançada, bora trocar ideia =] - SORTEIO DO RC DOMINGO!! | !sorteio !sub !social",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thademais-{width}x{height}.jpg",
+        "viewer_count": 16
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "159026180",
+        "userName": "gutooss",
+        "title": "|Drops on| Novos drops | Don't Starve, a gente tenta ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gutooss-{width}x{height}.jpg",
+        "viewer_count": 8
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "141523369",
+        "userName": "Minyugal",
+        "title": "Ahora sí que sí! Muerte al rey cangrejo!! Vente conmigo a la nueva actualización DST+nuevos DROPS!!! ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_minyugal-{width}x{height}.jpg",
+        "viewer_count": 9
+      }
+    ],
+    [
+      {
+        "userId": "266174927",
+        "userName": "Eloh98",
+        "title": "GERAL NA SAGA MORTE!! DROPS ON!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eloh98-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [
+      {
+        "userId": "173325991",
+        "userName": "ThePandinhaH",
+        "title": "Posso Fazer amanhã, o que deixei de fazer Ontem !!! [+18] [ Drop Novo ] ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thepandinhah-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "98424973",
+        "userName": "coldwooparty1",
+        "title": "Don't starve time yaya",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_coldwooparty1-{width}x{height}.jpg",
+        "viewer_count": 6
+      }
+    ],
+    [
+      {
+        "userId": "409862612",
+        "userName": "DramatikFool",
+        "title": "!drops !giveaway !sr | Friday Night Chillaxing! Been a while, how's your weekend going? <3",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dramatikfool-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "79915657",
+        "userName": "VBolanho",
+        "title": "[18+]  primeira vez no jogo Don't Starve Together - DEIXA FOLLOW HUMILDEMENTE",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vbolanho-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "58660806",
+        "userName": "DioDeiMari",
+        "title": "[Xbox] [Eng]  How not to survive!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_diodeimari-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "531759469",
+        "userName": "LowMemore",
+        "title": "[Drops ON] [New Drops] Gameplay hoje ate eu não aguentar mais! Shoots alcoolicos e recompensas personalizadas! ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lowmemore-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "123349790",
+        "userName": "inception7",
+        "title": "[Pt-Eng| New !drops - New Update!  | !freesub !discord",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_inception7-{width}x{height}.jpg",
+        "viewer_count": 32
+      }
+    ],
+    [
+      {
+        "userId": "108743552",
+        "userName": "NitriDDa",
+        "title": "Выживаем с @MoCbka34",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nitridda-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "232529393",
+        "userName": "biatando",
+        "title": "SORTEIO DOS SUBS ♥ [meta subs: 0/20] (+18 pt/br) !comandos",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_biatando-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "102167951",
+        "userName": "GamerGuest_",
+        "title": "Se travar me avisa ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gamerguest_-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "36078679",
+        "userName": "Fabrixxx",
+        "title": "Tentando ver qual que é do joguinho!!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fabrixxx-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "182644004",
+        "userName": "vitocarlinhos",
+        "title": "os merd@ falando merd@ enqunto joga",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vitocarlinhos-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "540475338",
+        "userName": "TreeHu99er",
+        "title": "Dont Starve Together w/ Depression",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_treehu99er-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "76006177",
+        "userName": "jorgitodpunta",
+        "title": "aprendiendo con el pana",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jorgitodpunta-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [
+      {
+        "userId": "455168202",
+        "userName": "HeathenMaximous",
+        "title": "dst with friends pog",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_heathenmaximous-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "102491025",
+        "userName": "Reapeth",
+        "title": "Day 134 - We're still survivin'!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reapeth-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "74653629",
+        "userName": "Cpigloo",
+        "title": "Dont starve ok",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cpigloo-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "566156888",
+        "userName": "Gio_Tash",
+        "title": "Don't Starve - Esculturas de marmol Muajaja",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gio_tash-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "100326369",
+        "userName": "ElTacoWard",
+        "title": "Mega Base - building zoo and boss fight  - !drops !sorteo !grupo !mt !mods",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eltacoward-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "58587277",
+        "userName": "John_E_RocKeTZ",
+        "title": "Dont STAAARVE Together (Wendyz World) DROPZ!!! PS4 Pro",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_john_e_rocketz-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "207334396",
+        "userName": "marijordao",
+        "title": "frio da porr* don't starve together",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_marijordao-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "49965351",
+        "userName": "ckatv",
+        "title": "Выживаем без модов.",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ckatv-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "101744649",
+        "userName": "tegotrick",
+        "title": "Can we get the wins?",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tegotrick-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "161160748",
+        "userName": "RubbishNateDawg",
+        "title": "Deleted day 654 world due to update, darn",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rubbishnatedawg-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "59129468",
+        "userName": "Maripadua",
+        "title": "MARI - vava do vavalo",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maripadua-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "520785430",
+        "userName": "boomerererererer",
+        "title": "Frames",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomerererererer-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "529537225",
+        "userName": "ToNGames_",
+        "title": "NOVO DROP - !drops !discord !loja -sextouuu!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tongames_-{width}x{height}.jpg",
+        "viewer_count": 16
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "159857907",
+        "userName": "kknd2go",
+        "title": "불타버린땅 / gorge\n\n",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kknd2go-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "68821114",
+        "userName": "thykingjames",
+        "title": "No Skill Gaming | Don't Starve ft. Mom",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thykingjames-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "279099857",
+        "userName": "Renevictorm",
+        "title": "Noites Niilistas, jogando Don't Starve Together... sim a gente ainda joga isso ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_renevictorm-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "69543125",
+        "userName": "GundamDroid",
+        "title": "How long can we go without dying? Oh boy!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gundamdroid-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ]
   ],
-  "Last Day On Earth: Survival": [
-    {
-      "loginName": "therukus",
-      "hasDrops": true
-    },
-    {
-      "loginName": "benthebrute",
-      "hasDrops": true
-    },
-    {
-      "loginName": "molishii",
-      "hasDrops": true
-    },
-    {
-      "loginName": "pandragyt",
-      "hasDrops": true
-    }
+  "Gwent: The Witcher Card Game",
+  [
+    [
+      {
+        "userId": "164098529",
+        "userName": "SpecimenGwent",
+        "title": "Chilled Late Night Sesh !AdvancedGG",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_specimengwent-{width}x{height}.jpg",
+        "viewer_count": 317
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "236399361",
+        "userName": "Piotrcns",
+        "title": "Strefa wolna od Mety !Ankieta !FB !Plan !Deck",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_piotrcns-{width}x{height}.jpg",
+        "viewer_count": 45
+      }
+    ],
+    [
+      {
+        "userId": "41108034",
+        "userName": "SteveParker",
+        "title": "Nach getaner Arbeit ein wenig Gwent in der Schänke",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_steveparker-{width}x{height}.jpg",
+        "viewer_count": 49
+      }
+    ],
+    [
+      {
+        "userId": "477493803",
+        "userName": "Gwentsoul",
+        "title": "Gwent and classical music! [PT] and [EN]  nem commands",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gwentsoul-{width}x{height}.jpg",
+        "viewer_count": 26
+      }
+    ],
+    [
+      {
+        "userId": "78321681",
+        "userName": "TheOneChristo",
+        "title": "SONG REQUEST STREAM! !SR+youtube link for a chance to win a sub",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theonechristo-{width}x{height}.jpg",
+        "viewer_count": 29
+      }
+    ],
+    [
+      {
+        "userId": "137433712",
+        "userName": "zeto_vega",
+        "title": "Hoy SYNDICATE y SCOIA, en busca de PRO RANK - ¡DROPS ACTIVADOS! (Chat ENG/ESP)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zeto_vega-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [
+      {
+        "userId": "52622468",
+        "userName": "RedXeyon",
+        "title": "Gwentifull Plenty !sr",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_redxeyon-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "40985317",
+        "userName": "BlayZ_by_FiLL",
+        "title": "Гвинтуем) Апаем рейтинг (пытаемся)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blayz_by_fill-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [
+      {
+        "userId": "468716374",
+        "userName": "LULUxia946",
+        "title": "南美 las",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_luluxia946-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "539447960",
+        "userName": "D_Stalke",
+        "title": "TFTTTTTTTTTTTTTT. Quanto è cambiato dalla Season 1?",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_d_stalke-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "481434416",
+        "userName": "jkonrad1337",
+        "title": "Speed Gwent with Arena later",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jkonrad1337-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "442966905",
+        "userName": "JaskierPrzechwalki",
+        "title": "Gwint  - Nocny stream - PL/EN",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaskierprzechwalki-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "119591343",
+        "userName": "Zedimental",
+        "title": "GWENT - Radeyah Elves Viable?? PRO RANK Deck Testing",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zedimental-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ]
   ],
-  "The Witcher 3: Wild Hunt": [
-    {
-      "loginName": "dimaskyy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ciroenchen",
-      "hasDrops": true
-    },
-    {
-      "loginName": "aryssa614",
-      "hasDrops": true
-    },
-    {
-      "loginName": "anya_io",
-      "hasDrops": true
-    },
-    {
-      "loginName": "princessdgaf",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mertkaykay",
-      "hasDrops": true
-    },
-    {
-      "loginName": "trilliamzz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "timikinz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "conter6",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mentaaix",
-      "hasDrops": true
-    },
-    {
-      "loginName": "derpydo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gwenedocsil",
-      "hasDrops": true
-    },
-    {
-      "loginName": "latrish_reloaded",
-      "hasDrops": true
-    },
-    {
-      "loginName": "karis26",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ameliemunic",
-      "hasDrops": true
-    },
-    {
-      "loginName": "notactuallymaxofficial",
-      "hasDrops": true
-    },
-    {
-      "loginName": "newbcorleone",
-      "hasDrops": true
-    },
-    {
-      "loginName": "shadowwatchman",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nabaro",
-      "hasDrops": true
-    },
-    {
-      "loginName": "drseasnake",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zakzakgoplay",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sassyphras",
-      "hasDrops": true
-    },
-    {
-      "loginName": "sedmaya_",
-      "hasDrops": true
-    },
-    {
-      "loginName": "prostonastyaa",
-      "hasDrops": true
-    },
-    {
-      "loginName": "c4oure",
-      "hasDrops": true
-    },
-    {
-      "loginName": "hk_freshikki",
-      "hasDrops": true
-    },
-    {
-      "loginName": "blackice_ru",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ondream",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mguzmangm",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thespookycrew",
-      "hasDrops": true
-    },
-    {
-      "loginName": "wildrage215",
-      "hasDrops": true
-    },
-    {
-      "loginName": "koffeinflash",
-      "hasDrops": true
-    },
-    {
-      "loginName": "happydog1968",
-      "hasDrops": true
-    },
-    {
-      "loginName": "dragonheart___",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lidsvids",
-      "hasDrops": true
-    },
-    {
-      "loginName": "naefaren_twitch",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mimikasuo",
-      "hasDrops": true
-    },
-    {
-      "loginName": "denoied",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zackjm14",
-      "hasDrops": true
-    },
-    {
-      "loginName": "theglitchguy_107",
-      "hasDrops": true
-    },
-    {
-      "loginName": "a1exxx779",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mr_mangese",
-      "hasDrops": true
-    },
-    {
-      "loginName": "froguyflyin",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jo3star",
-      "hasDrops": true
-    },
-    {
-      "loginName": "canalcoisasdegame",
-      "hasDrops": true
-    },
-    {
-      "loginName": "leshaviola",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kailadia",
-      "hasDrops": true
-    },
-    {
-      "loginName": "desambacancao",
-      "hasDrops": true
-    },
-    {
-      "loginName": "orel_57",
-      "hasDrops": true
-    },
-    {
-      "loginName": "chobotar",
-      "hasDrops": true
-    },
-    {
-      "loginName": "loremasternojah",
-      "hasDrops": true
-    },
-    {
-      "loginName": "grizzleburrgaming",
-      "hasDrops": true
-    },
-    {
-      "loginName": "raiosrogue",
-      "hasDrops": true
-    },
-    {
-      "loginName": "lordofpatriarchy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "gorapha",
-      "hasDrops": true
-    },
-    {
-      "loginName": "rec1usee",
-      "hasDrops": true
-    },
-    {
-      "loginName": "marc_le_chat",
-      "hasDrops": true
-    },
-    {
-      "loginName": "histerlia",
-      "hasDrops": true
-    },
-    {
-      "loginName": "nobi_life",
-      "hasDrops": true
-    },
-    {
-      "loginName": "miszkartaichou",
-      "hasDrops": true
-    },
-    {
-      "loginName": "pippogaming7",
-      "hasDrops": true
-    },
-    {
-      "loginName": "criticavideojuegos",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zdzichowdwoch",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jawnyonkus",
-      "hasDrops": true
-    },
-    {
-      "loginName": "justsayomer",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vonbuttpants",
-      "hasDrops": true
-    },
-    {
-      "loginName": "shinyredaviators",
-      "hasDrops": true
-    },
-    {
-      "loginName": "smashthatapex",
-      "hasDrops": true
-    },
-    {
-      "loginName": "guillermolgr",
-      "hasDrops": true
-    },
-    {
-      "loginName": "artemfc",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mohabo120",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mulanguinho2",
-      "hasDrops": true
-    },
-    {
-      "loginName": "stadlerrobertmatyas",
-      "hasDrops": true
-    },
-    {
-      "loginName": "theedog1der",
-      "hasDrops": true
-    },
-    {
-      "loginName": "cranberry_zero",
-      "hasDrops": true
-    },
-    {
-      "loginName": "curryfanboy26",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jack_lenix",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tropicdr3am",
-      "hasDrops": true
-    },
-    {
-      "loginName": "replayna",
-      "hasDrops": true
-    },
-    {
-      "loginName": "monkeybutt6099",
-      "hasDrops": true
-    },
-    {
-      "loginName": "oztaahh",
-      "hasDrops": true
-    },
-    {
-      "loginName": "palmgrovesoftware",
-      "hasDrops": true
-    },
-    {
-      "loginName": "rookiiieeee",
-      "hasDrops": true
-    },
-    {
-      "loginName": "callmearmin",
-      "hasDrops": true
-    },
-    {
-      "loginName": "m4nog",
-      "hasDrops": true
-    },
-    {
-      "loginName": "henry81earthling",
-      "hasDrops": true
-    },
-    {
-      "loginName": "owszeem",
-      "hasDrops": true
-    },
-    {
-      "loginName": "danieldrops1pl",
-      "hasDrops": true
-    },
-    {
-      "loginName": "whyguy302",
-      "hasDrops": true
-    },
-    {
-      "loginName": "azombieday12345",
-      "hasDrops": true
-    },
-    {
-      "loginName": "jalop15",
-      "hasDrops": true
-    },
-    {
-      "loginName": "eg0ruska",
-      "hasDrops": true
-    },
-    {
-      "loginName": "charlsedickinss",
-      "hasDrops": true
-    },
-    {
-      "loginName": "serjayr",
-      "hasDrops": true
-    },
-    {
-      "loginName": "kolevstefan",
-      "hasDrops": true
-    },
-    {
-      "loginName": "soul_engine",
-      "hasDrops": true
-    },
-    {
-      "loginName": "blyri",
-      "hasDrops": true
-    },
-    {
-      "loginName": "uro666",
-      "hasDrops": true
-    },
-    {
-      "loginName": "upsetgamertri45",
-      "hasDrops": true
-    },
-    {
-      "loginName": "snug_d0g",
-      "hasDrops": true
-    }
+  "Last Day On Earth: Survival",
+  [
+    [
+      {
+        "userId": "43308101",
+        "userName": "TheRukus",
+        "title": "[Drops On] Good Vibes! #BlackLivesMatter",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_therukus-{width}x{height}.jpg",
+        "viewer_count": 345
+      }
+    ],
+    [
+      {
+        "userId": "204719787",
+        "userName": "BenTheBrute",
+        "title": "LDOE [Drops ON] Friday What!!!!! ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_benthebrute-{width}x{height}.jpg",
+        "viewer_count": 150
+      }
+    ],
+    [
+      {
+        "userId": "134442251",
+        "userName": "Molishii",
+        "title": "Buen Viernes para todos!! | ROAD 7K !welcome !redes !clip !pc !f ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_molishii-{width}x{height}.jpg",
+        "viewer_count": 43
+      }
+    ],
+    [
+      {
+        "userId": "511417993",
+        "userName": "pandragyt",
+        "title": "(DROPS ON) Last day on Earth #50 Stream BR Segundo Teaser a att no Singleplayer",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pandragyt-{width}x{height}.jpg",
+        "viewer_count": 89
+      }
+    ]
   ],
-  "Minion Masters": [
-    {
-      "loginName": "sinobii",
-      "hasDrops": true
-    },
-    {
-      "loginName": "expertares",
-      "hasDrops": true
-    },
-    {
-      "loginName": "equoxdragon",
-      "hasDrops": true
-    },
-    {
-      "loginName": "hotair10",
-      "hasDrops": true
-    },
-    {
-      "loginName": "celeboran",
-      "hasDrops": true
-    },
-    {
-      "loginName": "skunkeyyy",
-      "hasDrops": true
-    },
-    {
-      "loginName": "posmedleyttv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "arjetlam123",
-      "hasDrops": true
-    },
-    {
-      "loginName": "can_lem0n",
-      "hasDrops": true
-    },
-    {
-      "loginName": "elimiotis",
-      "hasDrops": true
-    },
-    {
-      "loginName": "babylano",
-      "hasDrops": true
-    },
-    {
-      "loginName": "germangeamer",
-      "hasDrops": true
-    },
-    {
-      "loginName": "seferon84",
-      "hasDrops": true
-    },
-    {
-      "loginName": "matthewlcnp",
-      "hasDrops": true
-    },
-    {
-      "loginName": "oberfranke1983",
-      "hasDrops": true
-    },
-    {
-      "loginName": "firefalk76tv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "shadedthefaded",
-      "hasDrops": true
-    },
-    {
-      "loginName": "mancosenapuros",
-      "hasDrops": true
-    },
-    {
-      "loginName": "h4rdcorepl",
-      "hasDrops": true
-    },
-    {
-      "loginName": "9xonnep",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zailor01",
-      "hasDrops": true
-    }
+  "The Witcher 3: Wild Hunt",
+  [
+    [],
+    [
+      {
+        "userId": "103862475",
+        "userName": "Ciroenchen",
+        "title": "Chilli milli mit Geralt ♥ | !discord !bsg",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ciroenchen-{width}x{height}.jpg",
+        "viewer_count": 41
+      }
+    ],
+    [
+      {
+        "userId": "158439553",
+        "userName": "Aryssa614",
+        "title": "There's an 80% chance you'll enter this stream at a wrong time",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aryssa614-{width}x{height}.jpg",
+        "viewer_count": 33
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "93195567",
+        "userName": "PrincessDgaf",
+        "title": "[ENG] Bacon Bacon Bacon Bacon Bacon <3",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_princessdgaf-{width}x{height}.jpg",
+        "viewer_count": 30
+      }
+    ],
+    [
+      {
+        "userId": "236553982",
+        "userName": "mertkaykay",
+        "title": "Novigrad, Triss, and awkward post-breakup vibes | The Witcher 3 100% Trophies Run [100%][Trophy Hunting][Death March] ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mertkaykay-{width}x{height}.jpg",
+        "viewer_count": 17
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "43131375",
+        "userName": "Mentaaix",
+        "title": "Reprise du marathon sans limite! Fin de soirée sur The Witcher 3, découverte totale du jeu.. no spoil merci :D",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mentaaix-{width}x{height}.jpg",
+        "viewer_count": 13
+      }
+    ],
+    [
+      {
+        "userId": "102182946",
+        "userName": "AmelieMunic",
+        "title": "Mein Leben ist so HART !musikvideo",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ameliemunic-{width}x{height}.jpg",
+        "viewer_count": 6
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "197851790",
+        "userName": "DerpyDo",
+        "title": "Witcher 3: Wild Derp ~ P1 ~ Friday Stream + Stream Raiders (Rewarding Viewers!)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_derpydo-{width}x{height}.jpg",
+        "viewer_count": 9
+      }
+    ],
+    [
+      {
+        "userId": "196895057",
+        "userName": "ConTeR6",
+        "title": "[PT-BR] [+18] uma live sem título, sugestões open  ❗comandos",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_conter6-{width}x{height}.jpg",
+        "viewer_count": 8
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "426437320",
+        "userName": "Latrish_Reloaded",
+        "title": "[TW3] Día 1: Al brujo le gusta el Orujo. KBSA LOMBARDA",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_latrish_reloaded-{width}x{height}.jpg",
+        "viewer_count": 11
+      }
+    ],
+    [
+      {
+        "userId": "437798790",
+        "userName": "notactuallymaxofficial",
+        "title": "Chill stream",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notactuallymaxofficial-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [
+      {
+        "userId": "439348636",
+        "userName": "DrSeaSnake",
+        "title": "Hearts of Stone expansion!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drseasnake-{width}x{height}.jpg",
+        "viewer_count": 7
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "112157458",
+        "userName": "shadowwatchman",
+        "title": "A saga do bruxo continua",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadowwatchman-{width}x{height}.jpg",
+        "viewer_count": 6
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "125851408",
+        "userName": "prostonastyaa",
+        "title": "бум |теперь есть смайлики BetterTTV| ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prostonastyaa-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "106213397",
+        "userName": "c4oure",
+        "title": "(ﾉ≧∀≦)ﾉ {Deathmarch Difficulty. Again!}",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_c4oure-{width}x{height}.jpg",
+        "viewer_count": 6
+      }
+    ],
+    [
+      {
+        "userId": "546759408",
+        "userName": "HK_Freshikki",
+        "title": "Ikki In The Bankai! |Chill Vibes|!giveaway",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hk_freshikki-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "543216868",
+        "userName": "DragonHeart___",
+        "title": "Beer And DeathMarch Tales",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dragonheart___-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "105809665",
+        "userName": "mguzmangm",
+        "title": "(+18) The Witcher 3  parte 4",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mguzmangm-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "504990606",
+        "userName": "TheSpookyCrew",
+        "title": "Witchering while under the weather. Blind Witcher 3!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thespookycrew-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "176803761",
+        "userName": "WildRage215",
+        "title": "Płotka cwałuje",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildrage215-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "175802547",
+        "userName": "HappyDog1968",
+        "title": "Happydog",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_happydog1968-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "58314326",
+        "userName": "zerknoff",
+        "title": "viçır",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zerknoff-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "248729613",
+        "userName": "LidsVids",
+        "title": "🌆WHITE WOLF PROWLING THE STREETS OF NOVIGRAD🐺WITCHER 3 BLIND🐺!witcher1 !witcher2 !nospoilers !nsfw",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lidsvids-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "73330993",
+        "userName": "mimikasuo",
+        "title": "когда-нибудь я его пройду #3",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mimikasuo-{width}x{height}.jpg",
+        "viewer_count": 13
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "147166486",
+        "userName": "zackjm14",
+        "title": "Combat/Sign build, Death March",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zackjm14-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "43545209",
+        "userName": "a1exxx779",
+        "title": "[EN/RO] Witcher 3 - GOTY Edition - part 12",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_a1exxx779-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "79701961",
+        "userName": "Mr_Mangese",
+        "title": "the Peller",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mr_mangese-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "152644305",
+        "userName": "CanalCoisasdeGame",
+        "title": "ZERANDO THE WITCHER 3!! #RUMOAOS100SEGUIDORES",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_canalcoisasdegame-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "257386202",
+        "userName": "leshaviola",
+        "title": "The Witcher 3: Wild Hunt",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leshaviola-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "434367656",
+        "userName": "kailadia",
+        "title": "The Witcher 3 - Ahhh Bruxão !!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kailadia-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "152709752",
+        "userName": "orel_57",
+        "title": "Продолжаем.Трисс",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_orel_57-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "422086326",
+        "userName": "replayna",
+        "title": "The Witcher 3 - It's Go Time Now",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_replayna-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "130801258",
+        "userName": "chobotar",
+        "title": "Witcher 3 (day 1)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chobotar-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "44157660",
+        "userName": "LoremasterNojah",
+        "title": "Witcher 3",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_loremasternojah-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [
+      {
+        "userId": "28624941",
+        "userName": "GrizzleBurrGaming",
+        "title": "The Swamps of Vizima  ~The Comfy Stream~ (The Witcher 3 Part 4)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grizzleburrgaming-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "137051726",
+        "userName": "raiosrogue",
+        "title": "The Witcher 3 Wild Hunt Walkthrough Gameplay part 32: The Warble Of A Smitten Knight",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raiosrogue-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "99957442",
+        "userName": "Owszeem",
+        "title": "gumiaczki",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_owszeem-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "72083744",
+        "userName": "GoRapha",
+        "title": "Witcher Time! Exploring Velen and Quests!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gorapha-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "272882740",
+        "userName": "Rec1usee",
+        "title": "Проходим ведьмака!!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rec1usee-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "85078707",
+        "userName": "ZdzichowDwoch",
+        "title": "Gram sobie w Wieśka 3 pierwszy raz :D",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zdzichowdwoch-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "506802910",
+        "userName": "PippoGaming7",
+        "title": "Fortnite Battaglia Reale",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pippogaming7-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "431269025",
+        "userName": "criticavideojuegos",
+        "title": "The Witcher 3 [GOTY] #51 Completando Mapeo  [126h] [SERGI]",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_criticavideojuegos-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "514279983",
+        "userName": "histerlia",
+        "title": "The Witcher 3: Wild Hunt #7 - Geraldo e Triss",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_histerlia-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "255766577",
+        "userName": "jawnyonkus",
+        "title": "Witcher 3 Blind playthrough",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawnyonkus-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "62922248",
+        "userName": "Justsayomer",
+        "title": "keira ile bataklığa doğru :)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_justsayomer-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "517873434",
+        "userName": "VonButtpants",
+        "title": "Betty Stream! Witcher 3 on Switch! First play, newbie, don't care, let's rock!  !soundfx !merch",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vonbuttpants-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "53145668",
+        "userName": "smashthatapex",
+        "title": "Being a Witchy Boi",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_smashthatapex-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "73651932",
+        "userName": "ArtemFC",
+        "title": "Играем,общаемся.",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_artemfc-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "401531805",
+        "userName": "StadlerRobertMatyas",
+        "title": "My second playthrough of the Witcher 3!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stadlerrobertmatyas-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "570213793",
+        "userName": "theedog1der",
+        "title": "You Gotta love some Witcher 3 Cause i do🔥🥵",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_theedog1der-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "89110486",
+        "userName": "TrOpicDr3am",
+        "title": "Takin' bubble baths",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tropicdr3am-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "557469523",
+        "userName": "monkeybutt6099",
+        "title": "Witcher 3 farming to level 34",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_monkeybutt6099-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "57026609",
+        "userName": "oztaahh",
+        "title": "Возьмак New Game +",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_oztaahh-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "userId": "51263690",
+        "userName": "m4nog",
+        "title": "He 's a friend of humanity",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_m4nog-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "149851733",
+        "userName": "w1nter9542",
+        "title": "hunting witches idk i never played the game",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_w1nter9542-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "62484080",
+        "userName": "Whyguy302",
+        "title": "just games plz no DMCA",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whyguy302-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "93388785",
+        "userName": "Azombieday12345",
+        "title": "Witcher 3",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azombieday12345-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "505660448",
+        "userName": "jalop15",
+        "title": "Witcher",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jalop15-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "158704406",
+        "userName": "EG0RUSKA",
+        "title": "The Witcher 3 💀 Ведьмак 3 / Кровь и вино",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eg0ruska-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "104408087",
+        "userName": "serjayr",
+        "title": "starting the dlcs today, come chill | !youtube in chat",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_serjayr-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "43278533",
+        "userName": "Blyri",
+        "title": "[PC]  Witcher TIME!!!  UwU | Come Chat! | Road to 200 Followers",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blyri-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "44607394",
+        "userName": "Uro666",
+        "title": "  //  The Wild Hunt Continues!  //  ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uro666-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "445275493",
+        "userName": "upsetgamertri45",
+        "title": "trash brigade",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_upsetgamertri45-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ]
   ],
-  "Eternal": [
-    {
-      "loginName": "cabfederal",
-      "hasDrops": true
-    },
-    {
-      "loginName": "bettorup",
-      "hasDrops": true
-    },
-    {
-      "loginName": "whyisalty",
-      "hasDrops": true
-    }
+  "Minion Masters",
+  [
+    [
+      {
+        "userId": "137394695",
+        "userName": "sinobii",
+        "title": "[TEAM MANA FRENZY] a New Season is upon us! [MM Partner]",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sinobii-{width}x{height}.jpg",
+        "viewer_count": 116
+      }
+    ],
+    [
+      {
+        "userId": "228067576",
+        "userName": "ExpertAres",
+        "title": "[MM Partner] Season Finish: Leaderboard #9 Premade Team | 10 Dwarf Packs Given Away",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_expertares-{width}x{height}.jpg",
+        "viewer_count": 131
+      }
+    ],
+    [
+      {
+        "userId": "39776312",
+        "userName": "EQUOXDragon",
+        "title": "[MM PARTNER] [GER / ENG] The New Season is here! Lets Check out the NIGHTMARE DLC !free #bestecommunityderwelt #supergeil",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_equoxdragon-{width}x{height}.jpg",
+        "viewer_count": 25
+      }
+    ],
+    [
+      {
+        "userId": "29451742",
+        "userName": "Hotair10",
+        "title": "[MM Partner] Mayhem! So I heard you like winners ⚔️ !Battle 🎁 !Freecard",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hotair10-{width}x{height}.jpg",
+        "viewer_count": 25
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "55965127",
+        "userName": "PoSmedleyTTV",
+        "title": "Giveaways! Drops! Say the Seceret Word and win a Dwarf Pack! Discord! The music is ON!",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_posmedleyttv-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [
+      {
+        "userId": "75185258",
+        "userName": "Arjetlam123",
+        "title": "The Deadly Duo, The Gruesome twosome. Playing some 2v2",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arjetlam123-{width}x{height}.jpg",
+        "viewer_count": 6
+      }
+    ],
+    [
+      {
+        "userId": "191321449",
+        "userName": "CAN_LEM0N",
+        "title": " Zuuu Wild🍋  !insta !youTube !donate !subscribe !earnings !pc !res #ad Creator Code: CanLemon",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_can_lem0n-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "83915113",
+        "userName": "Elimiotis",
+        "title": "BACK TO PRESSING !!! Drops enabled / Join Now",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elimiotis-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "54080490",
+        "userName": "ShadedTheFaded",
+        "title": "Faded Fridays - Undead Horde Grinding - DBD Later - !CrohnsDisease !Discord !StreamRaiders",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shadedthefaded-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "101962613",
+        "userName": "Oberfranke1983",
+        "title": "Xbox One Deutsch/German",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_oberfranke1983-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [
+      {
+        "userId": "188434690",
+        "userName": "firefalk76tv",
+        "title": " [GER- Firefalk76Tv] -  ** The WAY to 51 FOLLOWERS **",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firefalk76tv-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "97170871",
+        "userName": "h4rdcorePL",
+        "title": "HF&GL    [ENG/POL]",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_h4rdcorepl-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "26426414",
+        "userName": "zailor01",
+        "title": "Mastering Minion Masters ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zailor01-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ]
   ],
-  "Infestation: The New Z": [
-    {
-      "loginName": "nandondn",
-      "hasDrops": true
-    },
-    {
-      "loginName": "azetavz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vitalz",
-      "hasDrops": true
-    },
-    {
-      "loginName": "saaaaanek",
-      "hasDrops": true
-    },
-    {
-      "loginName": "desqxd",
-      "hasDrops": true
-    },
-    {
-      "loginName": "ufomike",
-      "hasDrops": true
-    },
-    {
-      "loginName": "drikinh402",
-      "hasDrops": true
-    },
-    {
-      "loginName": "thgrexpe1ta",
-      "hasDrops": true
-    },
-    {
-      "loginName": "tr3nety",
-      "hasDrops": true
-    },
-    {
-      "loginName": "triidente",
-      "hasDrops": true
-    },
-    {
-      "loginName": "romeoiidie",
-      "hasDrops": true
-    },
-    {
-      "loginName": "vlasik_rus",
-      "hasDrops": true
-    },
-    {
-      "loginName": "xmarcotv",
-      "hasDrops": true
-    },
-    {
-      "loginName": "prazermath",
-      "hasDrops": true
-    },
-    {
-      "loginName": "z0nta",
-      "hasDrops": true
-    },
-    {
-      "loginName": "zkleytonz",
-      "hasDrops": true
-    }
+  "Eternal",
+  [
+    [
+      {
+        "userId": "29060817",
+        "userName": "cabfederal",
+        "title": "!Drops Expedition ECQ Bad Dek",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cabfederal-{width}x{height}.jpg",
+        "viewer_count": 152
+      }
+    ],
+    [
+      {
+        "userId": "49649891",
+        "userName": "bettorup",
+        "title": "OKAY FINE I'LL DRAFT",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bettorup-{width}x{height}.jpg",
+        "viewer_count": 68
+      }
+    ],
+    [
+      {
+        "userId": "401646774",
+        "userName": "WhyISalty",
+        "title": "Salty Brew",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whyisalty-{width}x{height}.jpg",
+        "viewer_count": 34
+      }
+    ]
+  ],
+  "Infestation: The New Z",
+  [
+    [
+      {
+        "userId": "36878010",
+        "userName": "nandondn",
+        "title": "DROP ON | Farm | Pvp | Competitive | 14hrs | Novidades?",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nandondn-{width}x{height}.jpg",
+        "viewer_count": 56
+      }
+    ],
+    [
+      {
+        "userId": "59307011",
+        "userName": "azetavz",
+        "title": "!roleta De bobeira! Chega mais !",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_azetavz-{width}x{height}.jpg",
+        "viewer_count": 55
+      }
+    ],
+    [
+      {
+        "userId": "157010387",
+        "userName": "vitalz",
+        "title": "[SURVIVAL MODE]  PvP/Farm/Drops",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vitalz-{width}x{height}.jpg",
+        "viewer_count": 23
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "userId": "52903768",
+        "userName": "ufomike",
+        "title": "[UFO] Gaming Community & Recruiting  !sub !follow !giveaway !discord",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ufomike-{width}x{height}.jpg",
+        "viewer_count": 13
+      }
+    ],
+    [
+      {
+        "userId": "212948324",
+        "userName": "drikinh402",
+        "title": "190  <  SEASON PASS !190COINS !LOJA !ROLETA",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drikinh402-{width}x{height}.jpg",
+        "viewer_count": 16
+      }
+    ],
+    [
+      {
+        "userId": "65875145",
+        "userName": "tr3nety",
+        "title": "chilling and killing time  (DROP) (ISPClan) (GIVEAWAY) (PvP)",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tr3nety-{width}x{height}.jpg",
+        "viewer_count": 4
+      }
+    ],
+    [
+      {
+        "userId": "149637359",
+        "userName": "triidente",
+        "title": "infestation  só pvp ----Black Company",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_triidente-{width}x{height}.jpg",
+        "viewer_count": 5
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "453415863",
+        "userName": "RomeoIIDie",
+        "title": "// GER // 18+ // PVE Season 05 - LVL 48-50 // Drops active // #RandomMusic //",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_romeoiidie-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [
+      {
+        "userId": "147119457",
+        "userName": "vlasik_rus",
+        "title": "Competitive, Шуршим по тихой грусти - Rus/Eng, ",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vlasik_rus-{width}x{height}.jpg",
+        "viewer_count": 2
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "264567304",
+        "userName": "xmarcotv",
+        "title": "( + 18/BR  SO DE BOA",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xmarcotv-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ],
+    [
+      {
+        "userId": "425260995",
+        "userName": "Prazermath",
+        "title": "DROPS ON✔️CLAN BC✔️ CP✔️CHAT✔️",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prazermath-{width}x{height}.jpg",
+        "viewer_count": 1
+      }
+    ],
+    [],
+    [
+      {
+        "userId": "555286363",
+        "userName": "zkleytonz",
+        "title": "INFESTATION: THE NEW Z - DROPS ON - BEBENDO UMA",
+        "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zkleytonz-{width}x{height}.jpg",
+        "viewer_count": 3
+      }
+    ]
   ]
-}
+]
